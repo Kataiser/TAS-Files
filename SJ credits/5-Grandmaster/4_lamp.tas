@@ -1,0 +1,49 @@
+console load StrawberryJam2021/0-Lobbies/5-Grandmaster 1064 1664
+   1
+  36
+
+#
+  15
+  60,L
+  45,L,J
+#
+  15,L,K
+  15,L,U,X
+  25,L
+  45,L,J
+  15,L,K
+  15,L,U,X
+  28,L
+  30
+   5,R,J
+  10,J
+  15,L,X
+   2,L
+  27
+  15,J
+  15,R,X
+  37
+  15,J
+  15,L,X
+  10
+   5,R
+ 120,U
+   5
+   5,L
+  30,L,J
+  12,L,D,X
+   8,R,J
+  15,R,D,X
+   2,R
+   7,R,J
+  15,R,D,X
+   5,R
+   6,R,J
+  15,R,D,X
+  20,R
+  10,R,J
+  15,R,U,X
+#
+ 105,F,35
+  15,D,X
+#

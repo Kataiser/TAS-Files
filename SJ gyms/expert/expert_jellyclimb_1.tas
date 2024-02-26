@@ -1,0 +1,19 @@
+console load StrawberryJam2021/0-Gyms/4-Expert 172 2456
+  37
+
+  20
+console start_rec expert_jellyclimb_1
+  30
+
+  12,J
+  31,J,G
+   8,D
+  10,R,G
+  42,R,J,G
+   8,D
+  10,R,G
+  42,R,J,G
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

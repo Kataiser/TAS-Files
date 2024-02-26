@@ -1,0 +1,18 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster -672 1200
+  37
+
+  20
+console start_rec gm_cornerkick_4
+  30
+
+  10,R,J
+   3,J
+   9,K
+  20,R,K
+  18
+  30
+Set,Player.Position.Y,1240
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

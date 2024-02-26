@@ -1,0 +1,19 @@
+console load StrawberryJam2021/0-Gyms/4-Expert 640 2888
+  37
+
+  20
+console start_rec expert_jellysmuggle_2
+  30
+
+  15,J
+   5,R,X
+  25,R,G
+   9,L,G
+  50,L,U,G
+  20,R,U,G
+  11,R,D,X,G
+ 145,R,U,J,G
+
+#Set,Player.Speed,X,100
+#  30
+console stop_rec

@@ -1,0 +1,16 @@
+console load StrawberryJam2021/0-Gyms/4-Expert 432 1912
+  37
+
+  20
+console start_rec expert_cornerboost_3
+  30
+
+  18,J
+  11,R,U,X
+  52,R,J,G
+#  24,R,X
+#  19
+
+#Set,Player.Speed,X,100
+#  30
+console stop_rec

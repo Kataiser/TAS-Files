@@ -1,0 +1,19 @@
+console load StrawberryJam2021/0-Gyms/3-Advanced 392 2032
+  37
+
+  20
+console start_rec advanced_midairsuper_2
+  30
+
+   9,J
+  13,R,X
+  43,R,J
+  13,R,X
+  42,R,J
+  15,R,U,X
+  23,R
+   8
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

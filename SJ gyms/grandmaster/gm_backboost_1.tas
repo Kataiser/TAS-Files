@@ -1,0 +1,31 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster 320 2736
+  37
+
+  20
+console start_rec gm_backboost_1
+  30
+
+  41,R,J
+  12,R,X
+  40,R,U,G
+   5,L
+  16,R
+  11
+  30
+Set,Player.Position,320,2736
+Set,RespawningJellyfish.Position,424,2705
+Set,RespawningJellyfish.Speed,0,0
+  30
+console time 0.5
+  84,R,J
+  19,R,X
+  80,R,U,G
+  10,L
+  28,R
+  23
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec
+console time 1
+#Set,Player.Position,

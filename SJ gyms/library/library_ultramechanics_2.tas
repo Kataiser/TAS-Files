@@ -1,0 +1,17 @@
+console load StrawberryJam2021/0-Gyms/6-Library 2816 2952
+  37
+
+  20
+console start_rec library_ultramechanics_2
+  30
+
+  18,R,X
+  15,R,D,C
+   7,R
+  41,R,J
+  15,R,U,X
+  26
+
+#Set,Player.Position.X,2760
+  30
+console stop_rec

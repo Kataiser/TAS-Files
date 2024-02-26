@@ -1,0 +1,22 @@
+console load StrawberryJam2021/0-Gyms/2-Intermediate -1660 664
+  37
+
+  20
+console start_rec intermediate_wallbounce_3_1
+  30
+
+  12,J
+  14,U,X
+  36,L,J
+  22,L,U,G
+  30,L,G
+Set,Player.Position,-1596,664
+Set,Player.Facing,1
+  30
+  12,J
+  14,U,X
+  30,R,J
+
+#Set,Player.Speed,X,100
+  30,J
+console stop_rec

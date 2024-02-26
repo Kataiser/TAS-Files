@@ -1,0 +1,17 @@
+console load StrawberryJam2021/0-Gyms/4-Expert 2208 1104
+  37
+
+  20
+console start_rec expert_dreamsuper_1
+  30
+
+  29,R,U,X
+   4,R,C
+  60,R,J
+#  15,R,X
+#  13,R
+#  17
+
+#Set,Player.Speed,X,100
+#  30
+console stop_rec

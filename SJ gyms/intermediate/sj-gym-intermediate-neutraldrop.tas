@@ -1,0 +1,53 @@
+console load StrawberryJam2021/0-Gyms/2-Intermediate 168 1504
+  37
+
+  20
+console start_rec intermediate_neutraldrop_1 
+  30
+  15,G
+  11,R,J,G
+   6,R,D,G
+  10,R,D
+   6,R
+Set,Player.Speed,X,100
+  30
+Set,Player.Position.Y,1540
+  42
+console stop_rec
+   1
+
+console load StrawberryJam2021/0-Gyms/2-Intermediate 400 1504
+  37
+  20
+console start_rec intermediate_neutraldrop_2 
+  30
+  15,G
+   2,R
+  23,R,J,G
+  10,R,D,J
+   6,R
+Set,Player.Speed,X,100
+  30
+Set,Player.Position,470,1530
+  34
+console stop_rec
+   1
+
+console load StrawberryJam2021/0-Gyms/2-Intermediate 632 1504
+  37
+  20
+console start_rec intermediate_neutraldrop_3 
+  30
+  15,G
+  21,R,G
+  26,G
+   4,R,G
+  22,R,J,G
+   1,R,D,J
+  12,R,J
+  13,R
+  12
+Set,Player.Speed,X,100
+  30
+console stop_rec
+   1

@@ -1,0 +1,16 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster -1655 760
+  37
+
+  20
+console start_rec gm_wbleniency_3
+  30
+
+  20,J
+  15,U,X
+   4,L
+  60,J
+Set,Player.Position,-1700,680
+
+#Set,Player.Speed,X,100
+  21
+console stop_rec

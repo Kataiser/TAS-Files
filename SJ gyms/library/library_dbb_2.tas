@@ -1,0 +1,14 @@
+console load StrawberryJam2021/0-Gyms/6-Library 2644 -744
+  37
+
+  20
+console start_rec library_dbb_2
+  30
+
+  38,R,G
+  10,U,X
+  51,J
+
+#Set,Player.Position.Y,800
+  30
+console stop_rec

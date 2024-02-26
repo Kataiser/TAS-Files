@@ -1,0 +1,23 @@
+console load StrawberryJam2021/0-Gyms/6-Library 984 2248
+  37
+
+  20
+console start_rec library_fallingblocks_1
+  30
+
+  18,J
+  15,U,X
+   5
+  12,R
+   5,L
+   5,L,J
+   5,L
+  11,R,D,X
+  36,R,J
+  15,R,U,X
+   6,R
+  16
+
+#Set,Player.Position.Y,1510
+  30
+console stop_rec

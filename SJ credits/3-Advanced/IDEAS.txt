@@ -1,0 +1,25 @@
+(DONE) hsreturn: wander to right of heart gate, nearly go right, then return left and jump down
+(DONE) hollows: left to right in hollows area, jumping around on vines, end at end of tunnel
+(DONE) clouds: spawn at balloons, go right, then counterclockwise looking at flags
+(DONE) sandstorm: start in storm, walk pause dash pause, then go wash off in pools
+(DONE) picnic: ascend clouds from left with as few dashes as possible, sit at picnic
+(cut) watertunnel: lower tunnel, up to cave, look at drawing, walk right
+(DONE) trees: wander around in trees area, calmly
+(DONE) tower: ascend from the right clouds, look up at windows, go left and slide down
+
+SJ2021/Credits/3-Advanced/
+
+order:
+1_hsreturn
+3_sandstorm
+4_tower
+5_trees
+6_hollows
+7_clouds
+8_picnic
+
+old
+heartgate: wander to right of heart gate, then return and jump down
+hollows: clockwise around hollows area, jumping around on vines
+sandstorm: spawn above sandstorm, dash into it a few times, leave
+clouds: spawn at balloons, go right, then counterclockwise looking at flags

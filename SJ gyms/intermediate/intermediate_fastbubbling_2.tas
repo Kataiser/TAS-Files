@@ -1,0 +1,31 @@
+console load StrawberryJam2021/0-Gyms/2-Intermediate 688 416
+  37
+
+  20
+console start_rec intermediate_fastbubbling_2
+  30
+
+  15,R,X
+   2
+   9,R,U,X
+   2
+  11,R,X
+   2
+  11,R,X
+   2
+   9,R,U,X
+   2
+  11,R,X
+   2
+  18,R,D,X
+   2
+  11,R,X
+   2
+  11,R,X
+   2
+  35,R,X
+  15,D,C
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

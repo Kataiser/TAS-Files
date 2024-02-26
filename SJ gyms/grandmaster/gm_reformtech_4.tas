@@ -1,0 +1,25 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster 1632 4112
+  37
+
+   1,L
+   1,R
+   1
+   1,R
+  16
+  20
+console start_rec gm_reformtech_4
+  30
+
+   5,R,J
+  10,R
+  40
+   3
+  12,J
+  12,R,J
+  15,R,X
+  15,R
+  14
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

@@ -1,0 +1,17 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster 212 2368
+  37
+
+  20
+console start_rec gm_coretech_1
+  30
+
+  18,U,X
+  43,L,G
+   4,R,Z
+  60,R,J
+  15,R,X
+  13
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

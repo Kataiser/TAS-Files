@@ -1,0 +1,22 @@
+console load StrawberryJam2021/0-Gyms/6-Library 2480 3440
+  37
+
+  20
+console start_rec library_water_1
+  30
+
+  18,R,X
+  10,R
+  15,R,X
+  10,R,U
+  20,L,U
+  15,L,U,X
+   4,L
+  15,L,U,C
+   4,L
+  15,R,U,X
+  13
+
+#Set,Player.Position.X,2760
+  30
+console stop_rec

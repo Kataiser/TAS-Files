@@ -1,0 +1,18 @@
+console load StrawberryJam2021/0-Gyms/6-Library 784 3544
+  37
+
+  20
+console start_rec library_inputbuffer_2
+  30
+
+  15,R,U,X
+   7,R
+  32
+  12,R,X
+  10,R,J,G
+   9,R
+   7
+
+#Set,Player.Position.Y,3580
+  30
+console stop_rec

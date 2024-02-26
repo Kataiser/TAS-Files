@@ -1,0 +1,17 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster 244 1432
+  37
+
+  20
+console start_rec gm_crouchdash_3
+  30
+
+  30,R,U,G
+  20,J,G
+  15,R,Z
+  22
+  30
+Set,Player.Position.Y,1340
+
+#Set,Player.Speed,X,100
+   3
+console stop_rec

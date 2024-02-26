@@ -1,0 +1,21 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster 360 3424
+  37
+
+  20
+console start_rec gm_feathertech_1
+  30
+
+  10,J
+  15,R,U,X
+   7,R
+  26
+  31,U,X
+  24,F,0
+  11,F,65
+  25,F,90
+  15,R
+   2,R,G
+
+#Set,Player.Speed,X,100
+  30,G
+console stop_rec

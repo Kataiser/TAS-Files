@@ -1,0 +1,19 @@
+console load StrawberryJam2021/0-Gyms/3-Advanced -96 2336
+  37
+
+  20
+console start_rec advanced_crouchjump_1
+  30
+
+  12,D
+  26,R,D,J
+  12,R,K
+  12,R,J
+   3,R,K
+  19,K
+  30
+Set,Player.Position.Y,2260
+
+#Set,Player.Speed,X,100
+   6
+console stop_rec

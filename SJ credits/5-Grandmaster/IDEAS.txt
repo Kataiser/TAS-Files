@@ -1,0 +1,25 @@
+1. (DONE) library: climb the library, dashless. under sl to above cotcs to above sl
+2. (cut) ultras: the funny tas ultra chain (unironically)
+3. (DONE) lamp: pushing one of the hanging lamps back and forth, or maybe multiple
+4. (DONE) pools: splashing around in the pools above fractured iridescence, right to left
+5. (cut) ss: crouching perfectly to an odd time signature next to ss
+6. (DONE) tables: going to every table in the top right area and crouching next to it a few times
+7. (cut) shortcut: taking the shortcut between 74 and cmb
+8. (cut) books: walking into the library and looking up at the books like she's reading the spines
+9. (DONE) hsreturn: returning from the hs entrance to the two statues above the gate 
+10. (cut) ultras: funny ultras but rta???
+11. (cut?) bench: return to spawn bench from left of tower
+12. (DONE) mountainview: top left
+13. (DONE) feathers: from cmb, take feathers down to tunnel
+
+SJ2021/Credits/5-Grandmaster/
+
+order:
+1_hsreturn
+2_pools
+3_library
+4_lamp
+5_feathers
+6_tables
+7_mountainview
+8_picnic

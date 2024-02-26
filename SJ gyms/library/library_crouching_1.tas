@@ -1,0 +1,17 @@
+console load StrawberryJam2021/0-Gyms/6-Library 240 864
+  37
+
+  20
+console start_rec library_crouching_1
+  30
+
+  10,R
+  15,R,D,X
+  14,R,D
+   5,R
+   6
+  30
+
+Set,Player.Position.Y,890
+  40
+console stop_rec

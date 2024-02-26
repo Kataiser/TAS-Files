@@ -1,0 +1,28 @@
+console load StrawberryJam2021/0-Gyms/6-Library 2716 560
+  37
+
+  20
+console start_rec library_dashattack_1
+  30
+
+   6,J
+   2
+  15,R,X
+   2,R
+   2,R,G
+  30,R,G
+Set,Player.Position.X,2810
+  63
+Set,Player.Position,2716,560
+  30
+   6,J
+   2
+  15,R,X
+   2,R
+  12,J
+  32
+  30
+
+Set,Player.Position.Y,590
+  21
+console stop_rec

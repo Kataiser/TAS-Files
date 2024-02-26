@@ -1,0 +1,15 @@
+console load StrawberryJam2021/0-Gyms/6-Library 980 4104
+  37
+
+  20
+console start_rec library_coyote_2_2
+  30
+
+  13,R,D,X
+  30,R,J
+  12
+  30
+
+Set,Player.Position,1200,4130
+  35
+console stop_rec

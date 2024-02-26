@@ -1,0 +1,18 @@
+console load StrawberryJam2021/0-Gyms/3-Advanced 32 1696
+  37
+
+  20
+console start_rec advanced_theoregrab_1
+  30,G
+
+  20,R,J,G
+   5,R
+  15,R,X
+  12,R,U,C
+  45,R,G
+   5,R
+   9
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

@@ -1,0 +1,18 @@
+console load StrawberryJam2021/0-Gyms/1-Beginner 992 1104
+  37
+
+  20
+console start_rec beginner_theobasics_4
+  30
+
+   6,R
+  20,R,G
+  19,R,J,G
+  37,R,G
+  24,G
+  30,L,G
+  30,G
+
+#Set,Player.Speed,X,100
+  30,G
+console stop_rec

@@ -1,0 +1,16 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster 672 3752
+  37
+
+  20
+console start_rec gm_spikejump_2
+  30
+
+  14,U,X
+  75,R,J
+  15,R,U,X
+  19,R
+   8
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

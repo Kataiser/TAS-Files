@@ -1,0 +1,37 @@
+console load StrawberryJam2021/0-Lobbies/5-Grandmaster 2265 -264
+   1
+  36
+
+  20
+#
+console start_rec credits_5_hsreturn
+ 120
+#
+  50,L
+  45,L,J
+   5
+   1,L
+ 202
+  20,L
+  20
+  41,R
+   6
+   1,R
+  30
+  10,L
+  13
+  22,L
+  15
+ 111,R
+  30
+#
+ 120,U
+console stop_rec
+#
+
+
+
+
+
+
+1000

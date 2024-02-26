@@ -1,0 +1,24 @@
+console load StrawberryJam2021/0-Gyms/6-Library 1242 1200
+  37
+
+  20
+console start_rec library_collisionleniency_3
+  30
+
+  20,J
+  16,L,K
+  12,K
+  30
+Set,Player.Position,1242,1200
+   1,R
+  29
+  15,J
+  15,K,G
+  15,J,G
+  12,K,G
+  19
+  30
+
+Set,Player.Position.X,1270
+  14
+console stop_rec

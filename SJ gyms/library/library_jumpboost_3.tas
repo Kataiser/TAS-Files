@@ -1,0 +1,20 @@
+console load StrawberryJam2021/0-Gyms/6-Library 3536 1000
+  37
+
+  20
+console start_rec library_jumpboost_3
+  30
+
+  16,R,X
+   5,R,J
+  15,R
+   3,R,J
+  16,R
+   2,R,J
+  15,R
+  35,R,J
+  12
+
+#Set,Player.Position.Y,1510
+  30
+console stop_rec

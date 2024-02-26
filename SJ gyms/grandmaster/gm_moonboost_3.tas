@@ -1,0 +1,21 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster 1240 3168
+  37
+
+  20
+console start_rec gm_moonboost_3
+  30
+
+  20,J
+  13,R,Z
+   2,R,J
+   3,R,J
+  15,R,D,X
+   3,R,D
+  41,R,J
+   1,J
+  15,R,U,X
+  23
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

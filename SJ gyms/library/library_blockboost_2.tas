@@ -1,0 +1,32 @@
+console load StrawberryJam2021/0-Gyms/6-Library 1088 1464
+  37
+
+  20
+console start_rec library_blockboost_2
+  30
+
+  19,R,J
+  10,J
+  11,U,X
+  67,J
+  30
+Set,Player.Position,1088,1464
+  30
+  18,R,J
+  12,R,X
+  45,R,J
+   4,R,G
+  30,R,G
+Set,Player.Position.X,1280
+  11
+Set,Player.Position,1088,1464
+  30
+  20,R,J
+  12,R,D,X
+  29,R,J
+   2,R,G
+  30,R,G
+
+Set,Player.Position,1280,1360
+  57
+console stop_rec

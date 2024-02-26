@@ -1,0 +1,23 @@
+console load StrawberryJam2021/0-Gyms/3-Advanced 608 512
+  37
+
+  20
+console start_rec advanced_reversetech_3
+  30
+
+  10,J
+   2
+  12,L,X
+  36,R,J
+  15,R,U,X
+  26,R
+   2
+  12,L,D,X
+  36,R,J
+  15,R,U,X
+  19,R
+   7
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

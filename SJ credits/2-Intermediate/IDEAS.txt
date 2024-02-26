@@ -1,0 +1,20 @@
+(DONE) tree: climb tree, starting above soup and going to both main top branches
+(DONE) ropes: slide down the ropes on the left
+(DONE) picnic: sit at picnic from credits monument
+(DONE) hsreturn: return from hs, fade after climb probably
+(DONE) elevator: start at top of elevator, walk right and up
+(DONE) mushrooms: msuhrroms fuinny
+(DONE) stones: Climbing up the stone wall one the right and jumping down into the mossy stones sub area
+(DONE) moisty: go clockwise around moisty starting with big boost right
+
+SJ2021/Credits/2-Intermediate/
+
+order:
+1_hsreturn
+2_moisty
+3_ropes
+4_stones
+5_mushrooms
+6_tree
+7_elevator
+8_picnic

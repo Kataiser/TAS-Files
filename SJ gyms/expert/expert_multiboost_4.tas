@@ -1,0 +1,18 @@
+console load StrawberryJam2021/0-Gyms/4-Expert 3136 680
+  37
+
+  20
+console start_rec expert_multiboost_4
+  30
+
+  12,R,D,X
+   5,R,J
+  15,R,D,X
+   7,R,D
+  50,R,J
+  15,R,U,X
+   9,R
+
+#Set,Player.Speed,X,100
+  30,R,G
+console stop_rec

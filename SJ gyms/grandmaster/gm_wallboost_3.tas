@@ -1,0 +1,20 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster -628 2440
+  37
+
+  20
+console start_rec gm_wallboost_3
+  30
+
+  18,J
+   5,K,G
+   2,L,K
+  23,R,K
+   5,J,G
+   2,L,J
+  23,R,J
+  18,K,G
+  60,J,G
+
+#Set,Player.Speed,X,100
+#  30
+console stop_rec

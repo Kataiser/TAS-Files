@@ -1,0 +1,33 @@
+console load StrawberryJam2021/0-Lobbies/2-Intermediate 4856 584
+   1
+  36
+
+#
+  10,L
+  60
+  50,L
+   5,L
+#
+  55,L,J
+ 111,L
+  10,L,J
+  50,L
+   5,L,J
+  35,L
+  75,L,J
+  10,L,K
+  20,L
+  10
+   5,R
+  60
+  40,L
+  35,L,J
+  30
+start animation sleep
+#Set,Player.StateMachine.State,11
+#Set,Player.DummyAutoAnimate,0
+#Invoke,Player.Sprite.Play,sleep
+  90
+#
+ 120
+#

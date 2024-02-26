@@ -1,0 +1,39 @@
+console load StrawberryJam2021/0-Lobbies/2-Intermediate 2776 1560
+   1
+  36
+
+#
+  30
+  25,R
+  65
+#
+  30
+ 160,R
+  60,R,J,G
+   8,R,K,G
+  85,R
+  20,R,J
+  15,R,U,X
+  65,R,U,G
+  10
+  90,U
+   5
+  10,R,J
+  15,R
+  20,R,J
+ 120
+  65,L
+  15,L,J
+  15,L,X
+  20,L
+  10
+  15,J
+  15,U,X
+  80,L,U,G
+  50,R,U,J,G
+  25,R
+   8,F,140
+  30
+#
+ 120
+#

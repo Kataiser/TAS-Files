@@ -1,0 +1,18 @@
+console load StrawberryJam2021/0-Gyms/1-Beginner lvl_2-dreamjump 2
+  37
+
+  20
+console start_rec beginner_dreamjump_2
+  30
+
+  30
+  23,R,J
+  33,R,D,X
+  26,R,J
+  15,R,U,X
+  27,R
+   7
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

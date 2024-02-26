@@ -1,0 +1,69 @@
+#console load StrawberryJam2021/0-Lobbies/5-Grandmaster 388 1509
+console load StrawberryJam2021/0-Lobbies/5-Grandmaster 180 1336
+   1
+  36
+
+  20
+#
+console start_rec credits_5_ultras
+  35,R
+  10,R,J
+  30,R
+  40
+   5,R
+   2,R,J
+#
+   5,R,J
+  20,R
+  60
+   5,R
+  10,R,J
+   7,R
+  46
+  14,R,Z
+   1,R,J
+  15,R,D,X
+   2,R,D
+   3,R,J
+  15,R,D,X
+   1,R,D
+   1,R,J
+   2,R
+  15,R,D,X
+   3,R,J
+  15,R,D,X
+   2,R
+  13,R,D
+  11,R,J
+   1,R
+  15,R,D,X
+   2,R,D
+   3,R,D,J
+   5,R
+   1,R,J
+   1,L,K,G
+   3,R,K
+   5,R
+  15,R,D,X
+   1,R
+  10,R,J
+   5,R
+   2,R,J
+   1,R,K,G
+   5,R
+  14,R,U,X
+  38,R
+   1,L,U
+  10,F,330
+  12,L,U,X
+   5,L,J,G
+  15,L
+  30
+#
+ 120,U
+console stop_rec
+#
+
+
+
+1000

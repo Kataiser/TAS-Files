@@ -1,0 +1,19 @@
+console load StrawberryJam2021/0-Gyms/6-Library 784 2960
+  37
+
+  20
+console start_rec library_friction_1
+  30
+
+  20,R,X
+ 104
+  30
+Set,Player.Position,784,2960
+  30
+  20,R,X
+ 104,R
+   6
+
+#Set,Player.Position.X,2760
+  30
+console stop_rec

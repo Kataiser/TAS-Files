@@ -1,0 +1,20 @@
+console load StrawberryJam2021/0-Gyms/3-Advanced -948 816
+  37
+
+  20
+console start_rec advanced_neutral_1
+  30
+
+  18,J
+   5
+  18,J
+   5
+  18,J
+   5
+  18,J
+   5
+  55,J
+
+#Set,Player.Speed,X,100
+#  30
+console stop_rec

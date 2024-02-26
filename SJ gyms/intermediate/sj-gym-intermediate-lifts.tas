@@ -1,0 +1,84 @@
+
+# Jelly
+console load StrawberryJam2021/0-Gyms/2-Intermediate -1080 1768
+  37
+
+  20
+console start_rec intermediate_lift_1 
+  30
+  15,G
+  22,J,G
+  14,J
+  15,U,X,G
+  31,G
+  25
+
+Set,Player.Speed,X,100
+console stop_rec
+   1
+   1,S
+  10
+   1,X
+  10
+
+# Theo
+console load StrawberryJam2021/0-Gyms/2-Intermediate -896 1768
+  37
+  20
+console start_rec intermediate_lift_2 
+  15,G
+  18,J,G
+  10,J
+  15,U,X,G
+  20,G
+  15
+Set,Player.Position.Y,1630
+  57
+console stop_rec
+   1
+   1,S
+  10
+   1,X
+  10
+
+# Tall jelly
+console load StrawberryJam2021/0-Gyms/2-Intermediate -736 1768
+  37
+  20
+console start_rec intermediate_lift_3 
+  30
+  15,G
+  22,J,G
+  14,J
+  14,U,X
+  37,G
+  29
+
+Set,Player.Speed,X,100
+console stop_rec
+   1
+   1,S
+  10
+   1,X
+  10
+
+# Tall Theo
+
+console load StrawberryJam2021/0-Gyms/2-Intermediate -576 1768
+  37
+  20
+console start_rec intermediate_lift_4 
+  15,G
+  18,J,G
+  10,J
+  14,U,X
+  22,G
+  24
+Set,Player.Position.X,-650
+  47
+console stop_rec
+   1
+   1,S
+  10
+   1,X
+  10

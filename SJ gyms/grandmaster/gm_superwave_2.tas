@@ -1,0 +1,19 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster 720 4440
+  37
+
+  20
+console start_rec gm_superwave_2
+  30
+
+  13,R,X
+   2
+  13,R,X
+  10,R,J
+  12,L,D,X
+  36,R,J
+  15,R,X
+  15
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

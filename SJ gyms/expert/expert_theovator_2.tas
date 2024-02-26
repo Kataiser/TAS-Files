@@ -1,0 +1,17 @@
+console load StrawberryJam2021/0-Gyms/4-Expert 4168 1696
+  37
+
+  20
+console start_rec expert_theovator_2
+  30,G
+
+  20,J,G
+   1,D
+  11,U,X
+  28,G
+  20
+Set,Player.Position.X,4100
+
+#Set,Player.Speed,X,100
+  40
+console stop_rec

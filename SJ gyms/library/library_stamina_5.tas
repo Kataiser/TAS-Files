@@ -1,0 +1,19 @@
+console load StrawberryJam2021/0-Gyms/6-Library 1208 1744
+  37
+
+  20
+console start_rec library_stamina_5
+  30
+
+   5,J
+  20,R,J
+  10,R,G
+  20,R,J
+  10,R,G
+  20,R,J
+  10,R,G
+  20,R,J
+
+#Set,Player.Position.X,2760
+  30,R,G
+console stop_rec

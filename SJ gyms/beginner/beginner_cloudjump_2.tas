@@ -1,0 +1,19 @@
+console load StrawberryJam2021/0-Gyms/1-Beginner -664 728
+  37
+
+  20
+console start_rec beginner_cloudjump_2
+  30
+
+  13,R,J
+  18,J
+  38
+  10,R,J
+  20,R
+   1
+   8,J
+  44
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

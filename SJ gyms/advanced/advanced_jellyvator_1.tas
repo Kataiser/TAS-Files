@@ -1,0 +1,15 @@
+console load StrawberryJam2021/0-Gyms/3-Advanced -1120 2168
+  37
+
+  20
+console start_rec advanced_jellyvator_1
+  30,G
+
+  25,J,G
+  15,D
+  10,U,X
+  45,G
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

@@ -1,0 +1,30 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster 464 960
+  37
+
+  20
+console start_rec gm_groundedultra_2
+  30
+
+  12,R,D,X
+   3,R,J
+  11,R,D,X
+  14,R,G
+ 110,R,U,J,G
+  15,R,X
+  10,R
+   7
+  30
+Set,Player.Position,464,960
+  55
+console time 0.5
+  21,R,D,X
+   6,R,J
+  19,R,D,X
+  25,R,G
+ 215,R,U,J,G
+
+#Set,Player.Speed,X,100
+#  30
+console stop_rec
+console time 1
+#Set,Player.Position,

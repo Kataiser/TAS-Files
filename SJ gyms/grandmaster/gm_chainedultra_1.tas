@@ -1,0 +1,22 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster 128 440
+  37
+
+  20
+console start_rec gm_chainedultra_1
+  30
+
+  13,R,D,X
+   4,R,J
+  15,R,D,X
+   1,R,D
+   4,R,J
+  15,R,D,X
+   2,R,D
+   5,R,J
+  15,R,D,X
+   4,R,D
+  58,R,J
+
+#Set,Player.Speed,X,100
+  30,R,G
+console stop_rec

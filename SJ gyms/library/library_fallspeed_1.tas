@@ -1,0 +1,25 @@
+console load StrawberryJam2021/0-Gyms/6-Library 872 2440
+  37
+
+  20
+console start_rec library_fallspeed_1
+  30
+
+  18,R,J
+   7,J
+   1,R,J
+   7,J
+  37,G
+  60,G
+   4,U,G
+  60,U,G
+  20,D,G
+  60,D,G
+  16,G
+  60,G
+   1,D
+   7
+
+#Set,Player.Position.Y,1510
+  30
+console stop_rec

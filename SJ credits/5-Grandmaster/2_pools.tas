@@ -1,0 +1,56 @@
+console load StrawberryJam2021/0-Lobbies/5-Grandmaster 1968 1216
+   1
+  36
+
+#
+   5,L
+  30
+  10,L
+  35,L,J
+  40,L
+#
+  40,L
+  40
+   5,R
+  25,R,J
+  10,L,J
+  30,L,K
+  10,R,K
+  30,R,J
+   8,L,J
+  15,L,K
+  18,L
+  10,L,J
+  35,L
+  10,D
+  60
+   5,L,U
+  20,L,J
+  15,L,U,X
+  38,L
+  10
+  60,D
+   5
+  10,L
+  40,L,J
+  35,L,K
+   3,L,K
+   2,L,J
+  38,R,J
+  38,R,K
+  10,R,J
+  28,L,J
+  30,L,K
+   8,R,K
+  35,R,J
+   2,L,J
+  40,L,K
+  40,L,J
+   5,R
+  60
+  60,L
+#
+  12,L,J
+  20,L
+  88
+#

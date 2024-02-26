@@ -1,0 +1,18 @@
+console load StrawberryJam2021/0-Gyms/3-Advanced 480 1248
+  37
+
+  20
+console start_rec advanced_launchboost_2
+  30
+
+  22,R
+  18
+  15,L,X
+  50,R
+  15,R,U,X
+  13,R
+  11
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

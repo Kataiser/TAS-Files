@@ -1,0 +1,16 @@
+console load StrawberryJam2021/0-Gyms/6-Library 2496 728
+  37
+
+  20
+console start_rec library_dashspeed_1_2
+  30
+
+  19,R,X
+  15,R,C
+  10,R
+   7
+  30
+
+Set,Player.Position.X,2750
+  39
+console stop_rec

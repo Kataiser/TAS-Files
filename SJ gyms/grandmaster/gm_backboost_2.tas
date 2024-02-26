@@ -1,0 +1,40 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster 752 2808
+  37
+
+  20
+console start_rec gm_backboost_2
+  30
+
+  13,R,D,X
+   9,R,J
+  28,R,U,G
+   4,L
+  15,R,D,X
+   4,R,D
+  40,R,J
+  15,R,U,X
+  22,R
+   7
+  30
+Set,Player.Position,752,2808
+  28
+console time 20
+   2
+console time 1
+console time 0.5
+  23,R,D,X
+  18,R,J
+  58,R,U,G
+   6,L
+  27,R,D,X
+   6,R,D
+  82,R,J
+  27,R,U,X
+  32,R
+  15
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec
+console time 1
+#Set,Player.Position,

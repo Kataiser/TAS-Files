@@ -1,0 +1,17 @@
+console load StrawberryJam2021/0-Gyms/5-Grandmaster 328 1864
+  37
+
+  20
+console start_rec gm_dreamdj_1
+  30
+
+  37,R,X
+   6,R,J
+  52,R,K
+  15,R,U,X
+  22,R
+   6
+
+#Set,Player.Speed,X,100
+  30
+console stop_rec

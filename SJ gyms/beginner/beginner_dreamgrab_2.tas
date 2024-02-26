@@ -1,0 +1,13 @@
+console load StrawberryJam2021/0-Gyms/1-Beginner lvl_3-dreamgrab 1
+  37
+
+  20
+console start_rec beginner_dreamgrab_2
+  30
+
+  25,R,U,X
+   4,L,G
+  30,G
+Set,Player.Position.X,450
+  61
+console stop_rec

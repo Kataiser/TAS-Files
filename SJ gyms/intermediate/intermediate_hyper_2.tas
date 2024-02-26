@@ -1,0 +1,18 @@
+console load StrawberryJam2021/0-Gyms/2-Intermediate 168 736
+  37
+
+  20
+console start_rec intermediate_hyper_2
+  30
+
+  12,R,D,X
+  35,R,J
+  15,R,U,X
+  13,R
+  11
+  30
+Set,Player.Position,450,770
+
+#Set,Player.Speed,X,100
+   4
+console stop_rec

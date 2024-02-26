@@ -1,0 +1,36 @@
+console load StrawberryJam2021/0-Lobbies/5-Grandmaster 3592 1760
+   1
+  36
+
+#
+  30
+  90,L
+#
+  40,L
+  20,L,J
+  20,L
+  50,L,J
+  10,L,K
+   8,L
+  30
+  10,J
+  55,L
+  25,L,J
+  15,R
+  25,R,J
+  15,L
+  35,L,J
+  25,L,K
+  35,L,J
+  90,U
+   5
+  20,R
+  55,R,J
+  60,R,K
+  50,R,J
+  25,R,K
+#
+   5,L
+  20
+  95,D
+#

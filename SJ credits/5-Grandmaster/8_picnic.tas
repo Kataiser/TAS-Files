@@ -1,0 +1,23 @@
+console load StrawberryJam2021/0-Lobbies/5-Grandmaster 2120 1072
+   1
+  36
+
+#
+   1,L
+  90
+  29,L
+#
+   1,L
+  29,L,J
+  40,R,J
+ 130
+ 130,R
+  30
+start animation sleep
+#Set,Player.StateMachine.State,11
+#Set,Player.DummyAutoAnimate,0
+#Invoke,Player.Sprite.Play,sleep
+ 120
+#
+ 120
+#
