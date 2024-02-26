@@ -1,0 +1,16 @@
+console load 4 86 -64
+   1
+  36
+  14,R,D,X
+   1,L,J
+  14,L,D,X
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+  12,R
+   1,R,J
+  45,R
+  14,R,D,X
+  44,R,J
+***
+ 100,R,U,X

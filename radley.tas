@@ -1,0 +1,216 @@
+console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
+   1
+
+  91
+
+#lvl_1
+   4,Z
+   1,R,J
+   7,R
+  10,R,J
+   1,J
+   3
+  15,R,U,X
+   1,R
+  11,J,G
+   1,L,J
+   7,L
+   8,L,Z
+   1,J
+  12
+   6,R
+  18,L,D,X
+  13,L,D,C
+   1,R,J
+  10,R,K,G
+   1,R
+  18,L,Z
+  15,L,D,X
+  15,L,Z
+#0:02.414(142)
+
+  15,D,X
+  17,D
+  40
+
+#lvl_i1
+  90,D
+  43
+
+#lvl_i1
+  54,D
+  13,R,D
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+   1,R,D
+   7,R
+   6,R,J
+   2,R
+   1,L
+   3,J,G
+  10,R,J
+  15,U,X
+   6,R
+  15,L,X
+   3,L
+   3,R
+  15,U,Z
+   0
+   7,R,K,G
+   4,L,K
+   1,R,K
+  10,J,G
+   3,R,J
+   6,R,K,G
+   7,R
+   4,Z
+   1,R,J
+   6
+   1,J
+   3
+  14,R,D,X
+   1,R,J
+   7,R,D,X
+  40
+
+#lvl_3
+   8,R,D,X
+  15,D,C
+   7,L,D
+   2,D
+   1,L,D
+   1,D
+  14,R,Z
+   1,R,J
+  20,R
+  18,R,U,X
+  15,R,U,Z
+  14,L,D,X
+  15,R,C
+  10,R
+  15,R,X
+  15,R,D
+   2,R
+  10,R,J
+   5,R
+  12,L,J,G
+   6,K,G
+   7,J
+   1,R,K,G
+   6,K
+   5,R,K
+  12,R,J,G
+  40
+
+#lvl_a-08-TiltTheStars
+  11,R
+  10,R,Z
+   2,R,J
+   4,K,G
+  14,R,D,X
+  11,R,J
+  15,R,D,X
+   5,R
+   1,R,G
+   4,R,J,G
+  37,R,U,G
+  15,R,X
+  19,L,C
+  15,R,U,X
+   4
+   6,R,X
+  12,R,J,G
+   4,R
+  14,R,U,Z
+   1,R,J,G
+   2,R
+   3,R,J
+   1,R
+   9,L,U,X
+   1,J
+   1,K,G
+   7,R
+
+
+
+#1000
+#lvl_a-10-TiltTheStars
+console load StrawberryJam2021/3-Advanced/RadleyMcTuneston -1112 472
+   1
+  36
+   5,R
+   9,R,J
+  15,R,D,X
+   7,R,D
+   2,R
+   1,R,D
+   9,R,X
+   8,R,J,G
+  32,R,D
+  12,R,X
+   1,R,J,G
+   5,R
+   3,R,J
+   1,R
+   4
+   3,R
+  32,R,J,G
+   4
+   1,R
+  15,R,U,Z
+   1,L,J,G
+   1,L,K,G
+  38,L,G
+   8,L,U,G
+   1,J
+   1,K,G
+   1,J,G
+  13,R,U,X
+  17
+  15,R,U,C
+   1,R
+  14,R,Z
+   7,R,J
+   5,R
+   2,R,J
+   2,R
+  14,R,Z
+   4,R
+   4
+  42,R,D
+   1,R
+  15,R,X
+   5,R
+   8,L,U,X
+   1,L,J,G
+  34,L,G
+   8,L,D,G
+   1,J
+   1,L,K,G
+   1,L,J,G
+   2
+  26,R,D
+  11,R,D,X
+   3,R,J,G
+   4,R
+  40
+   1,R
+   1,R,J
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+   7,R
+  54,R,D,X
+
+
+
+
+
+
+
+
+
+
+1000

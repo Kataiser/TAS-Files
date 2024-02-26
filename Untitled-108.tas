@@ -1,0 +1,12 @@
+console load 5 void
+   1
+
+#Start
+ 510
+
+   5,L
+  20
+Repeat 500
+   1,R
+   2
+EndRepeat

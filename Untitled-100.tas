@@ -1,0 +1,10 @@
+RecordCount: 20
+
+#Start
+console load 3
+***
+   1
+Repeat 2000
+   1,S
+   1,D,J
+EndRepeat

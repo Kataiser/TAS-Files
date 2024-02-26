@@ -1,0 +1,30 @@
+# TASmas
+# https://gamebanana.com/mods/418764
+
+RecordCount: 96
+
+console load Mika/TASmas/TASmas
+   1
+
+#Start
+  76
+
+#lvl_1
+  35,R
+  10
+   1,L,G
+   1,J,G
+   5
+   1,L
+   1,L,J
+   1,R,J
+   1,S
+   1,O
+   9,J
+   5,R,J
+ 100,R,K
+
+
+
+
+1000

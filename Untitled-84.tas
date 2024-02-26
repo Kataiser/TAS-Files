@@ -1,0 +1,14 @@
+RecordCount: 4
+
+console load 8 176 40
+   1
+
+#Start
+  36
+***
+  14,R,X
+   1,R,J
+ 100,R,D,X
+
+
+9999

@@ -1,0 +1,48 @@
+#By gameprofi
+
+console load WinterCollab2021/1-Maps/CarelessAnonymous
+   1
+
+#Start
+ 190
+
+#lvl_1
+   4,D,X
+   6,L,X
+  20,R,J
+  15,U,X
+  80,R,U,G
+   5,R
+   6
+  11,R,D,X
+   1,R,J,G
+  15,R,G
+   7,R
+   1,L
+  15,R,D,X
+   7,R,J
+***
+  11,R,D,X
+   1,R,J
+   1,R,K,G
+   1,R
+   1,R,J,G
+   2,R,K,G
+   2,R,J,G
+   6,R
+   7,R,D,X
+   2,R,J,G
+   1,R,K,G
+   1,R,J,G
+  11,R
+  12,R,Z
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   6,R,D,X
+   1,R,J,G
+   1,R,K,G
+  27,R
+
+  

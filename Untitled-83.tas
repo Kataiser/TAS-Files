@@ -1,0 +1,21 @@
+RecordCount: 5
+console load 8 176 40
+
+#Start
+   1
+  36
+
+Set,Player.Speed.X,Infinite
+
+
+
+
+
+
+
+
+
+
+
+
+1000

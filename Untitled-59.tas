@@ -1,0 +1,53 @@
+RecordCount: 115
+
+console, load, Manhunt Series/Manhunt 1, 9328, -1536
+   1
+
+#Start
+  36
+  14,R,Z
+   1,L,J
+  14,L,D,X
+   1,R,J
+   6,R,D,X
+   1,J,G
+   5,R
+   5
+   2,R
+   1,R,J
+  10,R,U,X
+   1,R,J,G
+  10,R
+   6,R,J
+   5,R
+  15,R,D,X
+   6,R,D
+   1,R
+   1,R,J
+  12,R,U,X
+   1,R,J,G
+   7,R
+  40
+   2
+   1,R,K
+   3,R
+   4,R,J
+   3,R
+  10,R,D,X
+   1,R,J,G
+  11,R
+  53,R,J
+  15,R,U,X
+  12,R
+   1,R,J,G
+   8,R,K,G
+   1,S
+   1,D,J
+  69,O
+
+
+
+
+
+
+1000

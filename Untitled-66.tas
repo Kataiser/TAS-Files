@@ -1,0 +1,8 @@
+console hard 2 01
+ 240
+***
+Set, Player.Position, 715.34990, 70.00
+  30,R,X
+### vertical dash
+#Set, Player.Position, 960.00, 91.25008
+#  30,U,X

@@ -1,0 +1,322 @@
+#Kataiser's TASmas
+RecordCount: 3203
+
+console load Mika/TASmas/TASmas
+   1
+
+#Start
+  76
+
+#lvl_1
+  35,R
+  10
+   1,L,G
+   1,J,G
+   5
+   1,L
+   1,L,J
+   1,R,J
+   1,S,N
+   1,O
+   9,J
+   5,R,J
+  65,R,K
+  79,R,J
+  40
+
+#lvl_2
+  45,R
+  12,R,J
+   7,R,K,G
+   1,J
+   1,R,K,G
+  12,R,J
+   9,L,J
+  11,J
+   7,D
+   3,L,D
+   3,R,D
+Repeat 16
+   1,R,D
+   1,D
+EndRepeat
+   1,R,D
+   1
+   1,J
+   3,R,J
+   5,R
+   1,J
+   1,K
+   1,R,K
+   3,R
+   1
+   5,L,J,G
+ 125,R,K
+  40
+
+#lvl_3
+#didn't get
+  33,R
+   7,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  15,R,D,X
+   3,R,J,G
+  53,R,K,G
+  15,R,U,X
+  25,R
+  12,R,J,G
+   8,R,K,G
+  50,R
+  40
+
+#lvl_4
+#unintended solution
+  46,R
+  10
+   1,L,G
+   1,J,G
+   4
+   1,L
+   1
+   1,L,J
+   1
+   2,R
+   6,R,J
+  23,R
+  55,R,G
+   5,R,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   2,R,J,G
+   6,R
+   1
+   1,S,N
+  15,R,J
+  57,R,K
+  15,R,U,X
+  24,R
+   2
+  12,R,J,G
+  12,R,K,G
+   3,R,J,G
+  39,R
+  40
+
+#lvl_5
+#took a pretty big hint 
+  43,R
+  20,R,D,J
+  10,U,G
+Repeat 142
+   1,D,G
+   1,U,D,G
+EndRepeat
+   3,D,G
+  40,R,J,G
+ 120,R,K
+  40
+
+#lvl_6
+  58,R
+   4,R,J
+  15,U,X
+  14
+   6,L
+   3
+  12,L,D,X
+   1,R,J
+   2,R
+  15,R,D,X
+   1,R,J
+   5,R,D,J,X
+  17,R,J,G
+   4,R,K,G
+   1,L,K
+  58,R,K
+  15,R,U,X
+  84,R,U,G
+  40
+
+#lvl_7
+#didn't get,
+#mika's inputs
+  44,R
+  26,R,J
+   5,R
+   2
+   5,R,J,G
+   1,L,J
+   3,J
+   2
+   1,R
+   1,K
+   2,J,G
+  18,L,J
+   1,K
+   3,L,K
+  28,L,D
+   1,G
+   1,K
+   5,R
+   1,R,J
+   7,R
+  30,G
+   1,S
+   1,D,J
+ 238
+  40
+
+#lvl_8
+#didn't get, mostly
+#mika's inputs
+  42,R
+  14
+   1,D
+  23,G
+   1
+   4,J
+   7
+  27,J
+  16,L
+   6,R,Z
+   1,R,J
+   9,R
+   4,X
+   1,L,J
+  15,L
+   4,Z
+   1,R,J
+   5,L,J
+   6,L
+   4,R
+   4,Z
+   1,R
+   1,L,J
+   6,R,J
+  11,R
+repeat 6
+   4,X
+   3,R,J
+  16,R
+   4,X
+   3,L,J
+  16,L
+endrepeat
+   4,X
+   3,R,J
+  16,R
+   9,R,Z
+   2,R,J
+   1,R
+   1,R,J
+   8,R
+   1,R,J
+  19,R,X
+   8,R
+  40
+
+#lvl_9
+  16,R
+   4
+   1,R
+   8
+   1,L,G
+   1,J,G
+   4
+   1,L
+   1
+   1,L,J
+   1
+   2,R
+   1,R,J
+   5,R
+  11
+  33,R,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  12,R
+  52,R,J
+   1,R,G
+  12,R,J,G
+  12,R,K,G
+   5,R,J,G
+  54,R
+  40
+
+#lvl_10
+#didn't get, mostly
+#copied pansear's vid
+   1,R
+  12,R,J
+   5,K,G
+   3
+  17,U,X
+   1,J
+  15,L,D,J,X
+   4,R,J
+   4,Z
+  14,R,J
+  15,R,D,X
+   6,R
+  74,R,J
+  15,R,U,X
+  25,R
+  12,R,J,G
+  12,R,K,G
+   1,R,J,G
+  33,R
+  40
+
+#lvl_11
+  68,R
+  23
+   4,D
+  13,R,X
+   5,L
+   5,R
+   8,R,J
+  60,R,K
+  15,R,U,X
+  22,R
+  12,R,J,G
+   8,R,K,G
+  55,R
+  40
+
+#lvl_12
+  36,R
+  11,R,J
+  17,R
+   3,D
+   2
+   6,D
+   2,L,G
+   1,L,J,G
+   1,L
+   1,K,G
+   1,J,G
+   3,L
+   7,L
+  14,L,Z
+   1,R,J
+   2,R,K,G
+  15,R,D,J,X
+   6,R,J
+  45,R,K
+  14,R,U,X
+   5,R,J,G
+  25,R
+  15,U,X
+  19,R
+  15,L,D,X
+ 124,L
+ChapterTime: 1:14.732(4396)

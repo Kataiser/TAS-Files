@@ -1,0 +1,13 @@
+RecordCount: 5
+
+console load SKU/MODWorld/Map1
+   1
+
+***
+#Start
+ 190
+
+#lvl_1
+***
+  10,R,C
+ 100,R,J

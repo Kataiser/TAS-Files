@@ -1,0 +1,10 @@
+console load featherlinetest
+   1
+
+#Start
+  36
+***
+StartExportGameInfo spindump.txt CrystalStaticSpinner
+   1
+FinishExportRoomInfo
+   1

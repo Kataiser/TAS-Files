@@ -1,0 +1,137 @@
+RecordCount: 422
+
+console load 2 end_0
+   1
+
+#Start
+ 576
+
+#lvl_end_0
+  86,R
+   1,R,J
+ 220,R
+   1,R,J
+ 224,R
+   1,R,J
+ 224,R
+   1,R,J
+ 625
+
+#lvl_end_1
+ 227,R
+   1,R,J
+ 224,R
+   1,R,J
+ 282,R,D
+   1,R,J
+ 282,R,D
+   1,R,J
+ 437,R
+  45,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  48,R,J,G
+ 185,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+ 155,R
+  49,R,J
+ 625
+
+#lvl_end_1
+ 124,R,J
+  39,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+ 307,R,D
+ 625
+
+#lvl_end_3
+ 141,R,D
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+ 160,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  56,R,K,G
+ 140,R,J,G
+  29,R
+ 625
+
+#lvl_end_4
+  56,J
+  34,D
+ 327,R,D
+   1,R,J
+  89,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  78,R
+ 625
+
+#lvl_end_3b
+ 117,R
+  46
+   7,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  88,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+ 103,R
+   1,J,G
+   1,K,G
+   1,J,G
+ 303,D
+  20,L,J
+ 625
+
+#lvl_end_5
+ 223,R,J
+  62,R,K,G
+ 170,R,D
+  55,L,D
+ 231,R,D
+  41,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+ 134,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  23,R,K,G
+  70,R,J,G
+ 625
+
+#lvl_end_6
+ 127,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  91,R,J,G

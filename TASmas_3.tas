@@ -1,0 +1,17 @@
+console load Mika/TASmas/TASmas 3
+  37
+
+#Start
+#lvl_3
+   8,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  17,R,D,X
+   3,R,K,G
+  53,R,J,G
+  40,R,U,X
+  12,J,G
+   8,K,G
+   7,R

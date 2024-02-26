@@ -1,0 +1,39 @@
+console hard 2 4524 -1912
+  37
+  30,R
+   1,N
+   1,R
+#activated - NoControl
+
+
+console hard 2 4524 -1912
+  37
+  27,R
+   6
+   1,N
+   1,L,J
+  32,L
+   1
+  30,R
+   1,R,N
+   1,R,X
+   1,R,N
+   1,R,X
+   1,R,N
+   1,R
+#activated - NoControl
+
+console hard 2 4524 -1912
+  37
+  40,R
+   6
+   1,N
+   1,L,J
+  45,L
+   1
+  30,R
+   1,R,N
+   1,R,X
+   1,R
+#activated - NoControl
+#????????????????????

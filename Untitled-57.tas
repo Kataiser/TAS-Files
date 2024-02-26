@@ -1,0 +1,93 @@
+RecordCount: 154
+
+console load StrawberryJam2021/3-Advanced/RadleyMcTuneston -1400 432
+   1
+
+#Start
+  36
+***
+  11,R,X
+   8,R,U,C
+   7,J
+  16,D,X
+  15,R,C
+  15,R,X
+  24,L,D
+   8,L,X
+   3,L,J,G
+   7,L
+  16,L,J
+  12,L,K
+   9,L,Z
+  24,L,J
+   9,L,X
+  10,L,J,G
+  15,R,D,X
+  17,R,D,C
+  15,L,X
+  19,L,G
+***
+  15,L,U,X
+   9,L
+  15,L,Z
+   3,L
+   3
+  12,R,J,G
+  12,R,K,G
+   1,R,J,G
+   6,R
+  30
+   1,S
+   1,D,J
+  69,O
+  11,R,X
+   8,R,U,C
+   7,J
+  16,D,X
+   7,L,C
+   1,J
+   1,K,G
+   1
+  12,R
+   9,L,Z
+***
+  15,R,U,X
+  15,R,C
+   2,R
+   2,L
+  13,R,D
+  15,R,U,Z
+   1,R
+  15,R,D,C
+  12,R,D
+  15,L,U,X
+  24,L,D
+  15,R,X
+  10,R
+  15,R,X
+  19,L,D
+   1,R,D
+   1,R,J,G
+   7,R,K,G
+   7,R
+   3,R,K
+   1,R
+   3,R,J
+   5,R
+   2,R,J
+  18,R,D
+   4,R
+   1,R,D
+   1,D
+   1
+   1,R,G
+  16,R,J,G
+   1,R,K,G
+   7,R
+
+
+
+
+
+
+1000

@@ -1,0 +1,50 @@
+console load Mika/TASmas/TASmas 8
+  37
+
+#Start
+#lvl_8
+   1,R,J
+  10,R,D
+  10,D
+   1,L,D
+   1,L
+  10,D
+   2,L
+  11,L
+   2,L,D
+   6,R,Z
+   1,R,J
+   9,R
+   4,X
+   1,L,J
+  15,L
+   4,Z
+   1,R,J
+   5,L,J
+   6,L
+   4,R
+   4,Z
+   1,R
+   1,L,J
+   6,R,J
+  11,R
+repeat 7
+   4,X
+   3,R,J
+  16,R
+   4,X
+   3,L,J
+  16,L
+endrepeat
+   4,X
+   3,R,J
+  16,R
+   9,R,Z
+   2,R,J
+   1,R
+   1,R,J
+   6,R
+   1,R,J
+   1,R,K
+   1,R,J
+  17,R,D,X

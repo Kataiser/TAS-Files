@@ -1,0 +1,49 @@
+RecordCount: 40
+
+console load StrawberryJam2021/3-Advanced/RadleyMcTuneston 328 1296
+   1
+
+#Start
+  36
+***
+  14,R,Z
+  29,R,J
+  15,R,X
+  43,R,G
+  19,R,D
+  15,R,X
+   4,R
+  14,R,D,X
+  24,R,J
+  15,R,X
+  12,R,J,G
+   5
+  12,L,X
+   2,L
+   2
+   2,U
+  12,U,X
+  38
+   3,U
+  10,U,X
+   6
+***
+   2,R
+  10,R,X
+   3,R
+   5
+***
+  15,L,X
+   1,L
+  12
+   2,U
+1323,U,X
+
+
+
+
+
+
+
+
+1000

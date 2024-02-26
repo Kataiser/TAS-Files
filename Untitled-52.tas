@@ -1,0 +1,54 @@
+RecordCount: 41
+
+console load StrawberryJam2021/3-Advanced/RadleyMcTuneston 328 1344
+   1
+
+#Start
+  36
+
+#lvl_move-01-TiltTheStars
+  14,R,Z
+***
+  28,R,J
+  15,R,X
+  50,R,G
+  17
+  15,R,X
+   7,R
+  14,R,D,X
+  21,R,J
+  15,R,D,X
+   1,R,G
+  12,R,J,G
+  12,R,K,G
+***
+   7,R,J,G
+  15,L,X
+  15,U,C
+  33,D
+  15,U,X
+***
+  16,R,C
+  18,L,X
+   1,L
+  15,U,X
+  18,L,D
+  18,L,X
+  15,U,C
+  15,L,X
+ 105,L,G
+***
+  17
+  10,R
+   3
+  15,U,X
+  74,D
+  15,R,X
+   5,R
+  11,R,D,X
+ 100,R,J
+
+
+
+
+1000

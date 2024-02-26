@@ -1,0 +1,29 @@
+console load Mika/TASmas/TASmas 6
+  37
+
+#Start
+#lvl_6
+   1,L
+   1,D
+   1,R
+   1
+   4,R,J
+  14,R
+  15,U,X
+   1,L
+   3
+  12,L,D,X
+   1,K
+   2,R
+  15,R,D,X
+   1,R,J
+   5,R,D,X
+  13,G
+   4,R
+   4,R,J,G
+   1,L,J
+  55,R,J
+  38,R,U,X
+  12,R,J,G
+   6,R,K,G
+   7,R,D
