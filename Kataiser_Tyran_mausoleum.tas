@@ -1,5 +1,5 @@
 #Tyran and Kataiser
-RecordCount: 2054
+RecordCount: 2060
 
 console load pansear/TasContest2024/tc24
    1
@@ -188,10 +188,10 @@ console load pansear/TasContest2024/tc24
   40
 
 #lvl_3
-  16,R,D
-#this part feels slow, but I cant think of how to make it faster. You cant dash because you need speed into the bubble ahead
-   1
-   6,R
+   1,R,J
+  15,R
+#this part feels slow, but I cant think of how to make it faster. You cant dash because you need speed into the bubble ahead7
+   7,R
    5,R,D
    5,R,J
    4,R
@@ -201,12 +201,14 @@ console load pansear/TasContest2024/tc24
    2,R,K,G
   11,R
    1,R,J
-  16,R
+  14,R
+   1
+   1,R
   13,D,X
    1,L
    1,J
    1,L,K,G
-   6,L,K,G
+   5,L,K,G
   15,R,X
   15,U,C
    5,L
@@ -314,4 +316,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 0:34.765(2045)
+ChapterTime: 0:34.748(2044)
