@@ -1,5 +1,5 @@
 #Tyran and Kataiser
-RecordCount: 2060
+RecordCount: 2113
 
 console load pansear/TasContest2024/tc24
    1
@@ -30,37 +30,30 @@ console load pansear/TasContest2024/tc24
    1,D
    3,R,D
    2,R,J
-   1,R
-   1,R,J
-  13,R,D
-   5,R,Z
-   1,R,J
-   5,L,K,G
-  15,U,X
-   9
-   7,L
-   1
-   9,L,D
-   1,L
-   1,L,G
-   1,L,J,G
-   2,L
-   1,J
+   6,R
    2
-   2,L
-   1,L,J,G
-   5,L
+#bottleneck here is dashing as early as possible so the swap block moves back quickly.
+  11,R,D,X
    1,R,J
-  12,R,K,G
+   7,L
+  15,U,X
+   7,R
+  14
+   1,J
+   8,L,J
+   5,L
+   1,L,J
+   7,L
+   4,L,J,G
+   1,R,J,G
+#could dash a frame earlier and enter the bubble a frame earlier with more height 
    5,U,X
    1,J
-   2,K,G
+   3,K,G
   11,R,D,X
-   5,R,J
-   5,J
-   3,R,J
+   7,R,J
    1,J
-   2,R,J
+   8,R,J
    1,R
   13,U,X
   14,L,K
@@ -316,4 +309,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 0:34.748(2044)
+ChapterTime: 0:34.663(2039)
