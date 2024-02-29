@@ -1,5 +1,5 @@
 #Tyran and Kataiser
-RecordCount: 2531
+RecordCount: 3075
 
 console load pansear/TasContest2024/tc24
    1
@@ -34,7 +34,7 @@ console load pansear/TasContest2024/tc24
 #bottleneck here is dashing as early as possible so the swap block moves back quickly.
   10,R,D,X
    1,R,J
-   7,L
+   7
   15,U,X
    7,R
   14
@@ -86,15 +86,13 @@ console load pansear/TasContest2024/tc24
   13,L,Z
    1,J,G
    1,L,K,G
-   1,J,G
-   5,J,G
+   6,J,G
    1
    1,R
    7
    1,J
    4
-   5,R
-   2,R
+   7,R
    1,R,D
   10,J
    1,L,J
@@ -102,7 +100,8 @@ console load pansear/TasContest2024/tc24
    1,L,J
    1,J
   10,L,K
-   8,L,G
+   7,L
+   1,L,G
    9,L,J,G
   12,L,K,G
    4,L
@@ -140,14 +139,14 @@ console load pansear/TasContest2024/tc24
    1,R,K,G
    1
    1,R,J,G
-   4,L,J,G
-   6,R,J,G
+   4,L,J
+   6,R,J
    2
    1,R,K,G
    1,R,J,G
    7,R
    7,R,D,J
-  11,L,D,J
+  11,L,J
    1,K
   10,R,K
   12,R,J,G
@@ -199,27 +198,23 @@ console load pansear/TasContest2024/tc24
   40
 
 #lvl_3
-   1,R,J
-  15,R
+   3,R,J
+  13,R
 #this part feels slow, but I cant think of how to make it faster. You cant dash because you need speed into the bubble ahead7
    7,R
    5,R,D
    5,R,J
    4,R
    1,L,J,G
-  11,R,J,G
-   1,R
+  12,R,J,G
    2,R,K,G
   11,R
    1,R,J
-  14,R
-   1
-   1,R
+  16,R
   13,D,X
    1,L
    1,J
-   1,L,K,G
-   5,L,K,G
+   6,L,K,G
   15,R,X
   15,U,C
    5,L
@@ -272,27 +267,26 @@ EndRepeat
    1,R,J
    1,L,K,G
    1,R,K,G
-   5,R,U,X
+   5,R,X
   11,D,C
    6,R,D,X
    1,R,J
-   1,D
+   1
   21,R,D
    1,D
    2,R
    3,R,D
    1,J,G
    2,R,J,G
-   1,L,J,G
-   2,R,J,G
+   1,L,J
+   2,R,J
    9,R
    1
-   6,R,D
+   6,R
   20,D
   19,R,D
   25,D
-   6,R,D
-   1,R,D
+   7,R,D
    1,R
    2
    1,R
@@ -304,8 +298,7 @@ EndRepeat
    7,R
   19,R,D
    2
-  16,R
-   4,R
+  20,R
    1,R,D
    1,R,J,G
   25,R,K,G
@@ -335,8 +328,8 @@ EndRepeat
    5,R
    1,R,J
    9,R
-  10,R,J
-   6,R
+   6,R,J
+  10,R
   14,R,U,X
  135
 ChapterTime: 0:33.966(1998)
