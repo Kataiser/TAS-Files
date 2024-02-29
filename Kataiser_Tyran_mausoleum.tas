@@ -1,5 +1,5 @@
 #Tyran and Kataiser
-RecordCount: 3075
+RecordCount: 3140
 
 console load pansear/TasContest2024/tc24
    1
@@ -271,35 +271,32 @@ EndRepeat
   11,D,C
    6,R,D,X
    1,R,J
-   1
-  21,R,D
-   1,D
-   2,R
-   3,R,D
-   1,J,G
-   2,R,J,G
-   1,L,J
+   1,J
+   1,R
    2,R,J
-   9,R
-   1
-   6,R
-  20,D
+  13,R
+  13,R,D
+   1,K
+   1,R,D
+  30,D
   19,R,D
-  25,D
+  28,D
    7,R,D
-   1,R
-   2
-   1,R
-   2
+   2,R,D
+   2,D
+   1,R,D
   15,R,D,X
   10,D
    2,R,D
    1,D
-   7,R
-  19,R,D
-   2
-  20,R
    1,R,D
+   8,R
+  18,R,D
+   1,R
+   2
+  10,R
+   1,R,D
+   8,R
    1,R,J,G
   25,R,K,G
   10,R,J,G
@@ -332,4 +329,4 @@ EndRepeat
   10,R
   14,R,U,X
  135
-ChapterTime: 0:33.966(1998)
+ChapterTime: 0:33.864(1992)
