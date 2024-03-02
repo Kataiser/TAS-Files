@@ -1,5 +1,5 @@
 #Tyran and Kataiser
-RecordCount: 3284
+RecordCount: 3444
 
 console load pansear/TasContest2024/tc24
    1
@@ -79,19 +79,18 @@ console load pansear/TasContest2024/tc24
    4,J
    1
    1,J
-  22,L,D
-   6,L
-  13,L,Z
+  27,L,D
+  14,L,Z
    1,J,G
    1,L,K,G
-   6,J,G
-   1
+   1,J,G
+   4,J
+   2
    1,R
-   7
-   1,J
    4
-   7,R
-   1,R,D
+   1,J
+   6
+   8,R
   10,J
    1,L,J
    1,J
@@ -327,4 +326,4 @@ EndRepeat
   10,R
   14,R,U,X
  135
-ChapterTime: 0:33.813(1989)
+ChapterTime: 0:33.796(1988)
