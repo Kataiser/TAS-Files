@@ -1,5 +1,5 @@
 #Tyran and Kataiser
-RecordCount: 3248
+RecordCount: 3284
 
 console load pansear/TasContest2024/tc24
    1
@@ -47,7 +47,7 @@ console load pansear/TasContest2024/tc24
 #could enter the bubble a frame earlier with more height 
    5,U,X
    1,J
-   3,K,G
+   2,K,G
    1,L,K
   10,R,D,X
   10,R,J
@@ -327,4 +327,4 @@ EndRepeat
   10,R
   14,R,U,X
  135
-ChapterTime: 0:33.830(1990)
+ChapterTime: 0:33.813(1989)
