@@ -1,0 +1,573 @@
+# TAS CONTEST
+# https://gamebanana.com/mods/497016
+
+RecordCount: 1572
+
+console load pansear/TasContest2024/tc24
+   1
+
+#lvl_intro
+  92
+   1,R,J
+  18,R
+   3,R,D
+   1,R,J
+  14,R
+   1,R,J
+  10,R
+   1
+   1,R
+   1
+   2,R
+  12,R,J
+   1,R,K,G
+   1,R,J,G
+  12,R
+   1,R,J
+  18,R
+   3,R,D
+   6,R
+   1,R,J
+   1,R,K,G
+  17,R,J,G
+   1,R
+   1
+   1,R
+   1,R,J,G
+   1,R,K,G
+  14,R
+   1,R,J
+  15,R
+#0:02.737(161)
+#RecordCount: 83
+#Speed: 100.17, 120.00
+#Pos: -627.29, 402.00
+  40
+
+#lvl_0
+  13,R
+   5,R,J
+   1,R,K,G
+   9,R,J,G
+   1,J
+   1,R,J
+   2,J
+   2,R,J
+   1,R,K,G
+   3,R,J,G
+   5,R
+   1,R,J
+  14,R
+   9,R,D
+   1,R,J
+  15,R
+   2
+   2,R
+   1,R,J
+   3,R
+   1,R,J,G
+   1,R,K,G
+  18,R
+   9,R,D
+   7,L,D
+   1,L,J
+   1,K,G
+   5,L
+   2
+   1,R
+  24,R,J
+   5,R,K,G
+   2,R
+   1,J,G
+   2,L,J
+  15,L,U,X
+   8
+   4,L
+   1,L,G
+   1,J,G
+   3,R,J
+   5,L,J
+   1,L,K,G
+   1,L,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+  16,J
+#DASH
+  12,U,X
+   1,J
+   7,K,G
+  10,R,D,X
+  11,R,J
+   9,J
+#DASH
+  15,U,X
+   8,L,J
+   7,L
+  12,L,J,G
+   6,L,K,G
+   2
+   1,J,G
+   5,L
+   1
+   1,R
+  11,R,J
+   5,R
+   1,R,J
+   7,R
+   1,R,J,G
+   3,R,K,G
+  14,R
+   1
+   2,R
+   1
+   1,R
+   2,R,J
+   1,R,K,G
+   5,R,J,G
+  10,R
+   9
+   3,D
+   2,L,D
+   2,R,J
+   1,R,K,G
+   1,R,J,G
+  12,R
+#0:10.710(630)
+#RecordCount: 387
+#Speed: 145.00, 75.00
+#Pos: -10.23, 141.50
+  40
+
+#lvl_1
+   1,R
+  11,R,J
+  18,R
+   2,R,D
+   1,R
+   1,R,D
+   1,R,J
+   5,R
+   1,R,J,G
+   9,R,K,G
+  18,R
+
+##goes below the bubble
+#   9,D
+#  13,R,D
+#   9,R,J
+#   6,R
+#   2,R,J
+#   1,K
+
+  10,D
+   3,R,D
+  10,R
+  11,J
+  14,R,D,X
+   1,R,J,G
+   8,R,J
+   5,R
+  19,R,J
+   2,R,K
+   9,R
+#DASH
+  14,R,U,Z
+   1,J
+  25,R,K,G
+  10,K
+#just waiting
+Repeat, 4
+   2,L,D,K
+   2,K
+   2,R,D,K
+   2,K
+EndRepeat
+   5,R
+   7,L
+  10,J
+  15
+   1,G
+   4,J,G
+   4,R,J
+  16,L,X
+  15,L,J
+   1,J
+#DASH
+  15,L,U,X
+   1,R,J,G
+   1,R,K,G
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   2,L,K
+   1,R,K
+   1,J,G
+   1,L,J
+  17,R,J
+   2,R
+   1,R,J
+   4,R
+   1,J,G
+   4
+   1,R
+   5
+   8,L,D
+#can pause to slowfall here,
+#but still off by 0.375px V
+  10,L,K
+   5,L
+   4,L,K
+#DASH
+  15,U,X
+   1,R
+   3,J,G
+   5,K,G
+   7,L,K
+  12,J,G
+   3,K,G
+   1,R,K
+   1,R,J
+  14,R,K
+#0:19.142(1126)
+#RecordCount: 720
+#Speed: 0.00, -105.00
+#Pos: 182.58, -202.92
+  40
+
+#lvl_2
+   8,R,K
+   1,R,J,G
+   2,L,J
+   1,J
+   2,L,J
+   3,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  10,R
+   1,J
+   2,R,J
+   9,J
+   1,L,J
+   1,K
+   1,J
+  12,R,K,G
+  12,R,J,G
+   7,R,K,G
+   1,L,K
+#DASH
+  19,U,X
+   1,J
+   7,K,G
+   8,L,X
+  20,L,J
+#DASH
+  16,U,X
+   8,L,J,G
+   2
+   4,L,K,G
+   9,K
+   8,J,G
+   1,L,J
+   1,J
+   1,R,J
+   1,L,J
+   1,K,G
+   1,R,K
+   1,J
+   8,L,K,G
+   5,K
+   4,J,G
+   1,R,J
+   6,L,J
+  10,L,K,G
+   4,L
+   1
+   1,L
+   6,R
+  17,L,D
+#DASH
+  10,D,X
+   4,L,J
+   7,L,K
+  13,U,X
+  13,R,C
+  13,R,D,X
+   8,R,J
+  28,R,D
+  11,R
+   2,R,J
+   4,R,K,G
+   6,R
+#0:25.721(1513)
+#RecordCount: 962
+#Speed: 302.50, -15.00
+#Pos: 424.81, -544.08
+  40
+
+#lvl_3
+  18,R
+   5
+   1,R,J,G
+   9,R
+   3,R,J
+   5,R
+   3,R,J
+  14,R
+   6,R,D,J
+   5,R
+   9,R,J
+   1,R,K
+  13,R
+  15,R,J
+   1,J
+   1,R,J
+   1,R,K,G
+   6,R,J,G
+  25,R
+   2,R,J
+   5,R
+  45,R,J
+   1,R,K,G
+   3,L,K
+   3,R,K
+   1,R,J,G
+  28,R,K,G
+  16,R,X
+  12,D
+   3,R,D
+   7,R
+  17,R,J,G
+#DASH
+  16,U,X
+  33,R,J
+  11,K,G
+   1,L,K
+  30,R,J,G
+  25,U,G
+   1,R,J,G
+   4,R,K,G
+   3,R
+   3
+#DASH
+  27,L,X
+Repeat, 15
+   1,G
+   1
+EndRepeat
+   1,J
+  25,L,J
+   8,R,J
+  29,R,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  16,R,K,G
+  11,R,X
+  14,R,C
+  27,R,J
+   8,J
+   2,R,J
+  12,R,K,G
+   1,R,J,G
+   2,L,J
+   1,J
+   2,L,J
+   5,R,J
+   1,R,K,G
+   1,R,J,G
+   8,R
+   2
+   2,R
+   1
+  10,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+   6,R,K,G
+   1,R,J,G
+  12,R
+   1,R,J
+   2,R
+   4,R,J,G
+  21,R
+   3,R,J
+   1,R,K,G
+  13,R
+   1,R,J
+   4,R
+#0:38.743(2279)
+#RecordCount: 1192
+#Speed: 195.67, 45.00
+#Pos: 1957.91, -742.25
+  40
+
+#lvl_4
+  10,R
+   5,R,J
+   9,R
+   2,R,J
+   1,R
+   1
+   3,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+   9,R,J
+   1
+   1,R
+   1
+   1,R
+   1,R,K,G
+   1,R,J,G
+  13,R
+   7,R,D,J
+   5,R
+   9,R,J
+   1,R,K
+  14,R
+   1,R,J
+  14,R
+   6,R,J
+   9,R
+   1,R,J
+   5,R
+#DASH
+   6,R,Z
+   1,R,J
+   1,L,K,G
+   4,R,K
+  13,D,X
+  13,R,D,C
+   3,R,J
+  32,R
+   1,R,G
+  10,R,J,G
+   5,R
+   1,R,J
+  14,R
+   1,J
+  12
+   2,R
+   2
+   1,R
+  20,D
+  12,R,D
+  21,D
+  19,R,D
+#DASH
+  15,R,D,X
+  12,D
+   6,R,D
+  10,R
+  14,R,D
+  17,R
+   1
+   1,R
+   1
+   1,R
+   1,R,J,G
+  25,R,K,G
+   1,R,J,G
+   3,L,J
+   4,J
+   3,R,J
+   3,R
+   1
+   3,R
+   1,R,J
+  10,R
+   1
+   1,R
+   1
+   1,R
+   1,J
+  11,R
+   2
+   2,R
+   1,R,J
+   1,R,K,G
+  13,R,J,G
+   1,R,K,G
+   9,R
+   3,R,J
+   5,R
+   1,R,J
+   8,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,J
+#0:48.586(2858)
+#RecordCount: 1424
+#Speed: 191.33, -105.00
+#Pos: 3479.06, -154.12
+  40
+
+#lvl_heart
+  14,R
+   1,R,J
+  30,R,D
+   1,R,J
+  14,R
+   4,R,J
+   8,R
+   1,R,J,G
+   8,R,K,G
+  26,R
+   1
+   1,R
+   1
+   1,R
+   2,R,J
+   1,R,K,G
+   6,R,J,G
+   5,R
+   2,R,J
+  11,R
+   9,R,J
+   9,R
+   1,R,J
+   3,R
+   1
+   1,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,J
+  21,R
+   1,R,J
+  14,R
+  10,R,J
+  11,R
+   2
+   2,R
+   1,R,J,G
+  10,R,K,G
+#DASH
+  18,R,U,X
+#heart collect
+  81,R
+Repeat, 13
+   2,D
+   2,R
+EndRepeat
+   2,L
+#0:55.862(3286)
+#RecordCount: 1571
+
+ChapterTime: 0:55.862(3286)

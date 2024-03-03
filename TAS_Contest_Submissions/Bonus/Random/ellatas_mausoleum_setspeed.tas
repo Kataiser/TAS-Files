@@ -1,0 +1,93 @@
+RecordCount: 163
+
+console load pansear/TasContest2024/tc24
+   1
+
+#Start
+  60
+Set Player.Speed 20000 -1625
+  17
+
+#lvl_intro
+Set Player.Speed 6480 -1800
+   1
+Set Player.Speed 13000 -2000
+   1
+  40
+
+#lvl_0
+Set Player.Speed 6000 2000
+   1
+Set Player.Speed 10560 -6480
+   1
+Set Player.Speed 10560 -9999
+   1
+Set Player.Speed 17100 0
+   1
+  40
+
+#lvl_1
+Set Player.Speed 0 -12000
+   1
+Set Player.Speed 2400 -99999
+   1
+  40
+
+#lvl_2
+Set Player.Speed 2300 -7000
+   1
+Set Player.Speed -3820 -9999
+   1
+Set Player.Speed 8720 9999
+   1
+   1,K
+Set Player.Speed.Y 5400
+   1
+Set Player.Speed 18980 9999
+   1
+  40
+
+#lvl_3
+Set Player.Speed 3840 -9999
+   1
+Set Player.Speed 9999 4000
+   1
+Set Player.Speed 9700 -11000
+   1
+Set Player.Speed 40810 -5200
+   1
+Set Player.Speed 30700 -1500
+   1
+  40
+
+#lvl_4
+Set Player.Speed 8240 4860
+   1
+Set Player.Speed 2870 3854
+   1
+Set Player.Speed 31600 3000
+   1
+Set Player.Speed 11000 99999
+   1
+Set Player.Speed 6900 5000
+   1
+Set Player.Speed 22000 1200
+   1
+  40
+
+#lvl_heart
+Set Player.Speed 24600 -2000
+   1
+Set Player.Speed 2000 0
+   1
+  90,X
+
+Set Player.Speed 5000 900
+   2
+Set Player.Speed 0 -2500
+   1
+Set Player.Speed 6000 -1000
+   1
+  45,L
+
+ChapterTime: 0:06.647(391)

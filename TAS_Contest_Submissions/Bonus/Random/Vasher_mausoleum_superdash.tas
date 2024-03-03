@@ -1,0 +1,333 @@
+# TAS CONTEST
+# https://gamebanana.com/mods/497016
+
+#Team: Vasher
+
+RecordCount: 1579
+
+console load pansear/TasContest2024/tc24
+   1
+Set,SuperDashing,true
+
+#Start
+#lvl_intro
+  92
+   1,L,J
+   5,R,D,X
+   5,X
+   4,X
+   1,R,J
+   5,R,U,X
+   4,R
+   6,R,D
+   1
+   1,R,U
+   5,R,D,X
+   4,R,U
+   3
+   5,R,D
+   2
+   5,R,U,X
+   3,R,U
+   1
+   2,R
+  40
+
+#lvl_0
+   1
+   3,R
+   7,R,D
+   2
+   6,R,D
+   1,R,J
+   8,R
+#694
+   7,U,X
+  12,L
+   5,L,D,X
+   5,R,D,C
+  14,R,U
+   2
+   3,R,D
+   3,R
+   5,R,U,Z
+   6,U
+   4
+   1,J,G
+   6,R
+   1,L
+   3,L,J
+  13,L,U,X
+   1,L
+   9
+   1,J,G
+   7,L
+
+  12,L,Z
+   1,L,D
+   1
+   1,R,J
+   5,R,D,X
+   7,R,U
+   3
+   3,R,D
+   1
+   5,R,D
+   2,R
+   1,R,J
+   9,R
+   5,R,U,Z
+  40
+
+#lvl_1
+   3,R
+   1
+   2,U
+   1
+   9,U
+   5,L,U,X
+  12,R,U
+   3
+   3,L,U
+   2,R
+   5,R,U,X
+   2,U
+   5
+   1,U
+   8
+   1,U
+   2
+  12,R,J,G
+  10,R,K,G
+   2,R
+   1,R,J,G
+   6,R
+   1,L
+
+#transition wallbounce
+   5,U,X
+   7,R,U
+   1,L,U
+   5
+   5,L,U
+  40
+#lvl_2
+  16,R,J
+   5,U,X
+   7,R
+   5
+   1,R
+   3
+   1,U
+   2
+   1,R,J,G
+   7,R
+
+#setup 4f uhop
+   5,R,U,X
+   5,U
+  11
+   2,U
+   1
+   3,R,J,G
+  10,R
+  19
+
+   5,L,Z
+   2,L,D
+   2
+   1,L,U
+   1,R,J
+   4,R
+   1,R,J
+   2,R
+   5,L,Z
+   1,L,U
+   1
+   7,L,U
+   3
+   6,U
+
+#waiting for multiboost
+#is faster than just going
+  16,L
+   1,K
+  21,L,K
+   1,J
+   9,L,J
+  12,L,D
+   6,D
+   5,D,X
+   2,L,D
+   1,J
+   1,R,J
+   1,K,G
+   1,J,G
+   2,J
+   8,U,X
+   8,R,C
+   5,R,D,X
+   1,D
+   3
+   4,R,J
+   2,J
+   5,R,D,X
+   7,D
+   3,R
+   1
+   5,R,U,X
+   1,R,D
+  40
+
+#lvl_3
+   8,R,D
+   1,R
+   4,L,D,X
+   1,R,U,X
+   6,U
+   9,R,K,G
+   3,R
+   5,R,J
+   1,L
+  10,L,D
+  11,R,D
+#0:13.515(795)
+#210
+#sync (bubble)
+
+  14,R,Z
+   9,R,U
+   1
+  10,R
+   1,L
+   5,K,G
+   2,R,K
+   3,R
+   1,R,J,G
+  27,R,K,G
+  24,U,X
+  15,L,J
+
+#begin the chain. mwahaha
+   5,L,D,X
+   9
+   1,L,J
+   5,L,D,X
+   1,L,D
+   5,R,D,C
+   1,D
+  12
+   5,R,J
+   9,R
+   5
+   9
+   9,U,X
+   8
+   5,L,D,C
+   1,D
+   1,R,J
+   4,R
+   9
+   5,R,D,X
+   3,R
+   6
+   1,R,J
+   5,R,U,Z
+   1,R,D
+   2
+   2,R,U
+   5
+   2,R,D
+   1
+   2,R,D
+   1
+   5,R,D,X
+   3,U
+   1
+  40
+
+   1,R
+   2
+   1,R,D
+   1
+   1,R,U
+   1
+   1,U
+   4,U,X
+   1,R,D,X
+   3
+   5,D,C
+   4,R
+#funny liftboost
+   1,R,J
+   4
+   1,R
+   5,R,D,X
+   2,D
+   3,R,U
+   1
+   5,R,D,X
+   1
+#slow down to manip camera
+   1,R
+   7
+   1,L,J
+   5,D,X
+   5
+   5,L,D
+   1
+   6,R,D
+   1
+   1,R,D
+  10,R
+   1,R,J,G
+  10,R,K,G
+   1,R
+   1,R,J,G
+   7,R
+   2,R,J
+   5,D,X
+   1,L,D
+   8
+   1,L,J
+   5,L,D,X
+   1
+   3,D
+   3
+   2,D
+  10
+   4,D
+   9,L,D
+
+   1,J,G
+  13,L
+   5
+  14,R,Z
+   1,R,J
+   5,R,D,X
+   1,R,U
+   6
+   1,R,D
+  10
+   1,R,D
+   4
+   5,R,U,X
+   1,R,U
+   1
+   5,R,D
+  40
+#lvl_heart
+   2,R,D
+   1,R
+   5,R,D,X
+   1,R,D
+   5
+   1,R,D
+   5
+   5,R,D,X
+   6,U
+ 135
+Set,SuperDashing,false
+
+ChapterTime: 0:24.837(1461)
+
