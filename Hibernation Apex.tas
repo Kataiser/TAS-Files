@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 1642
+RecordCount: 1783
 
 console load ricky06/hibernation/ricky06
    1
@@ -293,7 +293,6 @@ console load ricky06/hibernation/ricky06
    5,L,Z
    1,L,J
    2,L
-***S
   40
 
 #lvl_a-03a
@@ -340,7 +339,6 @@ console load ricky06/hibernation/ricky06
   18,L,J
    2,L
    1,L,J
-***S
    1,L
   15,L,U,X
   20,L
@@ -374,10 +372,8 @@ SkipInput,3,1
    4,X
 EndStunPause
    2,L,J
-***
   34,L,D
    5,L
-***
    4,Z
    1,L,J
    6,L
@@ -385,7 +381,30 @@ EndStunPause
   40
 
 #lvl_a-03b
- 100,L,J
+  20,L,J
+   1,J
+  15,U,X
+   1
+  10,L,J
+  23,L,D
+   3
+   4,L,J
+   5,L
+   1,L,J
+  22,R,K
+  10,R,U,G
+   1
+  16,J
+   1,L,J
+  14,L,K
+   6,L,J
+  42,L
+   2,R
+   6,R,J
+   4,R
+  15,L,U,X
+  50,L,D
+ 100,D
 
 
 
