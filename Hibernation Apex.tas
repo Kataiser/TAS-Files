@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 2837
+RecordCount: 2872
 
 console load ricky06/hibernation/ricky06
    1
@@ -176,7 +176,6 @@ console load ricky06/hibernation/ricky06
   15,R,D,K,X
    1,R,D,K
    7,R,K
-
   24,R,J
    8,R
   15,R,U,X
@@ -185,14 +184,15 @@ StunPause
   34,R,D
    3,D
 EndStunPause
-  14,D
-   7,R,D
+   9,D
+   9,R,D
+   3,D
   10,L,D,X
-  31,R,J
+  30,R,J
   15,R,U,X
-  14,R
-  15,R,U,G
-  13,R
+  11,R
+   9,R,U,G
+  12,R
    6,R,Z
    1,R,J
    6,R
@@ -255,6 +255,9 @@ EndStunPause
   44,L,J
   54,L,U,G
   12
+#spinner cycle
+   2
+#
   13,L,Z
    1,R,J
    6,R
@@ -627,4 +630,4 @@ EndStunPause
    1,Z
   36,R,J
 
-ChapterTime: 1:54.155(6715)
+ChapterTime: 1:54.002(6706)
