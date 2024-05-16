@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 831
+RecordCount: 1194
 
 console load peja/mtc2/Daze
    1
@@ -157,24 +157,25 @@ console load peja/mtc2/Daze
 #lvl_a4
    2,R,D,X
    1,R,J
-  20,R,D
+  19,R
+   1,R,D
    1,R,J
    1,R,K
-   7,R,J,G
+   6,R,J,G
    1
-   8,R
+   4,R
+   5,R,J
    1,R,K,G
   18,R
    1,D
-   1,R,D
+   1,R
   15,R,X
    5,R
    1,R,J,G
    2
-   1,R,J,G
+   1,J,G
    5
    2,R
-Invoke,Player.MoveV,0.3
    8,L,Z
    1,R,J
    6,R
@@ -182,23 +183,42 @@ Invoke,Player.MoveV,0.3
    7,R
   12,R,U,X
    1,R,J,G
-  13,R
+   7,R
+   1
+   1,R
+  27,R,J
+   3,R,D
+   1,R
+  15,L,D,X
+  35,R
+   5,R,U,X
+  21,R
+   4,L,J
+   4,L
+  50,R,D
+  15,R,X
+   8,R
+  12,L
+  43,L,U,G
+   1
+   1,J
    1,R,J
+   1,L,J
+   1,K,G
+   1,J,G
+   5
   15,R,D,X
- 100,R
+   5,R
+Repeat 4
+   1,R,J
+   1,R,K
+EndRepeat
+  10,R,J
+   7,R
+   5,R,J
+  43
+  10,R,J
+  12,U,X
+ 134,D
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1000
+ChapterTime: 0:30.328(1784)
