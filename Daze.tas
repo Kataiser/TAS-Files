@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 1305
+RecordCount: 1683
 
 console load peja/mtc2/Daze
    1
@@ -30,21 +30,30 @@ console load peja/mtc2/Daze
    2,R,K,G
    3,L,K
   21,R,K
-   9,L,K
-  79,L,U,G
-   1
-   1,J,G
-  15,R,D,X
-  16,R
-   1,L
-  10,J,G
-  13,R,J
-   9,L,J
-  51,L,G
-  36,R,J
-   6,R,Z
+  13,L,K
+  53,L,G
+   8,D,G
+   2,R
+   2
    1,R,J
-   7,R
+   5,R,K,G
+   9,R
+   1,R,J
+  22,R,D
+   1,L,D
+   2,J,G
+   4,R,J
+   6,R
+   2,R,K
+   1,R
+   1,R,J,G
+   9,R,K,G
+   3,R
+  15,R,U,X
+  16,R
+   8,R,Z
+   1,R,J
+   6,R
    1,R,J
   10,R,D,X
   40
@@ -55,8 +64,7 @@ console load peja/mtc2/Daze
   24,L,J
    2
    1,L
-  43
-   1,R
+  44
    8,U,X
   14,R,J
   10,R
@@ -65,10 +73,11 @@ console load peja/mtc2/Daze
   15,U,X
   15,R,D,C
   10,R,D
-   4,R
-  25,R,J
-  15,R,X
-   4,R
+  20,R,J
+  15,R,U,X
+  24,R
+   1,R,D
+  13,L,D
 
 #  24,L
 #  36
@@ -83,26 +92,26 @@ console load peja/mtc2/Daze
 #   5,R,J
 #  15,R,X
 
-  26,L
   10,R,Z
-   2,R,J
-   1,R
-   1
-  15,R,D,X
+   1,R,J
+   2,J
+   2,R
+  14,R,D,X
    1,L,J,G
-  19,R,J
-   7,R
+  17,R,J
+   9,R
    1,R,J
    1,R,K
    1,R,J
-  10,R,K
-  18,R
+   1,R,K
+   7,R,J
+  16,R
    5,R,J
   40
 
 #lvl_a3
    2,R,J
-   8,R
+   4,R
   15,R,X
    5,R,D,C
   10,R,D,K,C
@@ -197,7 +206,8 @@ console load peja/mtc2/Daze
    1,J,G
    5
   15,R,D,X
-   5,R
+   3,R
+   2,F,153.5386
 Repeat 4
    1,R,J
    1,R,K
@@ -206,8 +216,8 @@ EndRepeat
    7,R
    5,R,J
   43
-  10,R,J
+   8,J
   12,U,X
  134,D
 
-ChapterTime: 0:29.716(1748)
+ChapterTime: 0:28.441(1673)
