@@ -1,12 +1,10 @@
-RecordCount: 194
+RecordCount: 391
 
 console load Socks/SpeedTrials/speedtrials
    1
 
 #Start
-***
   88
-***S
 
 #lvl_00
    5,R,J
@@ -48,9 +46,7 @@ console load Socks/SpeedTrials/speedtrials
   17
 
 #lvl_03
-***
    8
-***
    1,J
    4,R,J
    6,L
@@ -69,6 +65,56 @@ console load Socks/SpeedTrials/speedtrials
   17
 
 #lvl_04
+   9
+   3,L,J
+   8,L
+   3,L,J
+   3,L
+   3
+   1,L
+   6,L,Z
+   1,R,J
+   7,R,K,G
+   7,R
+   1,R,J
+   7,R,D,X
+  17
+
+#lvl_05
+   1,L,J
+   8
+  10,L,Z
+   3,R,J
+   2,R
+   6
+  14,L,Z
+   3,R,J
+  15,R,D,X
+   2,R
+   1,R,J
+   7,R,D,X
+  17
+
+#lvl_06
+   4,R,J
+   2,R,J
+  10
+  10,R,D,X
+  10,L,J
+  17,L,D,X
+   1,R,J
+  13,R,U,Z
+   1,L
+   1,J,G
+  15,R,D,X
+   1,R,J
+   4,R,K,G
+  12,R,D,X
+  17
+
+#lvl_07
+  10
+
 
   
 
@@ -84,4 +130,4 @@ console load Socks/SpeedTrials/speedtrials
 
 
 
-1000
+#1000
