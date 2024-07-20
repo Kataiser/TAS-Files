@@ -1,0 +1,19 @@
+RecordCount: 12
+
+#console load xminty77/TheEnigma/Prologue
+#   1
+#  36
+
+#Start
+Repeat 85
+  15,U,X
+  35,D
+   2,J
+  14,L,D,X
+   1,R,J
+  15,R,U,X
+  28,D
+  15,L,C
+EndRepeat
+
+ 100
