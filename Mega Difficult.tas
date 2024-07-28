@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 2059
+RecordCount: 2151
 console load peja/megadifficult/megadifficult
    1
 
@@ -335,49 +335,44 @@ Set,SilverBerry[a1:6079].Position,0,0
    1,L,J
    1,K,G
   15,U,X
-   4
-   8,R
-  10,L,X
-  13,R,J
-  14,L,U,X
+  14,R
+  13,R,J,G
+  15,L,U,X
    4,J
    6,R,X
    6,R,J
    4,R
    5,R,K,G
-   8,R
-   1,R,J
-   1,R
-  15,R,D,X
-   5,R,D
-  10,R,J
-   2,R
-  15,U,X
-   4,R
-  13,L,X
-   4,R,J
-   1,R,K
-  14,R,C
-   4,R,J
-   1,R,K
-  15,R,D,X
+   6,R
    2
-   1,R,J,G
+   1,R,J
    1
-  12,R
-   8,R,Z
-   5,R,J
-   7,R
-   1
-   6,R
-   4,D
-   1,L,J
-  16,L,D
-  10,D
+  15,R,D,X
+   2,D
    3,R,D
+   8,R,J
+  14,R,U,Z
+   2,R,J,G
+   5,R
+   2,R,J
    4,R
+   1
+   7,R
+   1,R,J,G
+   5,R
+   1,R,J
+   9,R
+  13,R,Z
+   5,R,J
+  15,R
+   3,D
+   1,L,J
+  18,L
+   9,D
+   3,R,D
+   2,R
   15,R,Z
-   6,R
+   8,R
   10,R,J
   15,R,X
    7,R
@@ -463,5 +458,5 @@ Set,SilverBerry[a1:6079].Position,0,0
   15,R,U,X
  134,R,D
 
-ChapterTime: 0:47.770(2810)
+ChapterTime: 0:47.430(2790)
 #Draft time: 48.042
