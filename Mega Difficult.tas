@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 2610
+RecordCount: 2724
 console load peja/megadifficult/megadifficult
    1
 
@@ -47,7 +47,6 @@ Set,SilverBerry[a1:6079].Position,0,0
    7,R,D
    2,R
    8,R,Z
-
    3,R,J,G
    6,R
    2,J
@@ -94,8 +93,7 @@ Set,SilverBerry[a1:6079].Position,0,0
   14,R,X
    7,R,J
    1,J
-   3,K,G
-   1,L,K
+   4,K,G
   15,L,X
    6,L
   15,D,X
@@ -184,12 +182,14 @@ Set,SilverBerry[a1:6079].Position,0,0
    1,R,J,G
    7,J
    1,R,J
-  11,R,K,G
-  12,R,J,G
-  15,R,X
-   3,R
-   3
-  11,R,Z
+  10,R,K,G
+   1,R
+   6,R,J,G
+   6,R
+   7,R,X
+   1,R,J,G
+  14,R
+   7,R,Z
    1,R,J
    7,R
    1,R,J
@@ -251,17 +251,21 @@ Set,SilverBerry[a1:6079].Position,0,0
    9,R,U,Z
    1,J,G
   11
-  28,R,D
-   9,R,X
-   9,R,J,G
-  13,R
+  14,R
+  15,R,D,X
+   3,R
+   2,R,D
+   1,D
+   1,R
+   4,R,J,G
+  16,R
   40
 
 #lvl_a5
    4,R
-  15,D,X
+  16,D,X
    3,R,D
-  10,R,Z
+  10,R,D,X
    7,R,J
    2,R
    1,R,J
@@ -446,5 +450,5 @@ Set,SilverBerry[a1:6079].Position,0,0
   15,R,U,X
  134,R,D
 
-ChapterTime: 0:45.917(2701)
+ChapterTime: 0:45.832(2696)
 #Draft time: 48.042
