@@ -1,4 +1,4 @@
-RecordCount: 1735
+RecordCount: 1747
 
 console load Socks/SpeedTrials/speedtrials
    1
@@ -130,7 +130,6 @@ console load Socks/SpeedTrials/speedtrials
    7,R,D
    1,R,J
    7,R,D,X
-***S
   17
 
 #lvl_08
@@ -212,11 +211,9 @@ Set,Player.Speed.X,562
   15,R,D,X
    1,R,J
    9,R,D,X
-***S
   17
 
-#lvl_10
-***
+#lvl_11
    6
    3,R,J
    6,R
@@ -239,11 +236,11 @@ Set,Player.Speed.X,562
    1,R,J
    1,R
   15,R,D,X
+Set,Player.Speed.X,334
   12,R,U,Z
   17
 
 #lvl_12
-***
    2,R,J
    1,J
    1,R,J
@@ -275,7 +272,6 @@ Set,Player.Speed.X,562
    2,R,K,G
    2,R
    1,R,J,G
-***
    7,R
 Invoke,Player.MoveH,15
    4,R
@@ -284,10 +280,8 @@ Invoke,Player.MoveH,15
   17
 
 #lvl_12
-***
    1,L,J
   14,L
-***
   14,L,Z
    1,R,J
   21,R,J,G
