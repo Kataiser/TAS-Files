@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 4028
+RecordCount: 4094
 console load peja/megadifficult/megadifficult
    1
 
@@ -255,19 +255,16 @@ console load peja/megadifficult/megadifficult
   15,R,D,X
    5,R
    1
-   2,R
-   3,R,D
-   1,R
-   7,R,D
-   2,L,J,G
-   6,R
-   1,R,J
-   3,R
+   4,R
+   9,R,D
+   1,L,J,G
+   2,R,J
+   9,R
   40
 
 #lvl_a5
    3,R
-  16,D,X
+  15,D,X
    3,L,D
   10,R,D,X
    7,R,J
@@ -451,5 +448,5 @@ console load peja/megadifficult/megadifficult
   15,R,U,X
  134,R,D
 
-ChapterTime: 0:44.421(2613)
+ChapterTime: 0:44.404(2612)
 #Draft time: 48.042
