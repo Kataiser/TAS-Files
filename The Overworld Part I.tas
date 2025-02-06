@@ -1,0 +1,14 @@
+# By Kataiser
+RecordCount: 3
+console load UnderDragon_theOverworld/0-Lobbies/1-nightingaleCity
+***S
+
+#Start
+  90
+
+#lvl_nc00
+   4,Z
+   1,R,J
+   7,R
+   1,R,J
+ 100,R
