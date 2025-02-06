@@ -1,14 +1,84 @@
 # By Kataiser
-RecordCount: 3
+RecordCount: 280
 console load UnderDragon_theOverworld/0-Lobbies/1-nightingaleCity
-***S
 
 #Start
   90
 
 #lvl_nc00
-   4,Z
+   6,R,Z
    1,R,J
    7,R
    1,R,J
+Repeat 9
+  14,R,D,X
+   1,R,J
+EndRepeat
+   1,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   5,R,J
+   9,R,K,G
+  14,R,U,X
+  40
+
+#lvl_nc00a
+   1,R
+  15,U,X
+  15,R,D,C
+   1,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R,D,X
+  40
+
+#lvl_nc01
+   3,R,D,X
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+  11,R,J
+   6,R,J
+   4,R,K,G
+   6,L,D,X
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+   6,R,J
+   9,R
+   8,R,J
+  15,R,D,X
  100,R
+
+
+
+   3,R,D,X
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+  16,R,J
+  14,R,Z
+   9,R,J
+  14,R,Z
+   7,R,J
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+   3,R,J
+   9,R
+  15,R,U,X
+  14,R,Z
+   8,R,J
+  14,R,D,X
+   6,R,J
+  15,R,D,X
+   3,R
+ 102,R,J
