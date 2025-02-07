@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 897
+RecordCount: 985
 console load UnderDragon_theOverworld/0-Lobbies/1-nightingaleCity
 
 #Start
@@ -120,7 +120,6 @@ EndRepeat
    6,R
    6,R,J,G
    2,R
-***S
   40
 
 #lvl_nc02 (1)
@@ -147,17 +146,13 @@ EndRepeat
   11,U,X
   25,L,J
    2,L
-***
    4,X
   11,L,J
    7,L
-***
    6,L,Z
    1,L,J
    6,L
-***S
   40
-***
 
 #lvl_nc04_warp (0)
    1,L
@@ -166,14 +161,12 @@ EndRepeat
    1,L,J
   14,L,D,X
    1,L,J
-***
    4,L
    1,L,K
    2,L
    4,L,J
    9,L,K,G
    6,K
-***
   15,U,X
    1,L
   24,L,J
@@ -181,39 +174,30 @@ EndRepeat
    1
   11,L,J,G
    1
-***
    2,K,G
-***
    6
    1,R
    1,R,J
    3,J
-***
   15,U,Z
-***
    1,R
   24,R,J
-***
    3,R
    1,R,J
    4,X
   11,L,J
    4,L
    3
-***
    1,L,J
    2,J
    1,L,J
    8,R,K
-***
   10,L,U,X
   12,L,J,G
   40
 
 #lvl_nc04b (0)
-***
   15,U,X
-***
    4,R
   40
 
@@ -224,7 +208,6 @@ EndRepeat
   40
 
 #lvl_nc04b (1)
-***
    5,R,U,Z
   40
 
@@ -237,7 +220,6 @@ EndRepeat
   15,R,Z
    2,R
    4
-***
    8,R,J
    7,R
    2,R,J
@@ -246,7 +228,6 @@ EndRepeat
   40
 
 #lvl_nc04z
-***
    5,R
    6
    8,U,X
@@ -258,10 +239,8 @@ EndRepeat
    1,R,J,G
   12,R
    5,D,X
-***
    3,R
   21
-***
    5,L
   24,D
    1,R,J
@@ -276,3 +255,40 @@ EndRepeat
    3,R,J
   15,U,X
   10,L
+  15,L,U,X
+   1
+  12,R,J,G
+   6,R,K,G
+   3,J
+  40
+
+#lvl_nc05
+   6,R
+   1,R,J,G
+   6,R,K,G
+  14,R,X
+   5,J
+  10,R,X
+  19,L,J
+   5,L
+  15,U,Z
+   1,R
+   7,J
+  16,R
+  13,U,X
+  36,L,J
+  15,L,U,X
+   5,L
+   1,L,J
+   3,L,K
+  18,L,U,X
+   7,L
+  15,U,X
+  14,R,Z
+  10,R,J
+   1,R
+   2,R,K,G
+   5,R
+  12,R,U,X
+   1,R,J,G
+ 100,R
