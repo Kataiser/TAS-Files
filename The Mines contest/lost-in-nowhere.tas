@@ -114,7 +114,7 @@ console load Mika/Mines/1-Mines
 #  15,U,X
 #   8
 #  15,L,X
-#... 
+#...
   32
    1,L,J
    3
@@ -358,4 +358,3 @@ ChapterTime: 0:40.596(2388)
 
 #0:40.596(2388)
 ok
-

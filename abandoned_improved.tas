@@ -135,8 +135,8 @@
   23,L,J,G
    8,K,G
   52,D
-  
-  #room5
+
+#room5
    6,L,J
    4,L
    3,D,X
@@ -441,7 +441,7 @@
   15,R
    1,L
   10,D
-#grabbing animation, 
+#grabbing animation,
 #371.93, -2589.18
   30,G
   15,R,J

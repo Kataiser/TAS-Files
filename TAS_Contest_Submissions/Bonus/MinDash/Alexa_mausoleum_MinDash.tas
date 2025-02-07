@@ -6,7 +6,7 @@ Console load pansear/TasContest2024/tc24
   92
 
 #Waste four frames
-4,
+   4
 #Just for fun
 
 #lvl_intro
@@ -54,17 +54,17 @@ MidwayChapterTime: 0:03.502(206)
    1,R,D
    3,R
    1,R,J
-7,R,J
-12,R,D
-2,R
-1,R,D
-1,R,K
-1,
-9,R
+   7,R,J
+  12,R,D
+   2,R
+   1,R,D
+   1,R,K
+   1
+   9,R
    1,R,J,G
-1,R,G,K
-14,R
-1,R,D
+   1,R,K,G
+  14,R
+   1,R,D
    4,R
   45,R,J
    1,R,K,G
@@ -77,65 +77,65 @@ Repeat 3
    1,R,K
    1,L,K
 EndRepeat
-2,R,K
-1,L,K
-1,G,J
-1,R,J
-2,L,G,K
-1,R,K
-10,L,K
+   2,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+   2,L,K,G
+   1,R,K
+  10,L,K
   14,U,X
-1,R
+   1,R
    1,J
    1,K,G
    2,K
-1,L,K
+   1,L,K
    9,R,D,X
    1,R,J
-10,
+  10
   11,D
-1,D
+   1,D
    1,K
    3,R,J,G
-1,L,J
+   1,L,J
    4,J
    1,R,J
-1,J
-2,R,J
-1,J
-  3,L,J
-1,R,J
-1,G,K
-1,L,K
-1,J
-21,R,J
+   1,J
+   2,R,J
+   1,J
+   3,L,J
+   1,R,J
+   1,K,G
+   1,L,K
+   1,J
+  21,R,J
    1,G
-1,R,J,G
-1,L,J
-1,R,J
-  9,J,
+   1,R,J,G
+   1,L,J
+   1,R,J
+   9,J
    8,K,G
    1,J,G
    3,R
-3,
+   3
    1,L
   10,L,J
-2,
-3,L
-4,L,K
-  14,L,G,J
+   2
+   3,L
+   4,L,K
+  14,L,J,G
    5,K,G
-1,
+   1
    1,J,G
    3,L
-1,
-1,
-1,L
+   1
+   1
+   1,L
    1,R
   11,R,J
-  9,R
-2,R,J
-2,R
+   9,R
+   2,R,J
+   2,R
    1,R,J,G
    3,R,K,G
   20,R
@@ -166,26 +166,26 @@ MidwayChapterTime: 0:11.985(705)
   10,R
    8,D
   13,R,D
-3,D
-1,L,D
-1,J
-  9,G,K
-2,R,K
+   3,D
+   1,L,D
+   1,J
+   9,K,G
+   2,R,K
   11,R,D,X
-8,R,G,J
-5,R
-19,R,J
-1,K
-4,R,K
-8,R
-15,R,Z
-2,R
-1,K
- 16,L,J,G
-6,L,K,G
-1,
-1,L
-1,
+   8,R,J,G
+   5,R
+  19,R,J
+   1,K
+   4,R,K
+   8,R
+  15,R,Z
+   2,R
+   1,K
+  16,L,J,G
+   6,L,K,G
+   1
+   1,L
+   1
   62
    1,L
    1,J
@@ -223,26 +223,26 @@ MidwayChapterTime: 0:11.985(705)
 #3x
 MidwayChapterTime: 0:20.383(1199)
   12,J,G
-5,G,K
-3,R,K
-10,R
-1,R,J
-14,L,J
-1,R,J
-1,K,G
-1,L,K
-1,R,J,G
-9,L,J
+   5,K,G
+   3,R,K
+  10,R
+   1,R,J
+  14,L,J
+   1,R,J
+   1,K,G
+   1,L,K
+   1,R,J,G
+   9,L,J
   12,R,K,G
    4,J,G
    7,R
-3,R,J
+   3,R,J
   16,U,X
-1,L
+   1,L
    1,J
    1,K,G
    5,K
-1,R,K
+   1,R,K
    8,L,Z
   18,L,J
   17,R,K
@@ -254,39 +254,39 @@ MidwayChapterTime: 0:20.383(1199)
    3,R,J
    4,L,J
    1,K,G
-4,K
-1,R,K
-1,L,K
-1,L,K
-6,L,G,J
-1,L,J
-1,J
-1,J
-1,L,J
-1,L,G,K
-1,L,G,J
-2,L
-1,
-4,L,
-8,L,Z
-1,L,J
+   4,K
+   1,R,K
+   1,L,K
+   1,L,K
+   6,L,J,G
+   1,L,J
+   1,J
+   1,J
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   2,L
+   1
+   4,L
+   8,L,Z
+   1,L,J
    9,R,D,X
   12,R,J
-17,R
+  17,R
   18,R,D
    1,R,J
   18,R
-1,R,J
-6,R
+   1,R,J
+   6,R
   40
 
 #lvl_3
 #1x
 MidwayChapterTime: 0:26.554(1562)
-  8,R
+   8,R
    3,R,J
-15,R
-1,
+  15,R
+   1
   14,R
    1,R,J,G
    1,R,K,G
@@ -294,9 +294,9 @@ MidwayChapterTime: 0:26.554(1562)
    1,R,J
   18,R
    1,R,J
-13,R
-1,
-  1,R
+  13,R
+   1
+   1,R
    1,R,D
    4,R
   10,R,J
@@ -309,7 +309,7 @@ MidwayChapterTime: 0:26.554(1562)
   27,R
    3,R,J
    5,R
-   10,R,J
+  10,R,J
   33,R
    2,R,J,G
    2,L,J
@@ -323,76 +323,76 @@ MidwayChapterTime: 0:26.554(1562)
    2,R
   12
    8,D
-   3,
-   1,L,
+   3
+   1,L
    1,L,D
-1,L,
-1,D
+   1,L
+   1,D
    1,J,G
    3,L
    4
    1,R
-29,R,J
-1,
-  1,R,
-   2,L,
-2,R,
-1,L,G,K
-2,R,K
-3,L,K
-1,R,K
-5,L,K
-1,R,K
-3,L,K
-1,R,K
-2,G,J
-1,L,J
-19,K
-1,
-1,G
-   10,K,G
+  29,R,J
+   1
+   1,R
+   2,L
+   2,R
+   1,L,K,G
+   2,R,K
+   3,L,K
+   1,R,K
+   5,L,K
+   1,R,K
+   3,L,K
+   1,R,K
+   2,J,G
+   1,L,J
+  19,K
+   1
+   1,G
+  10,K,G
    1,L,K
    1,R,K
    1,J
-1,K
-11,R,K
-15,R,U,X,J
-1,R,J
-8,R,J
-9,G,U,J
+   1,K
+  11,R,K
+  15,R,U,J,X
+   1,R,J
+   8,R,J
+   9,U,J,G
 Repeat 33
-1,G,D,J
-1,G,U,J
+   1,D,J,G
+   1,U,J,G
 EndRepeat
-4,R,J
-1,R
-1,G
-1,
-5,G
-1,
-4,G
+   4,R,J
+   1,R
+   1,G
+   1
+   5,G
+   1
+   4,G
    1
    1,R,J,G
    1,R,K,G
-1,R,J,G
+   1,R,J,G
   17,R,K,G
-10,U,X
-6,L,D,C
-1,R,J
-5,R
-9,D,X
-9,R,C
-3,J
-21,R,J
-1,R,G,K
-1,K
-4,L,G,K
-1,R,G,J
-2,R,J
-1,R,G,K
-3,R,G,J
-21,R
-1,
+  10,U,X
+   6,L,D,C
+   1,R,J
+   5,R
+   9,D,X
+   9,R,C
+   3,J
+  21,R,J
+   1,R,K,G
+   1,K
+   4,L,K,G
+   1,R,J,G
+   2,R,J
+   1,R,K,G
+   3,R,J,G
+  21,R
+   1
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -432,29 +432,29 @@ MidwayChapterTime: 0:39.270(2310)
    4,R
   12,R,J
    1,K
-9,R
-1,R,J
-  6,R
+   9,R
+   1,R,J
+   6,R
    1,R,J
   14,R
    3,R,J
-1,R
-10
-  7,L,Z
-1,R,J
-6,R
+   1,R
+  10
+   7,L,Z
+   1,R,J
+   6,R
    3,R,J
   12,D,X
    7,R,D,C
    4,R,J
-5,R
-3,R,
-18,R
-3,R,D
-3,R
+   5,R
+   3,R
+  18,R
+   3,R,D
+   3,R
    1,G
    1,R,J,G
-12,R,K,G
+  12,R,K,G
   24,R,J
   21,D
   15,R,D
@@ -464,36 +464,36 @@ MidwayChapterTime: 0:39.270(2310)
   11,D
    4,R,D
   19,R
-   1,
+   1
   21,R,D
    5,R
-1,R,D
-1,R
+   1,R,D
+   1,R
   29,R,J,G
-1
-1,G,J
-1,L,J
-12,R,G,K
-10,R
+   1
+   1,J,G
+   1,L,J
+  12,R,K,G
+  10,R
    1,R,J
   14,R
-2
-  9,R
+   2
+   9,R
    1,R,J
    1,R,K,G
-  1,R,J,G
-2,J
-2,R,J
-3,J
-6,R,J,
+   1,R,J,G
+   2,J
+   2,R,J
+   3,J
+   6,R,J
    1,R,K,G
-1,R,J,G
-12,R
+   1,R,J,G
+  12,R
    1,R,J
-1,
-4,R
-3,R,
-  5,R
+   1
+   4,R
+   3,R
+   5,R
    1,R,J,G
    1,R,K,G
   11,R
@@ -504,11 +504,11 @@ MidwayChapterTime: 0:39.270(2310)
 #lvl_heart
 #1x
 MidwayChapterTime: 0:49.045(2885)
-   10,R
+  10,R
    1,R,J
   30,R,D
    1,R,J
-14,R
+  14,R
    6,R,J
   13,R
    1,R,J,G
@@ -516,12 +516,12 @@ MidwayChapterTime: 0:49.045(2885)
   12,R
    1,R,J
   15,R
-   2,
-2,R
-1,
-1,R
-1,
-  1,R
+   2
+   2,R
+   1
+   1,R
+   1
+   1,R
    1,R,J
    1,R,K,G
    1,R,J,G

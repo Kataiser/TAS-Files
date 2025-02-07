@@ -444,7 +444,7 @@ EndRepeat
 #   1,R,D
 #  30,R
 #  15,R,Z
-#Invoke Player.MoveH 
+#Invoke Player.MoveH
 # 100,R
 ##
    3,D

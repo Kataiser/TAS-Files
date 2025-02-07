@@ -9,7 +9,7 @@ console load pansear/TasContest2024/tc24
 #Start
   92
 
-#lvl_intro   
+#lvl_intro
    1,R,J
   12,R,Z
    8,R,J
@@ -469,4 +469,3 @@ EndRepeat
   60,R,J
 
 ChapterTime: 0:33.116(1948)
-

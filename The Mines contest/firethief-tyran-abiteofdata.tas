@@ -1,7 +1,7 @@
 #TheMinesTAS
 #By Tyran, Firethief1, and abiteofdata
 
-console load Mika/Mines/1-Mines 
+console load Mika/Mines/1-Mines
 
 #lvl_a_01
    1
@@ -238,4 +238,3 @@ RecordCount: 1135
 
 #0:38.845(2285)
 ok
-

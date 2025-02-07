@@ -104,7 +104,7 @@ console load 5
    1,J
   32,D
    1,J
-   #8 air frames to goof off in
+#8 air frames to goof off in
    1,L
    1,R
    1,L
@@ -390,9 +390,9 @@ console load 5
   17,L,D,X
   17,D,C
   17,L,D,X
-   
+
   17,L,C
- 
+
   18,L,X
   18,U,C
   18,U,X

@@ -2,7 +2,7 @@ console load StrawberryJam2021/0-Gyms/1-Beginner -912 728
   37
 
   20
-console start_rec beginner_cloudjump_1 
+console start_rec beginner_cloudjump_1
   30
 
   10,R

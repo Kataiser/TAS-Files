@@ -1418,7 +1418,7 @@ console load 7
 #lvl_f-07
   11
   11,R,D,X
-   
+
    4,R,J
    7,R,K,G
   13,J
@@ -1980,7 +1980,7 @@ Set,ExtendedVariantMode.GroundFriction,0
   12,L,D
   14,L,D
    1,L
-   
+
 Set,ExtendedVariantMode.AirFriction,-1
 Set,ExtendedVariantMode.GroundFriction,-1
    5
@@ -2152,7 +2152,7 @@ Set,ExtendedVariantMode.GroundFriction,-1
   14,R,K,G
   14,R,J,G
  100,R,K,G
-   
+
  168
 
 #Flag 6
@@ -2269,7 +2269,7 @@ Set,ExtendedVariantMode.GroundFriction,-1
    2,L,X
    1,L,J,G
    7
-   
+
 #Flag 2 boi
   20,L,J
   15,U,X

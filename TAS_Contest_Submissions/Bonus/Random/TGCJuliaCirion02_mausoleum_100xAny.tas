@@ -1,5 +1,5 @@
 #Made by TGCJulia and Cirion02
-#100x dash speed 
+#100x dash speed
 
 console load pansear/TasContest2024/tc24
    1
@@ -33,7 +33,7 @@ console load pansear/TasContest2024/tc24
    1,L,K
    1,L,J
    8,L,D
-   
+
 #   6,R,J
 #  22,R,D
 #  45,G

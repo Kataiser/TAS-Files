@@ -2,7 +2,7 @@ console load StrawberryJam2021/0-Gyms/2-Intermediate 168 1504
   37
 
   20
-console start_rec intermediate_neutraldrop_1 
+console start_rec intermediate_neutraldrop_1
   30
   15,G
   11,R,J,G
@@ -19,7 +19,7 @@ console stop_rec
 console load StrawberryJam2021/0-Gyms/2-Intermediate 400 1504
   37
   20
-console start_rec intermediate_neutraldrop_2 
+console start_rec intermediate_neutraldrop_2
   30
   15,G
    2,R
@@ -36,7 +36,7 @@ console stop_rec
 console load StrawberryJam2021/0-Gyms/2-Intermediate 632 1504
   37
   20
-console start_rec intermediate_neutraldrop_3 
+console start_rec intermediate_neutraldrop_3
   30
   15,G
   21,R,G

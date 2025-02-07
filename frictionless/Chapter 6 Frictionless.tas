@@ -1282,7 +1282,7 @@ Set,ExtendedVariantMode.GroundFriction,-1
   10,L,X
   33,L,D
 Set,ExtendedVariantMode.AirFriction,0
-  #2 frames of 0.05x friction
+#2 frames of 0.05x friction
    2,R,D
 
 Set,ExtendedVariantMode.AirFriction,-1

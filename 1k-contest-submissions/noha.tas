@@ -1,12 +1,12 @@
 RecordCount: 2588
 
 #Restart
- #  1,Q
- #  1,J
- # 31
+#  1,Q
+#  1,J
+# 31
 
 #load
-console load pansear/summit/1k 
+console load pansear/summit/1k
    1
 
 #intro
