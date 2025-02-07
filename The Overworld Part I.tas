@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 985
+RecordCount: 1748
 console load UnderDragon_theOverworld/0-Lobbies/1-nightingaleCity
 
 #Start
@@ -280,7 +280,8 @@ EndRepeat
   15,L,U,X
    5,L
    1,L,J
-   3,L,K
+   1,L,K
+   2,L
   18,L,U,X
    7,L
   15,U,X
@@ -291,4 +292,247 @@ EndRepeat
    5,R
   12,R,U,X
    1,R,J,G
- 100,R
+  10,R
+  40
+
+#lvl_nc06
+   3,R
+  11,R,J
+  10,R
+  15,U,Z
+   1,R
+  18,L,J
+  12,L,K,G
+   5,L,J,G
+   6,K,G
+   8,L,K
+   8,J,G
+   1,K
+   2,J,G
+  14,R,J
+  11,L,K
+  15,R,U,X
+   9,R
+  10,R,X
+   5,J
+   8,R,Z
+   1,R,J
+   4,R
+# really? surely this retry is avoidable somehow right
+   1,S
+   1,D,J
+  69,O
+   9,L,Z
+   1,R,J
+   3
+   4,R
+  14,R,J
+  15,U,Z
+   1,R
+  18,L,J
+  12,L,K,G
+   5,L,J,G
+   6,K,G
+   8,L,K
+   8,J,G
+   1,K
+   2,J,G
+  14,R,J
+  11,L,K
+  15,R,U,X
+   9,R
+  10,X
+   5,J
+  14,R,Z
+   1,R,J
+  15,R,D,X
+   1,N
+  15,L,D,C
+  18,R,J
+   1,R
+  13,R,Z
+   1,R,J
+   8,R
+   7,R,J
+  15,R,D,X
+   8,R
+   5,R,D
+   4,R,J
+  40
+
+#lvl_nca00a
+  10,R,J
+   8,J
+  14,U,X
+  20,R,J
+   2,J
+   4,K,G
+   3,R,K
+   7,R
+  18,R,J
+  18,U,X
+   5,R
+  26,L,J
+   3,J
+  12,U,X
+  10,R,J
+  11,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  12,R,D,X
+  40
+
+#lvl_ncd00
+   2,R,D,X
+   1,R,J
+  14,R,D,X
+  10,R,J
+   8,R
+  11,R,J
+   5,J
+  14,U,X
+  27,L,J
+  15,L,X
+   3,L
+  12,U,C
+  14,L,J
+  11,L
+  14,L,U,X
+  40
+
+#lvl_ncd01
+  11
+   6,J,G
+   1,R,J
+  10,R,D,X
+   2,R,J
+   1,R
+   1,R,J
+   7,R
+   1,J,G
+  20,R,J
+  15,R,U,X
+   4,R
+  19,L
+   2
+  10,U,Z
+  27,L,J
+  15,L,U,X
+  15,L,C
+   1
+  29,R
+  18,R,X
+  15,R,D,C
+   6,R
+   7,R,D
+  14,R,Z
+   1,R,J
+  10,R,D,X
+  40
+
+#lvl_ncd02
+   4,R,D,X
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+  11,R,J
+  14,U,X
+  23,R,J
+   4,R
+  15,R,X
+   2,R
+  29,D
+   5,L,D
+   4,L
+   2
+   1,L,D
+  29,R
+   3
+  11,U,X
+  17,L,J
+  15,L,U,X
+   2
+  30,R
+  18,R,X
+   7,R
+   6,U,X
+  10,R,J
+   8,R
+   2,R,J
+   9,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   5,R,D,X
+***S
+  40
+
+#lvl_ncd03
+   9,R,D,X
+  10,R,J
+  14,R,U,X
+  22,L
+  15,U,X
+  23,R,J
+   7,R
+  15,R,U,X
+   4,R
+  15,R,C
+   8,R
+   3
+   1,R
+  22,L
+  15,U,X
+   9,L
+  47,D
+  15,R,X
+  20,R,D
+  17,D
+   5,L,D
+   6,L
+   1
+  11,L,Z
+  24,R
+  13,U,Z
+  14,R,J
+   8,R
+   5,R,J
+  15,R,U,Z
+   4
+  15,L,U,X
+   1
+  17,R
+  15,R,X
+  14,R
+***
+   4,R,Z
+   1,R,J
+   7,R
+***S
+  40
+
+***
+#lvl_nca00
+   7,R,J
+   3,R
+  14,R,Z
+   1,R,J
+  14,R,D,X
+***
+  21,R,J
+   8,R
+  14,R,Z
+   1,R,J
+   6,R
+   2,R,J
+  15,R,D,X
+   4,R,J
+  40
+
+#lvl_nca01
+  31,R,J
+  15,U,X
