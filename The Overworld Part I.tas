@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 3180
+RecordCount: 3706
 console load UnderDragon_theOverworld/0-Lobbies/1-nightingaleCity
 
 #Start
@@ -323,7 +323,6 @@ EndRepeat
    1,D,J
   69,O
 # Spinner cycle (guest_money2)
-***S
    1
 #
    9,L,Z
@@ -888,7 +887,6 @@ EndRepeat
    6,R,Z
    1,R,J
    5,R
-***S
   40
 
 #lvl_guest_money2
@@ -1037,3 +1035,159 @@ EndRepeat
   17,R
   15,R,U,X
    9,R
+  14,R,U,X
+   1,R,J,G
+   2,L,J
+   1,R,J
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  13,R,D,X
+  40
+
+#lvl_nca08
+   1,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R
+   1,N
+   1,R,J
+   2,R
+   6,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   4,R,K,G
+  12,R,D,X
+  40
+
+#lvl_nce00_warp
+   1,R,J
+   2,J
+   2,R,J
+   2,J
+  15,R,D,X
+   2,R,J
+  15,R,D,X
+   3,R,D
+   3,R
+Repeat 4
+   1,R,J
+   1,R,K
+EndRepeat
+  10,R,J
+  15,R,D,X
+   1,R
+Repeat 5
+   1,R,J
+   1,R,K
+EndRepeat
+   8,R,K
+  15,R,D,X
+Repeat 4
+   1,R,J
+   1,R,K
+EndRepeat
+   1,R,J
+  14,R,U,X
+   5,R,J,G
+   5,R,K,G
+  40
+
+#lvl_nce00a
+   3,R,K
+   1,S
+  35,D,O
+  13,R,U,X
+  23,R,J
+  14,R,X
+   8,R,J
+  15,R,U,X
+  10,R
+   6,R,Z
+   1,R,J
+   5,R
+***S
+  40
+
+#lvl_nce01
+   1,R
+   1,N
+   3,R,J
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   4,R,J
+  12,R
+  15,R,U,X
+   3,R
+  15,R,Z
+   5,R
+   6
+  15,R,X
+   2,R
+   1
+  15,U,X
+   1,L
+   1
+   1,L
+  10,U,X
+  11,L,J
+   5,L
+  15,L,X
+  15,R,C
+  17,D
+   1,L,D
+   6,L
+   5,R,J
+   1,R
+   7,R,X
+   2,R,J,G
+  18,R
+  15,R,Z
+  16,R,D
+   1,R
+   1,R,D
+   1,R
+  15,R,Z
+   6,R
+  15,R,D,X
+   7,R
+   3
+   7,L,Z
+   7,R,J
+   3,J
+   4,R,K,G
+  10,R,D,X
+  40
+
+#lvl_nce02
+   5,R,J
+***
+   2,R,K,G
+  12,R
+  28,R,J
+   1,J
+***
+  10,U,X
+
+***
+#2:28.138(8714)
+  12,R,J
+  12,R
+   2,R,J
+   2,R
+  15,R,X
+   5,R
+***
+   9,J,G
+   2
+***
+  12,R,U,X
+   1,R,J,G
+  14,R
