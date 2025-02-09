@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 1748
+RecordCount: 3180
 console load UnderDragon_theOverworld/0-Lobbies/1-nightingaleCity
 
 #Start
@@ -322,6 +322,10 @@ EndRepeat
    1,S
    1,D,J
   69,O
+# Spinner cycle (guest_money2)
+***S
+   1
+#
    9,L,Z
    1,R,J
    3
@@ -468,7 +472,6 @@ EndRepeat
    7,R
    1,R,J
    5,R,D,X
-***S
   40
 
 #lvl_ncd03
@@ -508,21 +511,17 @@ EndRepeat
   17,R
   15,R,X
   14,R
-***
    4,R,Z
    1,R,J
    7,R
-***S
   40
 
-***
 #lvl_nca00
    7,R,J
    3,R
   14,R,Z
    1,R,J
   14,R,D,X
-***
   21,R,J
    8,R
   14,R,Z
@@ -534,5 +533,507 @@ EndRepeat
   40
 
 #lvl_nca01
-  31,R,J
+  28,R,J
+   3,J
+   9,U,Z
+  15,R,J
+   8,R
+   2,R,K
+   3,R
+   1,R,K
+  13,R,Z
+   1,L,J
+   9,L,D
+  22,L,D,J
+  18,U,X
+  15,R,U,C
+   1,R,J,G
+   3,L,J
+   2,R,J
+   1,R,K,G
+   4,R
+   3
+   5,L,D,X
+   1,R,J
+   7,R
+   3,R,J
+  15,R,D,X
+   2,R
+   6,R,J
+  40
+
+#lvl_nca02
+  18,R,J
   15,U,X
+   3,R
+   7
+   1,L,G
+  13,R
+  15,R,X
+   1,R
+  14,R,Z
+   4,R,J
+   6,R
+   1,R,J
+   8,R,D
+  15,L,D
+   4,L
+   2,L,D
+  15,L,D,X
+  25,L,D
+  10,D
+   1,R,D
+  18,U,X
+  15,R,C
+  18,L,X
+   9,L,D,C
+   1,L,J,G
+  16,L,D
+   7,D
+  15,R,D,X
+  15,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   8,R,D,X
+  40
+
+#lvl_nca03
+   6,R,D,X
+  16,R,J
+  25,R,D
+  15,L,D,X
+  20,R,D
+   2
+   5,D
+  10,L,U,X
+   1,L,K,G
+  11,L
+  15,L,X
+  15,D,C
+   6,D
+   5,L,D
+  15,R,D,X
+   1,R,D
+  14,R,Z
+  24,R,J
+  19,R,U,Z
+  12,L,J,G
+   8,K,G
+   1,L,J,G
+   4,R,J
+   7,L,J
+   7,L
+   6,L,J
+  15,U,X
+   1
+  12,J
+   7,L,J
+  12,K,G
+  12,J,G
+   2,K,G
+   1,J
+   2,K,G
+  22,R,K
+   4,R,Z
+   1,R,J
+   4
+  40
+
+#lvl_nca03a
+   3
+   1,R
+   1,N
+   1,L,J
+   2,R
+   6,R,D,X
+   1,R,J
+  12,R
+   1,R,J
+  10,R,D,X
+   4,R,J
+  18,R
+   4
+   1,R
+   1,R,J
+  14,R,D,X
+  15,R,J
+  15,R,D,K,X
+   8,R,K
+  31,R,J
+  14,R,Z
+   8,R,J
+   3,R
+   6,R,D,X
+   1,R,J,G
+  11,R
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_nca04
+   7,R,J
+  15,R,D,X
+   7,R
+  30,R,J
+  15,R,U,X
+   1,R
+   2,J,G
+   2
+   1,R,K,G
+   4,L,K
+   5,R,K
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  40
+
+#lvl_nca05
+  21,R,J
+  15,U,X
+   1,R
+  24,L,J
+   5,K,G
+   1,J,G
+   1,R,J
+   1,L,K,G
+   2,L,J,G
+   1,K,G
+   1,R,K
+  15,L,K
+  15
+  15,L,D,X
+   1,L
+   1
+   1,L
+  10,L,D
+   1,L
+   1,L,D
+   1,L,J,G
+  20,L,K,G
+   4,K
+  15,R,X
+   9,U,Z
+  19,R
+  15,R,D,X
+  19,D
+   6,L,D
+   5,L
+   1
+   1,D
+   4,Z
+   1,R,J
+   6,R
+  18,R,J
+   6,U,Z
+  15,R,J
+  11,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_nca06
+   2,R,D,X
+   1,R,J
+   7,R
+  20,R,J
+   7,R,K,G
+  12,J,G
+  15,U,X
+   1,L
+  19,J
+   2,R,J
+  13,L,D,X
+  20,R,J
+  17,R,U,X
+   3,R,J,G
+   3,L,J
+   1,J
+  15,U,X
+   1
+  15,L,J
+  11,L
+   1,L
+   1,L,G
+  23,D
+   1
+  27,D
+  10,R,D
+   1
+   4,Z
+   1,R,J
+   6,R
+  24,R,J
+  15,R,U,X
+   1,R
+  19
+   3,L
+   1
+  12,R,J
+  15,U,Z
+   1,R
+  26,R,J
+   2,R
+   6,R,Z
+   1,R,J
+   1,R
+   3
+  40
+
+#lvl_nca07
+   2,R
+   1
+   1,R,J
+  14,R,D,X
+  19,R,J
+  14,U,Z
+  14,R,J
+   5,R
+   1
+  28,L
+   8,U,X
+  15,R,J
+  13,R
+  50,D
+   4,L,D
+   6,D
+   8,R,D
+   3,R
+   1,D
+   1
+   4,Z
+   1,R,J
+   6,R
+  22,R,J
+  13,U,Z
+  22,R,J
+  22,L,K
+  22,R,J
+  22,L,K
+  12,R,J
+   7
+   5,L,Z
+  13,L,J
+   1,R,K,G
+   4,L,K
+   3,K
+   8,R
+   2,R,J
+  10,R
+  21,R,D
+   9,D
+   7,R,D
+   1,D
+   2,R,D
+  14,R,D,X
+  32,R,J
+  11,U,X
+  11,R,J
+   9,R
+   2,R,J
+   3,R
+   7,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_guest_money
+   3,R,D,X
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+   5,R,J
+  11,R,K,G
+  18,R,D,X
+  15,R,D,C
+  13,R,U,X
+   1,L,J,G
+  13,R
+  15,R,U,X
+   7,U,C
+  27,R,J
+   1,R
+   1,R,G
+   1
+   1,J
+  14,R,J
+  30,K
+   8,L
+  25,J
+  13,L,J
+  25,K
+  13,L,K
+  38,J
+   1,L
+  65,L,G
+   2,L,U,G
+   1
+   1,L,J,G
+   1,K,G
+   1,J,G
+   1,L,K,G
+   5,R,K
+  30,R
+   6,R,Z
+   1,R,J
+   5,R
+***S
+  40
+
+#lvl_guest_money2
+
+# frame ties, could be faster with different spinner cycle
+#   2,R
+#   1,N
+#   1,J
+#   2,L
+#   6,R,D,X
+#   1,R,J
+#   7,R
+#   2,R,J
+#   5,R
+#   1,R,J
+#   5,R
+#   9,R,K,G
+#  10,R,D,X
+#   1,R,J
+#   5,R
+#   1,R,G
+#  10,L,Z
+#   6,L,J
+#  12,J
+#  15,U,X
+#  18,D,C
+#   4,R
+#   9,L,Z
+#   1,R,J
+#  11,R
+#   9,R,J
+#   6,R
+#   2,R,J
+#  13,R
+#   6,R,J,G
+#  15,R,U,X
+#  10,J,G
+#   2
+#   4,K,G
+#   1,L
+#   2,R,J,G
+#   1,R,K,G
+#   1,L,K
+#   4,K
+#   7,R
+#   6,L,D,X
+#   1,R,J
+#   6,R
+#   8,R,J
+#   2,J
+#   1,R
+#  23
+#  11,L
+#   1,L,G
+#   4
+#  31,L,G
+#   1
+#   1,L,J,G
+#   1,L,K,G
+#   1
+#   4,R
+#   2,R,J,G
+#   4,R
+#   1,R,J,G
+#  15,R,D,X
+#   5,D
+#   7,R,D
+#   5,R,D,X
+#  40
+#   1,R,J
+#  16,R
+#  13,R,U,Z
+#   6,J
+#   5,L,U,X
+#  17,R
+#  15,R,U,X
+#   9,R
+
+   2,R
+   1,R,J
+  14,R,D,X
+   6,R,J
+   1,R
+   4,R,J
+   9,R,K,G
+  10,R,D,X
+   1,R,J
+   5,R
+   1,R,G
+  10,L,Z
+   6,L,J
+  12,J
+  15,U,X
+  18,D,C
+   4,R
+   9,L,Z
+   1,R,J
+  11,R
+   9,R,J
+   6,R
+   2,R,J
+  13,R
+   6,R,J,G
+  15,R,U,X
+  10,J,G
+   2
+   4,K,G
+   1,L
+   2,R,J,G
+   1,R,K,G
+   1,L,K
+   4,K
+   7,R
+   6,L,D,X
+   1,R,J
+   6,R
+   8,R,J
+   2,J
+   1,R
+  23
+  11,L
+   1,L,G
+   4
+  31,L,G
+   1
+   1,L,J,G
+   1,L,K,G
+   1
+   4,R
+   2,R,J,G
+   4,R
+   1,R,J,G
+  15,R,D,X
+  12,R,D
+  40
+
+#lvl_guest_breakerK
+   3,R,J
+   5,R
+   1,J
+  12,R
+   1
+  14,R,U,Z
+   5,J
+   5,L,U,X
+  17,R
+  15,R,U,X
+   9,R
