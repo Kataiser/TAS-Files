@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 4071
+RecordCount: 4505
 console load UnderDragon_theOverworld/0-Lobbies/1-nightingaleCity
 
 #Start
@@ -293,7 +293,6 @@ EndRepeat
   12,R,U,X
    1,R,J,G
   10,R
-***S
   40
 
 #lvl_nc06
@@ -318,58 +317,41 @@ EndRepeat
    5,J
    8,R,Z
    1,R,J
-   4,R
-# really? surely this retry is avoidable somehow right
-   1,S
-   1,D,J
-  69,O
-# Spinner cycle (guest_money2)
-   1
-#
-   9,L,Z
+   7,R
+  11,R,D,X
+   1,L,J
+   7,L
+  14,L,D,X
    1,R,J
-   3
-   4,R
-  14,R,J
-  15,U,Z
-   1,R
-  18,L,J
-  12,L,K,G
-   5,L,J,G
-   6,K,G
-   8,L,K
-   8,J,G
-   1,K
-   2,J,G
-  14,R,J
-  11,L,K
-  15,R,U,X
-   9,R
-  10,X
-   5,J
-  14,R,Z
-   1,R,J
-  15,R,D,X
+   6,R,D,X
+   1,R,J,G
+  12,R
+  11,R,J
+   8,R
+  19,R,J
+  15,R,X
+   2,R
    1,N
-  15,L,D,C
-  18,R,J
-   1,R
-  13,R,Z
+  32
+   1,N
+   3,L
+   2
+   1,L
+   7,L,Z
    1,R,J
-   8,R
-   7,R,J
+   7,R
+   9,R,J
   15,R,D,X
-   8,R
-   5,R,D
-   4,R,J
+   1,R
+   3,R,J,G
+   7,R
   40
 
 #lvl_nca00a
-  10,R,J
-   8,J
+   5,R
+  19,R,J
   14,U,X
-  20,R,J
-   2,J
+  22,J
    4,K,G
    3,R,K
    7,R
@@ -820,6 +802,7 @@ EndRepeat
   22,L,K
   12,R,J
    7
+   0
    5,L,Z
   13,L,J
    1,R,K,G
@@ -891,81 +874,6 @@ EndRepeat
   40
 
 #lvl_guest_money2
-
-# frame ties, could be faster with different spinner cycle
-#   2,R
-#   1,N
-#   1,J
-#   2,L
-#   6,R,D,X
-#   1,R,J
-#   7,R
-#   2,R,J
-#   5,R
-#   1,R,J
-#   5,R
-#   9,R,K,G
-#  10,R,D,X
-#   1,R,J
-#   5,R
-#   1,R,G
-#  10,L,Z
-#   6,L,J
-#  12,J
-#  15,U,X
-#  18,D,C
-#   4,R
-#   9,L,Z
-#   1,R,J
-#  11,R
-#   9,R,J
-#   6,R
-#   2,R,J
-#  13,R
-#   6,R,J,G
-#  15,R,U,X
-#  10,J,G
-#   2
-#   4,K,G
-#   1,L
-#   2,R,J,G
-#   1,R,K,G
-#   1,L,K
-#   4,K
-#   7,R
-#   6,L,D,X
-#   1,R,J
-#   6,R
-#   8,R,J
-#   2,J
-#   1,R
-#  23
-#  11,L
-#   1,L,G
-#   4
-#  31,L,G
-#   1
-#   1,L,J,G
-#   1,L,K,G
-#   1
-#   4,R
-#   2,R,J,G
-#   4,R
-#   1,R,J,G
-#  15,R,D,X
-#   5,D
-#   7,R,D
-#   5,R,D,X
-#  40
-#   1,R,J
-#  16,R
-#  13,R,U,Z
-#   6,J
-#   5,L,U,X
-#  17,R
-#  15,R,U,X
-#   9,R
-
    2,R
    1,R,J
   14,R,D,X
@@ -1297,4 +1205,111 @@ EndRepeat
   17,R
   14,R,Z
    1,R,J
- 100,R,D,X
+  13,R,D,X
+  40
+
+#lvl_ncf01
+   2,R
+   1,N
+   1,R,J
+   2,R
+   6,L,D,X
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D
+  12,D
+   3
+   1,D
+  15,R,Z
+   1,R,J,G
+   2,L,J
+   2,R,J
+   7,R
+   4,Z
+   1,R,J
+   6,R
+   7,R,J
+  11,R
+  14,R,X
+   5,R,J
+  14,R,Z
+   1,R,J
+   8,R,D,X
+***S
+  40
+
+#lvl_ncf02
+   1,R,J
+  14,R
+  11,R,J
+  15,R,D,X
+   2,R
+   7,R,J
+   5,R
+   4,R,J
+  14,R,U,X
+   4,R,J
+   1,L,J
+   7,L
+  14,L,D,X
+   1,R,J
+  18,L,U,C
+   9,L
+  15,U,X
+   1,R,J,G
+  10,J,G
+   5,R
+  14,L,D,X
+  11,L,J
+   1,L
+  11,L,J
+  10,R,U,X
+   9,L,J
+   6,J
+   1,L,J
+   9,J
+   1,R,J
+   1,K,G
+   1
+   1,J,G
+   1
+   5,J,G
+   1
+   6,R
+  14,R,Z
+   1,R,J
+   6,R
+   2,R,J
+  15,R,D,X
+  11,R,J
+  10,R,D,X
+  40
+
+#lvl_ncf03
+   5,R,D,X
+   5,R,D
+   4,R,J
+  13,R
+  17,R,U,Z
+  12,L,J
+  14,L,X
+***
+   1,L,J
+***
+   1,L
+***
+   3
+   1,L
+  10,R,D,X
+   1,R,J
+   7,R,J
+   3,R
+  15,R,D,X
+  26,R
+   1,J,G
+  10
+   4,R
+   4,Z
+   5,R,J
+ 100,R
