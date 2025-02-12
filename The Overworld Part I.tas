@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 6835
+RecordCount: 6910
 console load UnderDragon_theOverworld/0-Lobbies/1-nightingaleCity
 
 #Start
@@ -1539,7 +1539,7 @@ EndRepeat
    1,R,J,G
    7,R
 # Spinner cycle (ncb05a)
-   1
+   0
 #
    6,R,Z
    1,R,J
@@ -1557,24 +1557,18 @@ EndRepeat
    3,L
    1,K
    2,J,G
-   4,R,J
-  11,R
-  13,R,U,Z
-   1,R,J
-  13,R,D
-   4,D
-  15,L,D,X
-   3,L,D
-  10,R,D
-  10,R,Z
-   1,R,J
-  12,R,D
-   9,D
-  15,R,U,Z
-  13,L,J,G
-  12,K,G
-   2,J,G
-  12,R,K
+   6,R,J
+  12,R
+  14,R,U,Z
+  24,R,J
+   6,R,D
+  20,D
+  15,R,Z
+  15,U,X
+   2,L,J,G
+   1,J
+   4,K
+   9,R,K
   15,U,X
    1,R
   15,J
@@ -1762,4 +1756,4 @@ EndStunPause
    1,R
   15,R,D,X
  114
-ChapterTime: 3:55.246(13838)
+ChapterTime: 3:54.736(13808)
