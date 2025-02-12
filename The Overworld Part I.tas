@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 6557
+RecordCount: 6835
 console load UnderDragon_theOverworld/0-Lobbies/1-nightingaleCity
 
 #Start
@@ -970,47 +970,49 @@ EndRepeat
    1,R,J
    7,R
    1,R,J
-  14,R,D,X
+   5,R,D,X
    1,R,J
-   4,R,K,G
-  12,R,D,X
+   7,R
+   3,R,J
+   5,R,D,X
+   1,R,J,G
+  11,R
+   1,R,J
+   5,R,D,X
   40
 
 #lvl_nce00_warp
    1,R,J
-   2,J
-   2,R,J
-   2,J
+   8,R
   15,R,D,X
-   2,R,J
+   4,R,D
+   5,R,J
   15,R,D,X
-   3,R,D
-   3,R
-Repeat 4
-   1,R,J
-   1,R,K
-EndRepeat
-  10,R,J
-  15,R,D,X
-   1,R
 Repeat 5
    1,R,J
    1,R,K
 EndRepeat
-   8,R,K
+   7,R,K
+   1,R
   15,R,D,X
 Repeat 4
    1,R,J
    1,R,K
 EndRepeat
    1,R,J
+  16,R
+Repeat 2
+   1,R,J
+   1,R,K
+EndRepeat
   14,R,U,X
-   5,R,J,G
+   4,R,J,G
+   1,R
    5,R,K,G
   40
 
 #lvl_nce00a
-   3,R,K
+   2,R,K
    1,S
   35,D,O
   13,R,U,X
@@ -1026,25 +1028,18 @@ EndRepeat
 
 #lvl_nce01
    1,R
-   1,N
-   3,R,J
-  14,R,Z
    1,R,J
-  14,R,D,X
-   4,R,J
-  12,R
-  15,R,U,X
    3,R
-  15,R,Z
-   5,R
-   6
-  15,R,X
-   2,R
-   1
+   5,R,D,X
+   1,R,J,G
+  12,R
+  20,R,J
+  25,R
+  15,R,U,X
+   4,R
   15,U,X
-   1,L
+   2,L
    1
-   1,L
   10,U,X
   11,L,J
    5,L
@@ -1066,26 +1061,25 @@ EndRepeat
   15,R,Z
    6,R
   15,R,D,X
-   7,R
-   3
-   7,L,Z
-   7,R,J
-   3,J
-   4,R,K,G
-  10,R,D,X
+  10,R
+   5,R,J
+  11,R,Z
+   1,R,J
+   6,R
   40
 
 #lvl_nce02
-   5,R,J
-   2,R,K,G
-  12,R
-  28,R,J
-   1,J
-  10,U,X
+   1,R
+   1,R,J
+   8,R,U,X
+   1,R,J,G
+  17,R
+  33,R,J
+  12,U,X
   12,R,J
-  12,R
+  13,R
    2,R,J
-   2,R
+   1,R
   15,R,X
    5,R
    9,J,G
@@ -1295,24 +1289,19 @@ EndRepeat
   12,L,J
   14,L,X
    1,L,J
-   5,L
+   1,L
+   3
+   1,L
   10,R,D,X
-   1,R,J
-   4,R
-  15,R,D,X
-   9,R
-  11,R,D
+   8,R,J
+  18,R
+  14,R,U,Z
+  41,R,J
+   4,R,D
    1,R
-   1,R,D
-   1,R
-   1,R,J,G
-   6,R
-   1,R,K
-  49,R,J,G
-  11,L
+  12,L
   15,L,X
-   3,L
-   1
+   3
    6,R,D,X
    1,L,J
    6,L
@@ -1365,15 +1354,12 @@ EndRepeat
    2,J,G
   16,R,J
   14,R,U,X
-  17,R,J
-  11,R,D
-   1,R
-   3,R,D
-  18,L,D,X
-  14,R,Z
-  11,R,J
-   5,R
-  10,R,J
+
+  19,R,J
+  18,R,D
+  10,L,D,X
+  18,R,J
+  11,R
   14,R,U,X
    4,L,J
    7,R,J
@@ -1447,21 +1433,15 @@ EndRepeat
    6,R
   22,R,J
   16,U,Z
-   2,R,J
-  16,J
-  12,L,K,G
-   1,J
-   3,L,K,G
-   5,R,J
-  15,U,X
-   1,L
-   6,R,J
-  11,R
+  13,R,J
+  14,L,U,X
+  25,R,J
+   3,R
    6,R,Z
    1,R,J
    7,R
    1,R,J
-  11,R,D,X
+  12,R,D,X
    1,R,J
   40
 
@@ -1511,15 +1491,15 @@ EndRepeat
 
 #lvl_ncb02
    6,R
-   3,R,J
+   1,R,J
+   2,R
   10,R,U,X
-   4,R,J
-  21,R
-   1,R,J
-  10,R
-  12,R,U,Z
-   1,R,J
-  17,R
+   3,R,J
+  18,R
+   1,R,J,G
+  15,R
+  11,R,U,Z
+  18,R,J
    4,R,D
   14,R,U,X
   19,L,J
@@ -1782,4 +1762,4 @@ EndStunPause
    1,R
   15,R,D,X
  114
-ChapterTime: 3:56.113(13889)
+ChapterTime: 3:55.246(13838)
