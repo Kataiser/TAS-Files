@@ -1,0 +1,69 @@
+# Difficulty Spike
+# https://gamebanana.com/mods/580102
+
+RecordCount: 229
+
+console load difficultySpike/Donker19/difficultySpike
+   1
+
+#Start
+ 190
+***S
+
+#lvl_a-01
+***
+   7,R,Z
+***
+   8,R,J
+   4,R
+   7,R,J
+   3,R
+  15,R,X
+  17,R
+   6,R,Z
+   1,R,J,G
+   9,R,K,G
+   5,R
+   1,R,J
+   3,R
+***
+   6,R,Z
+   1,R,J
+   4,R
+  40
+
+#lvl_a-02
+***
+   3,R
+   8,R,J
+   8,R
+   2,R,J
+   6,R
+   1
+  15,U,X
+  15,R,U,C
+  15,R
+  15,D,X
+   6,R,D
+   7,L,D
+   9,L
+  15,R,X
+  18,L,C
+  15,R,U,X
+  15,U,C
+   1,L
+   4,R,J
+  16,R
+  15,R,X
+  16,R
+  10,R,D
+   5,R
+  15,R,Z
+   5,R
+  10,R,J
+  18,U,Z
+   4,R
+  13,J
+  14,U,X
+  40
+ 100,R,J,G
