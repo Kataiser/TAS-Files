@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 2077
+RecordCount: 2100
 
 console load difficultySpike/Donker19/difficultySpike
    1
@@ -46,12 +46,14 @@ console load difficultySpike/Donker19/difficultySpike
   15,R,U,X
   15,U,C
    1,L
-   4,R,J
-  16,R
+   5,R,J
+   1,R
   15,R,X
-  16,R
-  10,R,D
-   5,R
+   9,R
+   5,R,U,X
+   1,R,J,G
+   8
+  27,R,D
   15,R,Z
    5,R
   10,R,J
@@ -407,4 +409,4 @@ console load difficultySpike/Donker19/difficultySpike
   15,R,U,X
  135,D
 
-ChapterTime: 0:57.154(3362)
+ChapterTime: 0:57.137(3361)
