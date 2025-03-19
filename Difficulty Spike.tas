@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 2819
+RecordCount: 3091
 
 console load difficultySpike/Donker19/difficultySpike
    1
@@ -67,53 +67,47 @@ console load difficultySpike/Donker19/difficultySpike
    9,R
    1,R,J,G
    7,R
-   5,J
-   8,R,J
-   2
-   1,R
+  13,J
+   3,R,J
   15,R,U,X
-  25,R
-  15,L,U,X
-   2
-  18,R,D,C
-  15,R,X
-  18,R,C
-   5,R
-  13,R,U,X
-   1,J,G
-   1,L
-   9
-  15,R,D,X
+  29,R,D
+   1,R
   12,R,D
-   4,R
+   5,R,X
+   7,R,J,G
+  21,R,D
+   2,R
+   1,D
+   1
+   1,R,J,G
+  17,R,K,G
   18,R,X
    2,R
   15,R,X
    2,R
-  15,R,C
-   5,R
+  18,R,C
   15,L,X
   18,R,C
    1,R
   15,R,X
    1,R
   15,R,C
-   1,R
   40
 
 #lvl_a-04
+   3,R
   15,R,D,X
-   1,R,D
-  20,R
-   3,R,D
+  10,R
+   6,R,D
    1,R
    2,R,D
    1,D
-   4
+   1,R,D
+   1,D
+   6
   18,R,D,X
   18,R,U,C
-   9,R
-   1
+  10,R
   15,R,U,Z
   32,R
    3,R,D
@@ -355,4 +349,4 @@ EndRepeat
   15,R,U,X
  135,D
 
-ChapterTime: 0:49.232(2896)
+ChapterTime: 0:48.671(2863)
