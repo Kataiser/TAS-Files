@@ -1,0 +1,118 @@
+# By Kataiser
+RecordCount: 364
+console load Winterline/4/LostInCave
+
+#Start
+ 111
+
+#lvl_A_01 (0)
+   1,S
+   1,D,O
+  34
+   2,R,J
+  10,R,X
+  12,R,J
+   5,R,Z
+   1,R,J
+   6,R
+   5,R,J
+   4,R
+  15,R,D,X
+   3,R,J
+  12,R,K,G
+  43
+
+#lvl_A_01 (1)
+   2,R,K
+  15,R,D,X
+   1,R,J
+  13,R
+   1
+   6,R,J
+   2,R
+   9,R,D,X
+   1,R,J,G
+   6,R,J
+  12,R
+   8,R,J
+  12,R,D,X
+   1,R,J,G
+   4,J
+  40
+
+#lvl_A_02
+   3,J
+   6
+   2,J
+  31,D
+  40
+
+#lvl_A_03
+  25,D
+  12,L,D
+  20,R,D
+  35,L,D
+  12,R,D
+  22,D
+  25,R,D
+  10,L,D,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  10,R,K
+  12,R,D,X
+   3,R,J,G
+   9,R,K
+  43
+
+#lvl_A_04
+  17,R,K
+  14,R,U,X
+   3,R,J,G
+   5,R
+   2,R,J
+   4,R
+  25,R,D
+  10,R,D,X
+  40
+
+#lvl_A_05
+   1,R,D,X
+   6,R,J
+   4,R,K,G
+   2,R
+   8,R,J,G
+  10,R,K,G
+   1,K
+   3,R,K
+   4,R,J,G
+  14,R,Z
+   1,R,J
+   2,R,K,G
+   1,R,J,G
+   2,R,K,G
+   7,R,J,G
+  18,R,D,X
+   6,R
+   7,R,J
+  14,R,U,X
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   1,R,J
+   3,R
+   1
+  15,R,D,X
+  11,R,D
+   5,R
+  38,R,J
+  12,R,U,X
+  40
+
+#lvl_A_06
+   3,R,U,X
+  15,U,C
+  15,J
+ 100,D
