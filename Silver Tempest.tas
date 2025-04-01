@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 1335
+RecordCount: 1455
 
 console load Nyan/SilverTempest/SilverTempest
    1
@@ -158,33 +158,39 @@ console load Nyan/SilverTempest/SilverTempest
    1,R,J,G
    9,R,K,G
   11,R,J,G
-   4
+   4,J
   40
-
-#lvl_6
    1
    9,R
    1,R,J,G
    8,R,K,G
-  15,R,U,X
-  61,L
-  14,L,J,G
-  15,U,X
-   6,L
-   9,J,G
-   7,K,G
-   4,L,K
-   1,R,K
-  12,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-  16,R,J
-   1,L,K,G
+   1,J,G
+   8,R,J
+   2,L,J,G
+   9,K,G
    2,R,K
-   4,K
-   4
-   3,R
+   1,L,K
+   5,L,J,G
+   2,K,G
+   1,J,G
+   1,R,J
+  14,L,J
+   1,L,K,G
+   9,L,J,G
+   3,L
+  12,K
+  15,U,X
+  12,J,G
+   1,K,G
+   6,L,K
+   1,K
+   2,R,K,G
+   1,R,J,G
+  13,R,K,G
+   8,L,J,G
+   2,L
+   4,R
+   1
    9,R,X
   20,R,K
    4,K
@@ -203,24 +209,17 @@ console load Nyan/SilverTempest/SilverTempest
   12,L,J,G
   16,L,K
    3,K
-  12,J,G
+  14,J,G
    1,K,G
    8,L,K
    4,R,K
    1,K
    1,R,J,G
-  10,R,K,G
-   1,K
-   1,R,K
-   4,R
-   2,R,J
+  19,R,K,G
    1,R
-   1,R,K
-   2,K
-   1,J
-   5,R,J
-   1,J
-   1,R,J
+   2,J
+   3,R,J
+   3,J
   11,L,K
   15,U,X
    1,L,J,G
@@ -231,12 +230,13 @@ console load Nyan/SilverTempest/SilverTempest
    1,R,J,G
    1,K,G
    6,R,K
-  11,L,J,G
+   8,L,J,G
+   3,L,G
    1,K,G
    1,R,K
    4,L,K
    1,L,J,G
-   2,R,J
+   1,R,J
    1,L,J
    1,K,G
   19,R,K
@@ -246,9 +246,9 @@ console load Nyan/SilverTempest/SilverTempest
    8,L,J
    9,L
   15,L,J,G
-  14,L,K
+  15,L,K
   27,U
- 115,F,12
+ 115,F,12.3
   14,U,X
   40
 
@@ -261,4 +261,4 @@ console load Nyan/SilverTempest/SilverTempest
   14,U,X
  135,R,D
 
-ChapterTime: 0:32.504(1912)
+ChapterTime: 0:31.977(1881)
