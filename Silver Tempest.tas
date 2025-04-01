@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 1455
+RecordCount: 1513
 
 console load Nyan/SilverTempest/SilverTempest
    1
@@ -8,26 +8,29 @@ console load Nyan/SilverTempest/SilverTempest
  190
 
 #lvl_1
-   7,R,J
-   4,R,K
-  14,R,X
+   4,X
+   1,R,J
+   1,R,K
+   2,K
+  10,R,K
    1,R,J,G
   14,R,K,G
-  12,R,J,G
-   7,R,K
-   3,R,J,G
-  12,R
+   1,R,J,G
+  11,R,K,G
+   6,R,J
+   2,R,K,G
+  13,R
    1,R,J
-   4,R
    5,R,D,X
   40
 
 #lvl_2
   10,R,D,X
-  22,R,J
+   9,R,J
+   9,J
+   1,R,J
   15,U,X
-   5,R
-   1,R
+   6,R
    1,J
    5,L,J
    1,K
@@ -261,4 +264,4 @@ console load Nyan/SilverTempest/SilverTempest
   14,U,X
  135,R,D
 
-ChapterTime: 0:31.977(1881)
+ChapterTime: 0:31.722(1866)
