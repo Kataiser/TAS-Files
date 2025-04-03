@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 3613
+RecordCount: 4060
 StunPauseMode, Simulate
 console load Winterline/4/LostInCave
 
@@ -785,7 +785,6 @@ EndStunPause
   14,R,D,X
    1,R,J
   15,L,D,C
-
    1
   14,L,D,X
    1,R,J
@@ -835,8 +834,151 @@ EndStunPause
    1,R,J
   10,R,D,X
   17,R,G
- 229,R,J,G
-   1,L,J
+ 220,R,U,J,G
+   1,R,G
+   1,L
+  14,R,U,X
+   1,R,J,G
+   7,R
+  10,R,J
+   4,R,K,G
+   2,R
+   6,R,Z
+   1,R,J
+   2,R
+  40
+
+#lvl_C_07
+   1,R,J
    5,R
- 100,R,Z
-1002,R,J,G
+   1,R,J
+  15,R,D,X
+   4,R,D
+   1,R
+  11,R,J
+   5,R
+   6,R,D,X
+   1,R,J,G
+  11,R
+   3,R,J
+  15,R,D,X
+   8,R,D,J
+  15,R,D,X
+   8,R,U,C
+   3,R,J,G
+   9,R
+   3,R,J
+   7,R,D,X
+   1,R,J,G
+  12,R,K,G
+   7,R
+   2,R,J
+  15,R,D,X
+  16,R,J
+  12,R,D,X
+  22,R,J,G
+   6,R
+   1,R,J
+   1,R
+  15,R,D,X
+   5,R,D
+   1,R,J
+   5,R,K,G
+   6,K
+   1
+  11,R,D,X
+   1,J,G
+   1
+   7,J,G
+   4
+   1,R
+   1,R,J
+   3,R
+   7,R,J
+  15,R,D,X
+   1,R,J
+  13,R,U,X
+   4,R,J,G
+   1,R,J
+   5,R
+   2,R,J
+   1,R
+   3,R,J
+   9,R
+   1,R,K
+  11,R,U,X
+  98,R,U,J,G
+   1,L,J
+  11,R,J
+   4,R,K
+***S
+  40
+
+#lvl_C_08
+  10,R,K
+  15,U,X
+  15,U,C
+   4,L,J,G
+   7,L
+  10,L,Z
+   5,R,J
+  10,R,D,X
+   1,R,J,G
+  12,R
+   1,R,J
+  14,R,U,X
+   1,R,J,G
+   2,R,K,G
+   6,R,J,G
+  18,R,D,X
+  10,R,D,C
+   8,R,J,G
+  15,R,D,X
+   9,R,U,C
+   1,L
+   1,J,G
+   7
+   8,R,U,X
+   4,R,J,G
+   2,R,K,G
+   1,R,J,G
+   1,J
+   2,R,J
+  15,R,D,X
+  11,R,D
+   5,R,D,X
+  13,R,G
+   6,R,J,G
+  11,R,U,X
+   1,L,J,G
+   2,R,J
+   4,R
+   8,R,U,X
+   1,R,J,G
+   5,R,K,G
+   1,R,J,G
+   3
+  15,R,D,X
+   1,D
+  51,R,D
+   1,D
+   1,R,D
+   2,R
+  34,R,J
+  14,R,Z
+   1,R,J
+  14,R,U,X
+   4,R,J,G
+   2,L,J
+   1,R,J
+   1,K,G
+   6,R
+   1,L
+   6,L,J
+***
+  13,R,U,X
+  36,R,D
+  40
+
+#lvl_C_09
+***
