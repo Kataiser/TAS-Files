@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 4275
+RecordCount: 5335
 StunPauseMode, Simulate
 console load Winterline/4/LostInCave
 
@@ -957,7 +957,6 @@ EndStunPause
    5,R,K,G
    1,R,J,G
    3
-***S
   15,R,D,X
    1,D
   51,R,D
@@ -976,26 +975,281 @@ EndStunPause
    1,L
    6,L,J
   13,R,U,X
-
-***
   30,R
    8,D
    4,Z
    1,R,J
   40
-***
+
+#lvl_C_09
    8,R,D
-***
    1,R,J
    5,R
    1,J,G
-***
-   5,R
+   7,R
    1,L
-***
-   7
-***
+   9
+   4,L
+   1
+  19,L
+  17,L,D,X
+   1,R,J
+   4,R
+   1
+   5,R,J
+   1,K
+   7,R,K
+   8,R,U,X
+  11,R,J,G
+   3,R
+   2
+   2,K
+   2,K,G
+   2
+   4,R
+   5,L,J
+  12,L
+   9,L,D
+   1,J
+   1
+  14,L
+   1,L,J,G
+   2,L,K,G
+  19,L,D
+   3,D
+   1
    2,L
-   7,R,D
+   1
+  14,L,Z
+   5,R,J
+  11,R,D,X
+   6,R,J,G
+   2
+  11,R
+   5,R,D
+   1,R,J
+  15,R,X
+   5,R
+   1,R,D,J
+  14,R
+   1,R,J
+  14,R
+   2,R,J
+  12,R
+  43
+
+#lvl_C_10
+  11,R,Z
+   1,R,J
+  15,R
+  11,R,U,Z
+   1,L,J,G
+   9,R,J
+   5,R
+   5,K
+   7,J
+   9,K
+   9,J
+   8,K
+   1,J
+   2,K,G
+   1,L,K
+   7,L
+  12,L,Z
+   1,L,J
+  12,L,D
+  10,L,J
+   5,L
+   7
+  14,R,Z
+   1,R,J
+   5,R,X
+   1,R,J,G
+   2,R,K,G
+   3,R,J,G
+   3,R
+   4
+  15,R,D,X
+   5,R,U,C
+   1,R,J,G
+   2,R,K,G
+  10,R
+  15,R,D,X
+   1,R
+   1,R,J
+  13,R
+   1,R,J
+   9,R,D,X
+   1,R,J,G
+   5,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1
+   7,R,X
+  24,R,G
+   1,L
+  15,R,D,X
+  10,R,D
+   1,R,J
+   5,R
+   1,R,J,G
+  11,R,D,X
+  17,R,G
+ 180,R,U,J,G
+   7,U,J,G
+   1,L,J
+  14,R,U,X
+  10,R,J,G
+   1,K,G
+   7,R
+   2,L
+  10,R,X
+   1,R,J
+  12,R,K,G
+   3,J,G
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_C_11
+  10,R,D,X
+   3
+  11,R,Z
+  17,J
+  10
+  13,L,Z
+   6,R,J
+   2,R
+  18,R,X
+   1,R,G
+  10,D,X
+   1,L,J
+   4,L
+  15,L,D,X
+   6,L,D
+   5,D
+  15,L,U,X
+  15,D,C
+   4,R,D
+   2,R
+   1,R,J
+  11,L,D,X
+   1,R,J
+   5,R
+   2,R,K
+   2,R,D,J
+  29,R,K,G
+  15,U,X
+  22,R,J
+   8,R,K,G
+   9,L,J
+  13,U,X
+  16,L,J
+  15,L,Z
+  13,L,X
+  13,L,J
+   5
+  11,U,X
+   8,R,J
+   8,R
+   1,R,J
+  15,U,X
+  12,L,J,G
+  12,K
+  15,U,X
+  27,L
+  18
+  14,R,D,X
+   1,L,J
+  19,L,K,G
+  12,L,X
+   1,J,G
+   1,K,G
+   1,J,G
+  10,R,D,X
+  14,R,J,G
+   5,R
+   2,R,J
+   5,R
+  14,R,X
+   3,R,J,G
+  14,R,U,X
+   7,R,J,G
+   4,R
+  15,R,D,X
+   1,R,D
+  10,D
+   1,R,J
+   1,J
+  14,R,U,X
+  10,J,G
+  14,R,U,X
+  84,R,D
+  56,F,89.1
+   4,C
+  11,D,C
+   1,R,D
+   9,R,X
+   1,J,G
+   1,K,G
+   1,J,G
+   6
+  15,L,D,X
+   3,L,D
+   1,L,J
+  13,L,D,X
+   1,R,J
+   1,R
+  15,L,D,X
+   4,L,D
+   1,L,D,J
+  15,R,D,X
+  14,R,Z
+   2,R,J
+   4,R,K,G
+   2,R
   15,R,Z
- 100,D
+   1,R
+  15,R,X
+   8
+   1,J
+  15,D,X
+   1,J
+  12,L,D,X
+   3,L,J
+   1,L,K,G
+  15,L,Z
+   8,L,D,X
+   1,L,J
+   7,L
+   2,L,D,K
+   3,L
+  12,L,J
+  12,K
+  11,J
+   5
+   2,L
+  65
+   1,L,J
+   7,L
+   1,R
+   1,K,G
+   1,J,G
+   1,K,G
+   4,J,G
+  15,L,D,X
+   7,L
+   1,L,D
+   2,L
+   2,R,J
+  10,L,D,X
+  58,L,D
+  18,F,180
+  25,F,220
+  39,F,270
+  18,L,X
