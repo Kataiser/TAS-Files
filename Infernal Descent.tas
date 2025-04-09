@@ -1,10 +1,11 @@
 # By Kataiser
-RecordCount: 5335
+RecordCount: 5392
 StunPauseMode, Simulate
 console load Winterline/4/LostInCave
+   1
 
 #Start
- 111
+ 110
 
 #lvl_A_01
    1,S
@@ -1234,7 +1235,9 @@ EndStunPause
   11,J
    5
    2,L
-  65
+***S
+  15,D,X
+  53
    1,L,J
    7,L
    1,R
@@ -1246,10 +1249,20 @@ EndStunPause
    7,L
    1,L,D
    2,L
-   2,R,J
+   1,R,J
+   1,L
   10,L,D,X
   58,L,D
-  18,F,180
-  25,F,220
-  39,F,270
-  18,L,X
+***S
+  22,F,195
+***
+  17,F,239
+***
+   5,F,243
+***
+  32,F,260
+***
+  12,L,X
+   1,J,G
+   1,K,G
+ 100,R,D,X
