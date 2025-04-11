@@ -1,6 +1,5 @@
 # By Kataiser
-RecordCount: 6148
-StunPauseMode, Simulate
+RecordCount: 6154
 console load Winterline/4/LostInCave
    1
 
@@ -1302,7 +1301,6 @@ EndStunPause
   18,R,Z
    3,R
   15,D,X
-
   28
   11,R,J
    9,U,X
@@ -1488,4 +1486,5 @@ EndStunPause
    1,S
    1,D,O
   18
+
 ChapterTime: 3:16.979(11587)
