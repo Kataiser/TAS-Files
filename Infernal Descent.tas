@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 6247
+RecordCount: 6268
 console load Winterline/4/LostInCave
    1
 
@@ -680,10 +680,13 @@ EndStunPause
   13,K,G
    6,J,G
   18,U,X
-  10,L,J,G
-  15,L,Z
+   1,L,J,G
+   7,L
+   1,L,G
+   6,L,J,G
+  15,L,X
   15,D,C
-  19
+  11
    6,L
   14,R,D,X
    1,R,J
@@ -693,10 +696,10 @@ EndStunPause
    1,R,J,G
    3,R
   15,R,D,X
-  11,R,D
+  10,R,D
    1,R,J
   15,R,D,X
-   4,R,D
+   5,R
    4,R,J
   14,R,U,X
    3,R,J,G
@@ -1511,4 +1514,4 @@ EndStunPause
    1,D,O
   18
 
-ChapterTime: 3:14.718(11454)
+ChapterTime: 3:14.667(11451)
