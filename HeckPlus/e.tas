@@ -1,15 +1,13 @@
-RecordCount: 66
+RecordCount: 416
 
 console load sunsetquasar/heckside/1-Maps/e
    1
 
 #Start
   76
+***S
 
 #lvl_a_00
-
-
-#0:00.697(41)
   10,L,X
   10,R,J
    8,R
@@ -18,11 +16,149 @@ console load sunsetquasar/heckside/1-Maps/e
   15,L,U,X
   15,R,U,C
    7,R
-  53,D
-   6,J
+  51,D
+   7,J
   11,R,J
   15,R,X
- 100,R
+***
+  14,R
+   1,R,J
+   3,R
+  15,D,X
+   9,L,U,Z
+***
+  15,L,X
+   9,R
+***
+  14,U,Z
+  15,J
+  15,L,X
+   5,R
+  15,L,C
+***
+  33,R,D
+   1,R
+   7,R,J
+   2,R
+  15,R,D,X
+   6,R
+***
+   4,Z
+   1,R,J
+   6,R
+   1,R,J
+  40
+***S
+
+#lvl_a_01
+***
+  14,R,J
+  15,U,X
+***
+  15,R,D,C
+  28,R,D
+   3,R
+***
+  13,R,Z
+   1,R,J,G
+  19,R,D
+  15,D,X
+   5,L,D
+***
+  15,D,X
+***
+   2
+   5,R
+  18,R,J
+  12,L,U,X
+***
+  15,L,U,C
+***
+   1,D
+  15,R,X
+   4,R
+***
+  28,L,D
+  15,D,X
+   6
+   4,R
+***
+   6,R,J
+   6,J
+***
+  14,U,X
+***
+  15,U,C
+***
+  15,R,D
+   3,R
+***
+   5,R,X
+   1,R,J,G
+***
+   6,R
+***
+  17,D
+   1,L,J
+  10,L
+   4
+***
+  10,R,X
+  17,J
+***
+  14,U,X
+  15,R,U,C
+   8,L
+***S
+  20,L,G
+***
+   4,L,U,G
+   1
+   1,L,J,G
+   1,K,G
+  14,R,D,X
+   1,R,J
+  40
+***S
+
+#lvl_a_02
+***
+   7
+  14,R,D,X
+  15,L,C
+   3,R
+   1
+  15,U,Z
+   5,L
+  11,U,X
+   4,C
+***
+  11,D,C
+  12
+***
+  16,R,D
+***
+  15,R,X
+   1,R
+  15,L,C
+   1,R
+***
+  15,R,U,Z
+  15,R
+  16,L,D
+ 100,D
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
