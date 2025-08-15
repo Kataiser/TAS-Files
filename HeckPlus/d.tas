@@ -1,4 +1,4 @@
-RecordCount: 237
+RecordCount: 460
 
 console load sunsetquasar/heckside/1-Maps/d
    1
@@ -62,7 +62,54 @@ console load sunsetquasar/heckside/1-Maps/d
   19,R,D
    1,R
    1,R,J
- 122,R
+  36,R
+  40
+
+#lvl_a_02
+  20,R,J
+   1,J
+   1,R,K
+  13,R,U
+  12,L,U
+   2,R,U
+   1,R
+   1,R,J
+  10,R,D
+  20,R
+  15,R,U,X
+  22,R
+  15,R,U,C
+  38,R
+   1,R,J
+   6,R,U
+   7,L,U
+   9,L
+   8,R
+   7,R,J
+  15,R,D
+   8,R
+  15,R,U,X
+  15,R,U,C
+  34,R
+  15,U,X
+  18,R
+   1,R,J
+  13,R,U,K
+  11,R,K
+   1,R,J
+  17,R
+   2
+# pretty sure this manip is possible
+Invoke, Player.MoveH, -0.056
+   1
+  15,R,U,X
+ 100,R
+
+
+
+
+
+
 
 
 
