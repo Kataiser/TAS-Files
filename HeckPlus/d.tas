@@ -1,0 +1,48 @@
+RecordCount: 76
+
+console load sunsetquasar/heckside/1-Maps/d
+   1
+
+#Start
+  94
+
+#lvl_a_00
+   5,R
+   1,R,J
+  22,R,U
+   1,R,J
+  27,R,D
+   7,R
+  15,R,U,X
+  22,R
+  15,R,U,C
+  35,R
+   1,R,J
+   6,R,U
+  10,U
+  17,R,U
+   7,R
+  40
+
+#lvl_a_01
+  12,R
+   6,R,J
+   2,R,D
+   1,R
+   4,R,D
+  13,R,J
+  15,R,X
+1002,R
+
+
+
+
+
+
+
+
+
+
+
+
+   0
