@@ -1,4 +1,4 @@
-RecordCount: 460
+RecordCount: 727
 
 console load sunsetquasar/heckside/1-Maps/d
    1
@@ -103,9 +103,20 @@ console load sunsetquasar/heckside/1-Maps/d
 Invoke, Player.MoveH, -0.056
    1
   15,R,U,X
- 100,R
+  50,R
+  40
 
-
+#lvl_a_03
+   1,R,J
+  42,R
+  15,D,X
+  15,R,D,C
+  37,R,U
+  12,R
+  18,R,J
+  15,U,X
+  15,U,C
+ 100,R,D
 
 
 
