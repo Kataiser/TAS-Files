@@ -1,0 +1,35 @@
+Unsafe
+SelectCampaign, sunsetquasar/heckside/0-Lobbies
+   2,O
+Read, Lobby/0-a, Start
+  20
+  47,O
+Read, a, Start
+ 128
+Read, Lobby/a-f, Start
+  20
+  47,O
+Read, f, Start
+ 128
+Read, Lobby/f-b, Start
+  20
+  47,O
+Read, b, Start
+ 128
+Read, Lobby/b-d, Start
+  20
+  47,O
+Read, d, Start
+ 128
+Read, Lobby/d-c, Start
+  20
+  47,O
+Read, c, Start
+ 128
+Read, Lobby/c-e, Start
+  20
+  47,O
+Read, e, Start
+ 128
+Read, Lobby/e-heart, Start
+FileTime: 3:13.341(11373)

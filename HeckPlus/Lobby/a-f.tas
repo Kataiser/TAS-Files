@@ -1,0 +1,23 @@
+console load sunsetquasar/heckside/0-Lobbies/1-Maps 216 -8
+   1
+  36
+
+#Start
+   5,L
+  16,L,J
+   1,J
+  15,U,X
+   5,L
+   5,R
+   1,G
+   8,R,J,G
+   2
+   1,R,J,G
+   1
+   2,R,K,G
+   7,R
+   4,Z
+   1,R,J
+   6,R
+   1,X
+#0:01.275(75)
