@@ -1,4 +1,4 @@
-RecordCount: 1314
+RecordCount: 1654
 
 console load mikaxelk/TasContestWinter2024/tcw24
    1
@@ -193,7 +193,6 @@ console load mikaxelk/TasContestWinter2024/tcw24
    2,R
   14,R,Z
 
-***
 # demo, hyper bhop, upright, rcb
 #   20,R,J
 #   17,R,U,X
@@ -221,131 +220,109 @@ console load mikaxelk/TasContestWinter2024/tcw24
 #    1,L,J,G
 #  100,R,J
 
-***
-# reverse roboboost but later
-  20,R,J
-  17,R,U,X
-  28,R,D
-  35,R,G
-   1,J
-   6,J
-   9,R
-   1,R,J
-  14,L,Z
-   1,R,J
-   1,L,K,G
-   8
-  11,R
-  44,R,J
-  14,R,U,X
-   3,R,J,G
-   2,J
-   8,R,J
-  10,R,K,G
-
 # reverse roboboost
-  20,R,J
-  17,R,U,X
-  28,R,D
-  31,R,G
-   6,J
-   5
-   3,K
-   1
-  13,L,Z
-   1,R,J
-   1,L,K,G
-   8
-  11,R
-  47,R,J
-  14,R,U,X
+#   20,R,J
+#   17,R,U,X
+#   28,R,D
+#   31,R,G
+#    6,J
+#    5
+#    3,K
+#    1
+#   13,L,Z
+#    1,R,J
+#    1,L,K,G
+#    8
+#   11,R
+#   47,R,J
+#   14,R,U,X
 
 # reverse roboboost upright rcb
-  20,R,J
-  17,R,U,X
-  28,R,D
-  31,R,G
-   6,J
-   5
-   3,K
-   1
-  13,L,Z
-   1,R,J
-   1,L,K,G
-   6,R,K
-  14,R,U,X
-   1,L,J,G
-1002,R,J
+#   20,R,J
+#   17,R,U,X
+#   28,R,D
+#   31,R,G
+#    6,J
+#    5
+#    3,K
+#    1
+#   13,L,Z
+#    1,R,J
+#    1,L,K,G
+#    6,R,K
+#   14,R,U,X
+#    1,L,J,G
+# 1002,R,J
 
 # overclock dultra bleh
-  12,R,J
-   7,R
-  17,R,U,X
-   1,J
-   5,R,D,X
-  12,R,J,G
-   5,K,G
-   6,R
-   1,L
-   1,L,J
-Set, Player.Stamina, 137.5
-   2,L
-   7,R,D,X
- 100
+#   12,R,J
+#    7,R
+#   17,R,U,X
+#    1,J
+#    5,R,D,X
+#   12,R,J,G
+#    5,K,G
+#    6,R
+#    1,L
+#    1,L,J
+#Set, Player.Stamina, 137.5
+#    2,L
+#    7,R,D,X
+#  100
 
 
 # overclock???
-  20,R,J
-  17,R,U,X
-  11,R,J,G
-   1
-   4,K,G
-   3,R
-   1,R
-   2
-   1,L
-   1,R,J
-Set, Player.Stamina, 137.5
-  12
-  10,R,D
-   1,R
-   1,R,D
-   2,R,G
-   1,R
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   9,R,J,G
-  13,R
-  51,R,J
-  14,R,U,X
+#   20,R,J
+#   17,R,U,X
+#   11,R,J,G
+#    1
+#    4,K,G
+#    3,R
+#    1,R
+#    2
+#    1,L
+#    1,R,J
+#Set, Player.Stamina, 137.5
+#   12
+#   10,R,D
+#    1,R
+#    1,R,D
+#    2,R,G
+#    1,R
+#    1,R,J,G
+#    1,R,K,G
+#    1,R,J,G
+#    1,R,K,G
+#    9,R,J,G
+#   13,R
+#   51,R,J
+#   14,R,U,X
 
 
 
 # multiboost, land dultra
-  20,R,J
-  17,R,X
-   2,L
-   5,R,D,X
-   1,J
-  22,R,J
-   1,R
-   1,R,K
-   1,R
-  13,R,G
-   8,R,U,G
-   1,R
-   1,R,J,G
-   1,R,K,G
-   2,R,J,G
-   8,R,K,G
-   6,R
-   1,R,K
-   8,R
-  49,R,J
-  14,R,U,X
- 100,R,J,G
+#   20,R,J
+#   17,R,X
+#    2,L
+#    5,R,D,X
+#    1,J
+#   22,R,J
+#    1,R
+#    1,R,K
+#    1,R
+#   13,R,G
+#    8,R,U,G
+#    1,R
+#    1,R,J,G
+#    1,R,K,G
+#    2,R,J,G
+#    8,R,K,G
+#    6,R
+#    1,R,K
+#    8,R
+#   49,R,J
+#   14,R,U,X
+#  100,R,J,G
 
 
 # jump back, upright, ???
@@ -382,16 +359,96 @@ Set, Player.Stamina, 137.5
 #   14,R,U,X
 
 
+# reverse roboboost but later
+  20,R,J
+  17,R,U,X
+  28,R,D
+  35,R,G
+   1,J
+   6,J
+   9,R
+   1,R,J
+  14,L,Z
+   1,R,J
+   1,L,K,G
+   8
+  11,R
+  44,R,J
+  14,R,U,X
+   3,R,J,G
+   3,R,J
+   7,J
+   1,R,K,G
+   4,K
+   1
+  40
 
+#lvl_04
+  12
+   9,R
+  15,R,U,X
+  17,R,D
+  22,R,U,X
+  10
+  11,R
+  15,R,U,X
+  13,R
+  16,R,X
+   6,R
+   1
+   4,R
+  13,R,U,Z
+  19,L,J
+   3,J
+  10,U,X
+  28,L
+  12,U,X
+  15,L,J
+  28,R,X
+  15,R,D,C
+   5,R,D
+   6,R,J
+   8,R,D,X
+   1,L,J,G
+  14,R
+   8,R,J
+  15,R,D,X
+   2,R
+  11,R,X
+   9,R
+  13,R,X
+  12,R,C
+   3,R
+  21,R,J
+   8,R,D,X
+  18,R,C
+   4
+  11,R
+   1
+   2,R
+  28,R,J
+   7,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+  40
 
-
-
-
-
-
-
-
-
-
-
-   0
+#lvl_heart
+   9,R,D,X
+   3,R,J
+   3,R
+  14,R,D,X
+   4,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   2,R
+  14,R,D,X
+   4,R,J
+  14,R,U,X
+ 135,R,D
+ChapterTime: 0:45.764(2692)
