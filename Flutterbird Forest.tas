@@ -1,4 +1,4 @@
-RecordCount: 1654
+RecordCount: 1733
 
 console load mikaxelk/TasContestWinter2024/tcw24
    1
@@ -21,7 +21,7 @@ console load mikaxelk/TasContestWinter2024/tcw24
 
 #lvl_00
   10,R,J
-  13,R,U,X
+  12,R,U,X
   28,R,C
   36,R
   14,R,X
@@ -54,17 +54,17 @@ console load mikaxelk/TasContestWinter2024/tcw24
   15,R,U,X
    2,R
    3,J,G
-  13,L,K
+  12,L,K
   11,R,X
   10,R
   45,R,J
   14,U,X
-  29,L,J
-   1,L
+  27,L,J
+   2,L
   10,U,X
    4
-  10,R
-   2
+   9,R
+   3
   15,R,U,X
   15,U,C
   11,R,X
@@ -152,19 +152,19 @@ console load mikaxelk/TasContestWinter2024/tcw24
    7,R,J
    8,R
   21,R,J
-  14,U,X
+  13,U,X
    6,U,C
   11
    7,R
-  15,U,X
+  14,U,X
    4,U,C
    4
   12,R
-  15,U,X
+  14,U,X
    4,U,C
    5
   12,R
-  15,U,X
+  13,U,X
    4,U,C
    4
   13,R
@@ -172,21 +172,21 @@ console load mikaxelk/TasContestWinter2024/tcw24
    6,J,G
    1,K
    2,J,G
-  14,L,J
+  13,L,J
   10,R,U,X
   17,R
   15,R,U,X
-   7,L,J
-   6,U,X
+   6,L,J
+   6,U,J,X
   13
   14,L,U,X
    1,J
-   5,R,K
+   4,R,K
    6,U,X
   20
   15,U,X
    2
-  20,R,J
+  19,R,J
    9,R,U,X
   16,R
   15,R,D,X
@@ -387,23 +387,21 @@ console load mikaxelk/TasContestWinter2024/tcw24
   12
    9,R
   15,R,U,X
-  17,R,D
+  16,R,D
   22,R,U,X
-  10
-  11,R
+   9
+   9,R
   15,R,U,X
-  13,R
+  14,R
   16,R,X
-   6,R
-   1
-   4,R
+  11,R
   13,R,U,Z
-  19,L,J
-   3,J
-  10,U,X
+  21,L,J
+   1,L,X
+   9,U,X
   28,L
   12,U,X
-  15,L,J
+  16,L,J
   28,R,X
   15,R,D,C
    5,R,D
@@ -422,33 +420,30 @@ console load mikaxelk/TasContestWinter2024/tcw24
   21,R,J
    8,R,D,X
   18,R,C
-   4
-  11,R
+   2
+  14,R
    1
-   2,R
-  28,R,J
+  26,R,J
    7,R,D,X
    1,R,J
    7,R
    1,R,J
   14,R,D,X
    1,R,J
-   5,R,D,X
   40
 
 #lvl_heart
-   9,R,D,X
-   3,R,J
-   3,R
   14,R,D,X
    4,R,J
   14,R,D,X
-   1,R,J
+   4,R,J
+  14,R,D,X
+   2,R,J
   14,R,D,X
    1,R,J
    2,R
   14,R,D,X
-   4,R,J
+   3,R,J
   14,R,U,X
  135,R,D
-ChapterTime: 0:45.764(2692)
+ChapterTime: 0:45.424(2672)
