@@ -1,4 +1,4 @@
-RecordCount: 1733
+RecordCount: 1787
 
 console load mikaxelk/TasContestWinter2024/tcw24
    1
@@ -104,11 +104,11 @@ console load mikaxelk/TasContestWinter2024/tcw24
   10,R,J
    6,J
   12,U,X
-   7,L,J
+   6,L,J
    9,R,X
    5,R
   31,R,J
-  13,L,U,X
+  12,L,U,X
    4,U,C
   11,R
   14,R,Z
@@ -119,19 +119,19 @@ console load mikaxelk/TasContestWinter2024/tcw24
   47
    1,J
    8
-   2,R,J
-   2
-   3,R
+   2,J
+   5
   10,L,Z
    1,R,J
    6,R
-  11,R,D,J
-   1,L,K,G
-  12,R,K
-   2,K
+  10,R,D,J
+   1,L,J
+   7,K,G
    1,R,K
+   8,K
   15,U,X
-   4
+   2
+   2,L
    1,J
    4,L,K,G
   15,R,K
@@ -446,4 +446,4 @@ console load mikaxelk/TasContestWinter2024/tcw24
    3,R,J
   14,R,U,X
  135,R,D
-ChapterTime: 0:45.424(2672)
+ChapterTime: 0:45.390(2670)
