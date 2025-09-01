@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 1919
+RecordCount: 1948
 
 console load mikaxelk/TasContestWinter2024/tcw24
    1
@@ -198,6 +198,7 @@ console load mikaxelk/TasContestWinter2024/tcw24
    2,R
   14,R,Z
 
+
 # demo, hyper bhop, upright, rcb
 #   20,R,J
 #   17,R,U,X
@@ -225,6 +226,7 @@ console load mikaxelk/TasContestWinter2024/tcw24
 #    1,L,J,G
 #  100,R,J
 
+
 # reverse roboboost
 #   20,R,J
 #   17,R,U,X
@@ -242,6 +244,7 @@ console load mikaxelk/TasContestWinter2024/tcw24
 #   47,R,J
 #   14,R,U,X
 
+
 # reverse roboboost upright rcb
 #   20,R,J
 #   17,R,U,X
@@ -258,6 +261,7 @@ console load mikaxelk/TasContestWinter2024/tcw24
 #   14,R,U,X
 #    1,L,J,G
 # 1002,R,J
+
 
 # overclock dultra bleh
 #   12,R,J
@@ -304,27 +308,25 @@ console load mikaxelk/TasContestWinter2024/tcw24
 #   14,R,U,X
 
 
-
 # multiboost, land dultra
 #   20,R,J
 #   17,R,X
 #    2,L
 #    5,R,D,X
 #    1,J
-#   22,R,J
-#    1,R
+#   12,R,J
+#    8,R
 #    1,R,K
-#    1,R
-#   13,R,G
-#    8,R,U,G
+#    4,R
+#   17,R,G
+#    4,R,U,G
 #    1,R
 #    1,R,J,G
 #    1,R,K,G
 #    2,R,J,G
-#    8,R,K,G
-#    6,R
-#    1,R,K
-#    8,R
+#Invoke, Player.MoveV, -0.11
+#   20,R,K,G
+#    9,R
 #   49,R,J
 #   14,R,U,X
 #  100,R,J,G
@@ -346,6 +348,7 @@ console load mikaxelk/TasContestWinter2024/tcw24
 #    1,L,J,G
 #   12,R,U,X
 #  100,R,J,G
+
 
 # multiboost, no dultra
 #   18,R,J
@@ -369,10 +372,9 @@ console load mikaxelk/TasContestWinter2024/tcw24
   17,R,U,X
   28,R,D
   35,R,G
-   1,J
-   6,J
+   7,J
    9,R
-   1,R,J
+   1,R,K
   14,L,Z
    1,R,J
    1,L,K,G
@@ -380,6 +382,8 @@ console load mikaxelk/TasContestWinter2024/tcw24
   11,R
   44,R,J
   14,R,U,X
+#0:31.790(1870) 766.8
+
    3,R,J,G
    3,R,J
    7,J
