@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 1948
+RecordCount: 2265
 
 console load mikaxelk/TasContestWinter2024/tcw24
    1
@@ -187,6 +187,7 @@ console load mikaxelk/TasContestWinter2024/tcw24
   14,L,U,X
    1,J
    4,R,K
+***S
    6,U,X
   20
   15,U,X
@@ -263,21 +264,83 @@ console load mikaxelk/TasContestWinter2024/tcw24
 # 1002,R,J
 
 
-# overclock dultra bleh
+# overclock dultra
+***
+  12,R,J
+   7,R
+  17,R,U,X
+   6,R,J,G
+   1,K
+***
+   5,R,D,X
+   1,R,J,G
+   1,R,K,G
+   3,R,K
+***
+   3,R
+   1,J,G
+   1,R
+   1
+   1,R
+   3
+   1,R
+   1,L
+   1,R,J
+   9
+   9,R,D
+   1,R
+   4,R,D
+   2,R
+   2,R,D
+   5,R,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   2,R,K,G
+  12,R,J,G
+   6,R
+   1,R,K
+   5,R
+  43,R,J
+***
+  14,R,U,X
+  12,J,G
+ 102,R,K,G
+
+
+# overclock dultra set command
 #   12,R,J
 #    7,R
 #   17,R,U,X
-#    1,J
+#    3,R,J,G
+#    1,K
 #    5,R,D,X
-#   12,R,J,G
-#    5,K,G
+#    1,R,J,G
+#    1,R,K,G
+#    7,K
+#    2,R
+#    1,J,G
 #    6,R
 #    1,L
-#    1,L,J
+#    2,R
 #Set, Player.Stamina, 137.5
-#    2,L
-#    7,R,D,X
-#  100
+#   14,R,D
+#    1,R
+#    2,R,D
+#   10,R,G
+#    2,R,D,G
+#    1,R
+#    1,R,J,G
+#    1,R,K,G
+#    1,R,J,G
+#    2,R,K,G
+#   12,R,J,G
+#    6,R
+#    1,R,K
+#    8,R
+#   41,R,J
+#   14,R,U,X
 
 
 # overclock???
@@ -368,21 +431,20 @@ console load mikaxelk/TasContestWinter2024/tcw24
 
 
 # reverse roboboost but later
-  20,R,J
-  17,R,U,X
-  28,R,D
-  35,R,G
-   7,J
-   9,R
-   1,R,K
-  14,L,Z
-   1,R,J
-   1,L,K,G
-   8
-  11,R
-  44,R,J
-  14,R,U,X
-#0:31.790(1870) 766.8
+#   20,R,J
+#   17,R,U,X
+#   28,R,D
+#   35,R,G
+#    7,J
+#    9,R
+#    1,R,K
+#   14,L,Z
+#    1,R,J
+#    1,L,K,G
+#    8
+#   11,R
+#   44,R,J
+#   14,R,U,X
 
    3,R,J,G
    3,R,J
