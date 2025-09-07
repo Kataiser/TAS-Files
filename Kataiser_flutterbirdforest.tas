@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 2862
+RecordCount: 2934
 
 console load mikaxelk/TasContestWinter2024/tcw24
    1
@@ -16,13 +16,15 @@ console load mikaxelk/TasContestWinter2024/tcw24
    5,R,J,G
    5,R
    2,R,K
-  12,R
-  11,R,D,J
-  40
+  11,R
+   9,R,J
+   3,R
+  40,K
 
 #lvl_00
-  10,R,J
-  12,R,U,X
+   6,R,K
+   2,R
+  13,R,U,X
   28,R,C
   36,R
   14,R,X
@@ -503,4 +505,4 @@ console load mikaxelk/TasContestWinter2024/tcw24
    3,R,J
   14,R,U,X
  135,R,D
-ChapterTime: 0:43.231(2543)
+ChapterTime: 0:43.214(2542)
