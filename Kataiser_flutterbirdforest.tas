@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 2959
+RecordCount: 3208
 
 console load mikaxelk/TasContestWinter2024/tcw24
    1
@@ -36,6 +36,7 @@ console load mikaxelk/TasContestWinter2024/tcw24
   12,R,D,X
    1,L,J
   15,L
+***
   15,U,C
    7
    7,R,U,X
@@ -53,6 +54,7 @@ console load mikaxelk/TasContestWinter2024/tcw24
   40
 
 #lvl_01
+***
   21,R,J
   15,R,U,X
    2,R
@@ -85,31 +87,31 @@ console load mikaxelk/TasContestWinter2024/tcw24
    1,D
    1,L,D
    8,D
-  21,L,G
+  35,L,G
    1,L,U,G
    1,L,J,G
    1,L,K,G
    1,J,G
-  14,R,Z
-  20,R,J,G
-  12,R
-   3
-   5,R,J
+  10,R,Z
+   8,R,J,G
+   5,R
+   1,R,K
    8,R
+   5
+   2,J
+   6,R,J
   14,R,U,X
    1,J,G
-   5
+   4
   17,R,D
   40
 
 #lvl_02
-   6,R,D
-   1,D
-   6,R,D
-   3,R,J
-   9,J
-  13,U,X
-   6,L,J
+   3,R,D
+   5,R
+  10
+  14,U,X
+  13,J
    9,R,X
    5,R
   31,R,J
@@ -125,7 +127,8 @@ console load mikaxelk/TasContestWinter2024/tcw24
    1,J
    8
    2,J
-   5
+   4
+   1,L
   10,L,Z
    1,R,J
    6,R
@@ -135,8 +138,10 @@ console load mikaxelk/TasContestWinter2024/tcw24
    1,R,K
    8,K
   15,U,X
-   3
    1,L
+   1
+   1,L
+   1
    1,J
    4,L,K,G
   15,R,K
@@ -505,4 +510,4 @@ console load mikaxelk/TasContestWinter2024/tcw24
    3,R,J
   14,R,U,X
  135,R,D
-ChapterTime: 0:43.197(2541)
+ChapterTime: 0:43.146(2538)
