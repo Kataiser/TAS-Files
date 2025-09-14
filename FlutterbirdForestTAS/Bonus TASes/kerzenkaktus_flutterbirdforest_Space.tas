@@ -1,0 +1,175 @@
+# Flutterbird Forest
+# https://gamebanana.com/mods/616090
+
+Set,ExtendedVariantMode.AirFriction,0
+Set,ExtendedVariantMode.Gravity,0
+
+RecordCount: 857
+
+console load mikaxelk/TasContestWinter2024/tcw24
+   1
+
+#Start
+  91
+
+#lvl_intro
+   2,R,J
+  10,R,Z
+   6,R,J
+  21,R,K,G
+  15,R,D,X
+   4,R,J
+  40
+
+#lvl_00
+  32,R
+  42,R,D,X
+   5,R,J
+  13,R,D,X
+   2,R,J
+  16,L,D,X
+   1,R,J
+  11,R,X
+   4,R,J
+   7,R,X
+   4,L,K
+   8,R,U,X
+  15,R,D,C
+  19,R
+  10,R,Z
+  46,R,J
+  22,R,D,X
+  14,D,J
+  40
+
+#lvl_01
+  33
+  18,U,X
+  12,R,U,C
+  20,L,J
+  26,L,U,C
+  29,U,X
+   9,R,U,C
+  24,R,D,X
+  24,R,J
+  98,R,U,Z
+  24,L,D,X
+  10,L,D,C
+  15,R,J
+  43,R,D,X
+   1,R,J
+  10,R,X
+  25,R,J
+  10,R,Z
+   6,R,J
+  21,R,D,X
+   8,R,J
+  40
+
+#lvl_02
+  21,R,D,X
+  14,R,J
+  11,U,X
+   7,L,J
+  16,R,X
+   1,R,D
+  20,R,D,J
+   8,L,U,X
+  13,U,C
+  15,R,X
+  15,D,C
+  18,L,J
+  10,L,D,X
+  18,L,G
+   5,L,U,G
+  37,L,G
+  11,L,U,G
+  13,L,G
+  11,L,U,G
+  16,L,G
+   2
+   1,J
+  22,K,G
+  14,R,J,G
+  13,R,D,X
+   6,R,K,G
+  40
+
+#lvl_03
+  28
+  12,U,X
+  18,U,C
+  17,L,U,X
+   4,R,J
+  18,U,X
+  13,L,U,Z
+   4,R,J
+  16,U,X
+  13,L,U,C
+   4,R,J
+  16,U,X
+  22,R,U,C
+  12,L,J
+  19,R,U,X
+  19,R,U,C
+   5,L,J
+  10,U,X
+Repeat, 10
+   2,L
+   2,R,O
+EndRepeat
+   5,U,C
+  14,R,J
+  20,R,C
+  21,R,D,X
+  16,R,J
+  63,R,X
+   1,L,G
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  40,R,K
+  22,D,X
+  10,R,D,C
+   5,R,J
+  71,R
+  22,R,D,X
+  11,R,D,J
+   6,R,K,G
+  40
+
+#lvl_04
+   4
+  15,R,D,X
+   1,R,K
+  14,R,X
+  37,U,C
+  15,R,X
+  11,R,U,C
+   1,R
+  42,R,Z
+  22,L,K
+  21,U,C
+  22,L,U,X
+  19,L,K
+  28,R,X
+  21,R,D,C
+  20,R,J
+  23,R,D,X
+  35,R,C
+  16,R,D,X
+  67,R,J
+  11,R,D,X
+  40
+
+#lvl_heart
+   4
+  39,R,K
+   5,R,U,X
+ 135
+
+Set,ExtendedVariantMode.AirFriction,1
+Set,ExtendedVariantMode.Gravity,1
+
+ChapterTime: 0:41.769(2457)

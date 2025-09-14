@@ -1,0 +1,443 @@
+RecordCount: 2886
+
+console load mikaxelk/TasContestWinter2024/tcw24
+   1
+
+#Start
+  91
+
+#lvl_intro
+  13,L,Z
+   1,R,J
+   7,R
+   1,R,D,J
+# cornerboosts = good, so
+# more cornerboosts = more better
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,J
+   2,R,J
+   8,R,D,X
+   2,R,K,G
+   1,R,J,G
+   1,R,J
+   3,R,K,G
+   2,R,J,G
+   6,R
+   1,R,J
+   3,R
+   6,R,J
+   4,R
+   1
+  13,R,D,X
+  40
+
+#lvl_00
+   2,R,D,X
+   1,R
+   5,R,J
+   2,R,K,G
+   1,R,J,G
+  10,R,K,G
+# delayed ultra here is super close to working but
+# the transition vertical rounding seems to make it impossible
+  39,R
+  14,R,Z
+   2,R,K,G
+   2,R,K
+# wait for melvin
+  13,R
+   2
+   1,R,D,J
+  15,R,D,X
+   9,L,U,C
+   6,X
+   1,R
+  12,R,D,C
+   1,R,J
+   4
+   1,J
+   3,L
+  15,L,Z
+   7,L
+   1
+   1,L
+   8,L,D,X
+   1,R,J
+   1,R
+   5
+   1,J
+  14,R
+   6,R,J
+   5,R
+   2,R,J
+   9,R
+  14,R,U,Z
+   2,L,K,G
+   2,R,K
+  40
+
+#lvl_01
+  19,R,K
+  15,R,U,X
+   1,R
+   4,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+# subpixel manip while waiting for melvin
+   7,L,J
+   2,J
+   3
+   5,L
+   7,X
+   3,R
+  38,R,J
+  15,R,U,X
+   8
+   1,K,G
+   1,R,J,G
+   1,R,K,G
+  17,L,K
+   1,L,K,X
+   9,X
+  14
+  18,R,U,Z
+  15,U,C
+  18
+  11,C
+   1,R
+# could crouch climb through these spinners instead
+# but it would end up in the same place
+  15,R,D,X
+   1,R
+   9,R,J
+  13,R,X
+  12,C
+   8
+  15,L,U,Z
+   8
+   5,L
+   2
+   1,G
+   1
+   1,J
+   1,K,G
+   1,R
+   5
+   2,R,J
+# funny moving attached jumpthrough jank
+  11,L,X
+   8,R,J
+   8,R
+  11,L,D,X
+   1,L,J
+   1,L
+   3
+   1,J
+   1
+# getting a 6f bhop is inconvenient but it seems to be required
+   1,L
+   1
+  14,L,Z
+   1,R,J
+   6,R
+   2,R,J
+   8,R
+   2,R,J
+# ultra here works, but loses too much time to vertical movement requirements
+# and the extra speed isn't very useful
+  37,R
+  14,R,U,Z
+   1,R,K,G
+   3,R
+   3
+  16,R,D
+  40
+
+#lvl_02
+   9,R,D
+   7,R,J
+   5,R
+# i'm honestly shocked this doesn't die here
+   4,R,J
+  10,U,Z
+   4,L,J
+   2,J
+   1,J,X
+   8,X
+   6,R
+  30,R,J
+  12,L,U,X
+   4,C
+  11,R
+  14,R,Z
+  22,R,J
+  11,U,X
+  15,C
+# probably suboptimal but it doesn't matter
+# because the next part is extremely melvin-locked
+  16,R,D
+  15,L,Z
+   1,L
+  15,L,D,J
+# i thought i had found something huge until realizing that
+# right inputs pulling you down makes the spinner gap setups way easier
+# than those in my first route through the bush
+   2,L,K,G
+   1,J,G
+   1,R,J
+   1,L,J
+   1,K,G
+   1,R,K
+   1,L,K
+   4,J,G
+   2
+   1,R
+   2
+   2,K
+   1,L,J,G
+   1,L,K,G
+   5
+   1,K,G
+   1,R,K
+   7,L,K
+   1,K
+   1,J,G
+   3,R,J
+   3,R
+   1
+   1,R
+# spinner? what spinner?
+   1,R
+   1,J
+  15,L,Z
+   1,K,G
+   2,R,K
+   1,L,K
+   6,L
+   4
+  11,L,Z
+# full bhop gets too much speed :(
+   1,R,J
+   3,R
+  13,R,U,Z
+# but the liftboost timer is just barely long enough
+# to get the third boost back :)
+   3,R,K,G
+  12,R,J,G
+   3,R
+  40
+
+#lvl_03
+   3,R
+   1,R,J
+   1,R
+   1,D,J
+   1,R,J
+   7,J
+   2,R,J
+   1,J
+   1
+   1,K
+   1
+  13,U,X
+   4,C
+# -2f compared to going to the left of the spinner
+# and hitting the melvin
+  11,R
+   1
+   1,R
+   1
+  15,U,Z
+   3,L
+   1,R
+   1,K,G
+   1,L,K
+   1,R,J,G
+   3,K
+   1,J,X
+# you love to see a Repeat in a TAS competition
+Repeat 2
+   3,X
+  16
+  15,L,U,Z
+   1,R
+   1,J
+   4,R,J
+   1,R,X
+EndRepeat
+   3,X
+   1,L
+   3
+  14,R
+  14,R,U,Z
+   1,R,K,G
+   1,L,K
+   1,R,K
+   2,K
+   1,J
+   2,K,G
+  12,L,K
+   1,L,X
+   9,X
+  16,R,J
+# a mad rush straight up out of the melvin compactor is 2f too slow
+  15,R,U,Z
+   1,R
+   1,J
+   1,K
+   4,L,K
+   1,L,K,X
+  10,X
+   3
+   4,R
+# a spiked melvin hit here could be survivable, but
+# there's no problem with the current collision location
+  15,L,U,X
+   1,R
+   1,J
+   3,R,J
+   1,J,X
+   5,X
+   5
+   7,L
+   3
+   1,L
+   1
+   1,J
+   3,R,J
+   1,J
+  15,U,Z
+  18,R,J
+   1,R,X
+   6,X
+  23,R
+  15,R,D,X
+# this feels not great but i'm pretty sure that
+# the right melvin isn't the one causing the bottleneck
+  14,R,D,C
+  19,R,J
+  17,R,U,Z
+   1,R,K,G
+   6,R,J,G
+   6,R
+   7,K,G
+   4,J
+  15,R,Z
+   8,L
+  14,L,Z
+   1,R,J
+  13,L,D,X
+   1,R,J
+   3
+  15,L,Z
+   2,L
+   5,L,J
+  14,L,D,X
+   1,R,J
+   1,J
+   2,R,J
+# this spinner is quite awkwardly placed
+# but thankfully the strat just barely works where it is
+  13,R
+   3,R,J
+  36,R,K,G
+   3
+   4,D
+  14,R,U,Z
+   2,R,K,G
+   9,K
+   3,J,G
+   1,K,G
+   2,K
+  40
+
+#lvl_04
+   4,K
+   2
+# not really where we want the dash to happen,
+# but the spinners don't leave us with any other choice
+  15,R,D,X
+   1,R,J
+  12,R,Z
+  22,X
+   8
+  10,R
+  15,R,U,X
+  14,R
+   1,R,X
+  15,X
+   6,R
+   1
+   5,R
+  12,R,U,Z
+   1,K
+  19,L,K
+   1,L,J,X
+# i have no clue why this is actually faster than
+# some other nearby input durations
+   9,X
+  28,L,J
+  11,U,X
+  15,L,J
+   1,L,X
+  27,X
+# this skip is almost certainly rta viable
+  15,R,D,C
+   5,R,D
+   3,R,J
+  16,R
+  12,R,J
+   1,R
+  15,R,D,X
+   5,R
+   1,R,X
+  10,X
+   9,R,J
+  13,R,Z
+  12,C
+   4,R
+  21,R,D,J
+   1,J
+  13,R,Z
+  11,C
+   1
+  15,R,D,X
+   8,R
+  19,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+  40
+
+#lvl_heart
+   2,R,J
+  13,R,D,X
+   2,R,J
+   7,R,D,X
+   1,R,K,G
+   1,R,J,G
+   2,R
+   2
+  12,R
+   1,R,J
+# this climbjump is the important part
+   2,R,K,G
+   1,R,J,G
+   1,R,K,G
+   2,K
+   1,R,K
+   3,R
+   8,R,D,X
+   1,R,K,G
+   7,R
+   1,R,J
+   6,R
+   7,R,J
+  14,R,U,Z
+ 135,R,D
+
+ChapterTime: 0:43.894(2582)

@@ -1,0 +1,319 @@
+RecordCount: 2312
+# 30.4 hours
+
+#Start
+
+console load mikaxelk/TasContestWinter2024/tcw24 intro
+   1
+  91
+
+#Room 1
+   1,J
+   1,R,J
+   4,D,X
+   6,R,X
+   1,R,J
+   3,R
+   4,R,D,X
+   3,R,U,X
+   2,R,J,G
+   7,R
+   1,R,J
+  12,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  12,R,D,X
+   1,R,J
+# 55 with 325
+
+# Room 2
+  40
+
+  14,R,J
+   1
+  13,U,X
+  27,R,J,C
+  37,R,J
+   4,R,D,X
+  10,R,X
+   4,R,J,G
+   7,R
+   1,R,J
+  14,R,D,X
+   2,R,J
+  13,R,X
+   9,L,J
+   1,C
+  34,L
+  10,R
+  14,R,D,X
+   1,R,J
+   7,R
+   9,R,J
+   9,R
+  14,R,D,X
+   5,R,J
+   3,R
+# 340f with 960.53
+
+
+# Room 3
+  40
+  10,R,U,X
+   2,R,K,G
+   7,R
+  44
+  10,L,X
+  25,R,J
+  17,R,U,J,X
+  10,R,C
+  25,R,J
+   9,R
+  15,R,U,X
+  16,R
+   7,R,J,G
+   1,K,G
+   1,R,J,G
+  16,L,J
+  10,C
+  11,R,J
+  11,R,U,X
+   8,L,J
+   8,R,U,X
+   3,U,X
+   3,J
+  10,R,J
+  10,C
+  13,R
+  36,R,J
+  11,C
+  20,L
+  15,L,U,X
+   8,L
+   2,L,J,G
+  10,L
+   1,J,G
+   1,L,K,G
+   9,R,J
+   1,L,J
+  15,L
+  10,L,D,X
+  17,R,J
+  35,R
+  14,R,D,X
+   2,R,J,G
+  14,R
+   8,R,J
+   6,R
+   2
+  14,R,U,X
+   1,R,J,G
+  30,R,D
+   1,R,J
+   1,R
+# 927 with 354.33
+
+
+# Room 4
+  40
+   3,R
+   1,R,J,G
+   3,R
+  14,R,D,X
+   6,R
+  19,R,J
+   4,D,X
+   8,U,X
+   6,L,J
+   9,L,C
+   4,R,D
+  32,R,J
+  12,L,U,X
+   4,C
+  13,R,J
+  10,R,D,X
+  18,R,J
+  14,R
+   4,R,D,X
+  10,R,X
+  20,L
+   8
+  10,L
+  16,D,J
+  16,K,G
+  10,L,J,G
+   3,L
+   4,J,G
+   4,L
+   4,R
+   4,D,X
+  11,R,X
+   4,L,J,G
+   6,L
+   2,R
+  11,L,D,X
+   6,R,J
+  13,R,U,X
+   1,R,J,G
+   5,R,J
+   1,J
+  13,R,J
+# 1309 with 794.50
+
+# Room 5
+  40
+
+   3,R,J
+   2,R
+  17,R,K,G
+  14,U,X
+   6,C
+   6,R,J
+  12,J
+  10,U,X
+   4,J
+   4,C
+  10,R,J
+   6,J
+   1,R,J
+  10,U,X
+   3,J
+   4,J,C
+  10,R,J
+   6,J
+   1,R,J
+  10,U,X
+   3,J
+   4,J,C
+   6,J
+  10,R,J
+  16,R,U,J,X
+   7,K,G
+  11,L,J
+   5,L
+  10,C
+  18,R,J
+  14,R,U,X
+   7,L,J
+   6,J,C
+  14,J
+  14,L,U,X
+   5,R,J
+   5,C
+   3,L,J
+  21,J
+  14,U,X
+  21,R,J
+   7,C
+  24,R
+  14,R,D,X
+  35,R,J
+  16,R,U,X
+   7,R,J,G
+  14,U,X
+   6,R
+   6
+   2,R
+   1,L,J
+   1,L
+# test normal route
+   4,D,X
+  10,R,X
+   6,L,J
+  18,L,K
+  14,L,D,X
+   4,R,J
+  10,R
+  62,R,J
+  14,R,U,X
+   7,R,J,G
+  12,R,K,G
+   7,R,J,G
+   7,R
+  10,R,D,X
+   4,R,J
+   5,R
+   5,R,J
+  12,R,U,X
+   3,R,J,G
+   3,R
+# 2001 with 287.00
+
+
+# Room 6
+  40
+
+   4,D,X
+   9,R,X
+   5,R,J
+  15,R,D,X
+   1,R,J
+   3,R
+  14,R,D,X
+  15,R,J
+   5,R
+  22,R,J,C
+  10,R,J
+  10,J
+  14,R,U,X
+  15,R
+  16,C
+  19,R
+   1
+  13,U,X
+  13,L,J
+   1,L,C
+   9,L,C
+  29,L,J
+  11,U,X
+  15,L,J
+  28,L,C
+   1,R
+  14,R,D,X
+   7,R
+  10,R,J
+  11,R,D,X
+   5,R,J,G
+  26,R
+  11,C
+   8,R,J
+  14,R,X
+  12,C
+  21,R,J
+   1,R
+   2,R,J
+  17,R,X
+   8,C
+   1,R
+  21,R,D,X
+  26,R,J
+  14,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   3,R
+   5,R,D,X
+# 2546 with 315
+
+# Room 7
+  40
+
+# feels off
+   9,R,D,X
+   4,R,J
+   2,R
+   6,R,D,C
+   2,R,J,G
+  15,R
+   6,R,J
+   1,R
+  14,R,D,X
+   3,R,J,G
+   4,R
+  14,R,D,X
+   4,R,J
+  14,R,U,X
+ 143,R
+
+ChapterTime: 0:47.532(2796)

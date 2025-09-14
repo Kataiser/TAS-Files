@@ -1,0 +1,129 @@
+# Flutterbird Forest
+# https://gamebanana.com/mods/616090
+
+RecordCount: 184
+
+Set,ExtendedVariantMode.DashSpeed,100
+console load mikaxelk/TasContestWinter2024/tcw24
+   1
+
+#Start
+  91
+
+#lvl_intro
+  12,R,J
+   6,R,X
+  40
+
+#lvl_00
+   3,R,X
+  40
+
+#lvl_01
+   1,R,X
+  14,R,J
+   8,R,U,X
+   1,J
+  17,L,D
+   5,D
+   5,L
+   6,L,U,X
+   1,R,J
+  25,D
+   1,X
+   1
+  15,U,X
+   9,R
+   8
+   2,D
+   7,R,D
+   1,R
+   5,R,D
+   7,R,D
+   7,R,Z
+   1,R,J
+   6,R
+   2,R,J
+   6,R,D,X
+  40
+
+#lvl_02
+   9,R,D,X
+   3,L
+   5,L,D,X
+   1,R,J
+   2
+  16,R,D
+  22,R,J
+   5,U,X
+   1,L,J
+  12,L,D
+   1,R,J
+   5,R
+   9,X
+   5,R
+   1,R,J
+   8,R,U,X
+  11,R,J,G
+   2
+   9,R,J,G
+   7,R
+  12,R,J
+   5,R,X
+  40
+
+#lvl_03
+   1,R,X
+   9,R,J
+  15,U,X
+  18,R,D
+  10,X
+  18,R,J
+   5,U,X
+  12,R,J
+   8,R
+   9,X
+   9,R,J
+   8,R,X
+  12,R,J,G
+  12,R,K,G
+   2,J
+  10,R,U,X
+  40
+
+#lvl_04
+   5,R,J,G
+   5,R,U,X
+  16,R,D
+  22,X
+  22
+  14,L
+   6
+   4,Z
+  18,R,J
+  16,X
+   6,R,J
+   5,U,X
+  16,L,J
+   1,X
+   1
+   6,R,D,X
+   1,J
+  15,L,D
+   6,X
+   1
+   7,R,U,X
+   1,J,G
+  34,R,D
+   5,R,X
+  40
+
+#lvl_heart
+  27,R,J
+   4,X
+  13,L,D
+ 121,R,J
+Set,ExtendedVariantMode.DashSpeed,1
+   1,R,J
+
+ChapterTime: 0:17.884(1052)

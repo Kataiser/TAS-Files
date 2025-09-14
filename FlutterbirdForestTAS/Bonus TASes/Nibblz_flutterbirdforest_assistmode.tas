@@ -1,0 +1,267 @@
+# Flutterbird Forest
+# https://gamebanana.com/mods/616090
+
+RecordCount: 781
+
+console load mikaxelk/TasContestWinter2024/tcw24
+
+set InfiniteStamina true
+set DashMode Infinite
+set Invincible true
+# i dont actually know if youre supposed to do the assist options from the menu or not, my bad if you are
+   1
+
+#Start
+  91
+
+#lvl_intro
+   1,L
+  11,L,D,X
+   6,R,J
+   5,R,D,X
+   1,R,J,G
+   3,R
+   2
+   6,R
+   1,R,J
+   4,R,K,G
+   2,K
+   2,R,K
+   6,R,D,X
+   5,R,J,G
+  15,R
+   2,R,J
+  11,R,D,X
+  40
+
+#lvl_00
+   1,R
+   2,R,J,G
+   1,J
+   6,R,J
+   1,R,K,G
+  26,R,J,G
+  15,R,D,X
+  15,R,D,C
+   6,R
+   4
+   1,R,J
+   5,R,K,G
+   7,R,J,G
+  18,R,K,G
+   5,R,C
+  11,L,K
+  15,R,X
+  16,R,D,C
+   4,L,Z
+   1,L,J
+  13,L
+   4,R,Z
+   1,R,J
+   4,R
+   1,R,J
+  14,R
+   2,R,J
+  15,R,D,X
+   1
+   2,R
+  12,R,U,C
+   7,R,J,G
+   2,R
+   5,R,U,X
+  40
+
+#lvl_01
+   6,R
+   4,R,J,G
+  15,R,U,X
+  16,U,C
+  16,U,X
+  15,R,U,C
+  14,R,U,X
+  19,C
+  18,U,X
+  15,U,C
+  15,U,X
+  15,U,C
+   1,L
+   1,L,J
+  14,L,X
+   1,L,J
+  14,L,D,X
+   1,R,J
+   8,R,D,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R
+   2,R,J
+  30,R,D,C
+   6,R
+  11,R,J
+   9,R
+   6
+  14,R,U,C
+   4,R,J,G
+  14,R,D,X
+  40
+
+#lvl_02
+  11,R,D
+   9,U,X
+   6,R,J
+  14,R,U,X
+  14,R,C
+  18,R,J
+  15,R,U,Z
+   9,L,X
+  14,L,C
+  15,U,X
+   1,L,J,G
+  27,L,G
+   7
+   1,L,J
+  21,L
+   4,R,Z
+   1,R,J
+   4,R
+   5,R,J
+   2,R
+  15,R,D,X
+   9,R,U,Z
+   1,L,J,G
+   5
+   1,R
+  14,R,U,X
+   1,R,J,G
+   4,J
+   7,R,J
+   9,R,X
+  40
+
+#lvl_03
+   5,R
+   5,R,J,G
+  15,R,U,X
+  13,U,C
+  15,X
+  15,U,C
+  11,U,X
+  13,C
+  15,U,X
+  10,U,C
+  13,X
+  15,U,C
+  10,U,X
+  15,C
+  15,U,X
+  14,U,C
+  21,R,X
+  13,U,C
+   5,R,J
+  16,C
+   2,L,C
+  15,R,U,X
+  12,L,U,C
+  15,R,X
+  12,U,C
+   3,J
+  15,U,X
+  15,U,C
+  14,U,X
+   1,J
+  14,U,C
+   1,J
+  15,U,X
+  23,L
+   2,J
+  10
+   6,L
+   4,R,Z
+   1,R,J
+   4,R
+   1,R,J
+   5,R
+  15,R,D,X
+  11,R,U,C
+   6,R,J,G
+   3,R
+  15,R,D,X
+   1,R
+   2,R,J
+  25,R,K,G
+   3,D
+   7,R,D
+  14,R,U,X
+   1,R,J,G
+  12,R,U,X
+   3,R,J,G
+  40
+
+#lvl_04
+   2,R
+   3,R,K,G
+  18,R,D,X
+  38,R,C
+  15,R,U,X
+  11,R,C
+  20,R,X
+   9,U,C
+   8,R,J
+  22,L,C
+  15,L,U,X
+  11,U,C
+  16,L,J
+  30,R,C
+  21,R,D,X
+
+  15,R,J
+  16,R,D,X
+   1,R,J
+   2,R
+  23,R,D,X
+   7,R,J
+  15,R,D,X
+   1,R,J
+   7,R,U,X
+   3,R,K,G
+  12,R,J,G
+  15,R,D,X
+   7,R,J
+  14,R,U,X
+   1,R,J,G
+  17,U,X
+   3,R,J,G
+   2,R
+   8,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  14,R,D,X
+   3,R,J
+  40
+
+#lvl_heart
+  13,R,U,X
+   1,L
+   1,J,G
+  16,R,D,X
+   1,R
+   3,R,J
+   8,R,D,X
+   2,R,J,G
+  12,R
+   1,R,J
+  14,R
+   2,R,J
+  15,R,U,X
+  12
+  31,U,C
+  44,U,X
+ 100,U,C
+
+set InfiniteStamina false
+set DashMode Normal
+set Invincible false
+
+ChapterTime: 0:35.411(2083)

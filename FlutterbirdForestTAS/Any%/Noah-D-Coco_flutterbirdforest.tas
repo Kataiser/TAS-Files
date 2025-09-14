@@ -1,0 +1,304 @@
+# TAS CONTEST WINTER 24
+# https://gamebanana.com/mods/616090
+
+RecordCount: 2182
+
+console load mikaxelk/TasContestWinter2024/tcw24
+   1
+
+#Start
+  91
+
+#lvl_intro
+  13,L,Z
+   1,R,J
+   6,R
+   2,R,J
+   5,R,K,G
+   1,K
+   1
+   8,R,D,X
+   4,R,J,G
+   5,R,K,G
+   6,R
+   1,R,J
+   2,R
+   7,R,J
+   4,R
+  14,R,D,X
+  40
+
+#lvl_00
+   2
+   1
+   5,R,J
+  55,R,K,G
+  14,R,Z
+   6,R,J
+   2,R,K,G
+  10,R,D,X
+   1,R,J
+   3
+   2,R
+  15,R,D,X
+   7,L,J
+   9,R,U,X
+  15,R,D,C
+  28,R
+   3
+   2,R
+   8,L,Z
+   1,R,J
+   7,R
+   6,R,J
+   6,R
+   2,R,J
+   2,R
+   1,R,J
+  11,R
+   3,R,J
+   9,R,X
+   4,R,J,G
+  40
+
+#lvl_01
+   5,J
+   1,R,J
+   2,J
+   3,R,K,G
+  15,R,D,X
+  29
+  10,J
+  10,L,D,X
+   1,R,J
+   2,R
+   3,R,K,G
+   2,R,J,G
+   1,J
+  14,R,J
+  11,U,X
+  20,R
+   7
+  10,R,X
+  20,R,J
+  11,R
+  20,R,U,X
+   1,R,J,G
+   1,R,K,G
+  12,J,G
+   3,L,J
+  10,U,X
+   5
+
+
+  12
+  15,R,U,X
+  12,U,C
+   1,R,X
+  17,R,D
+   4,L,Z
+   1,L,J
+   7,L
+   2,D
+  18,R,D,J
+  10,L,G
+   1,J,G
+   1,K,G
+   1,J,G
+  11,R,D,X
+StunPause
+   4,R,D
+   4,R,J
+EndStunPause
+  12,R,J
+   8,R,Z
+  19,R,K,G
+  14,R
+   5,R,J
+   3,R,J
+  14,R,U,X
+   1,R,J,G
+   9,R,D
+   1,D
+  11,R,D
+  40
+
+#lvl_02
+   6,R,D
+   1,R
+   1,R,D
+   2,R
+  16,R,U,Z
+   1,J
+   1,K
+   4,L,K
+  10,K
+   3,R,X
+  17,R,J,X
+  20,R,K
+   6,K
+  10,L,U,C
+  15,U,X
+  15,L
+  16,G
+  10,J,G
+   1
+  16,R
+  24,R,D
+   8,R,D,J
+  22,R,D,X
+   1
+  18,L,G
+   1,L,J,G
+   1,L,K,G
+  10,J,G
+   4
+  21,U,Z
+   1
+   4,R
+   9
+
+
+  14,L,D,X
+   1,R,J
+  14,R,U,X
+   3,R,J,G
+  15,R
+   1,R,J
+   5,R,U,X
+  40
+
+#lvl_03
+   7,R
+  15,R,J,G
+  14,U,X
+   6,U,C
+   6,R
+  11
+  15,U,X
+   6,U,C
+  14,L
+  15,U,X
+   6,U,C
+  14,R
+  14,U,X
+   9,U,C
+  11,R
+  16,R,U,X
+   1,R,J,G
+   1,L,J
+   1,R,J
+   2,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+  14,L,J
+   2,L,X
+  27,R,X
+  13,R,U,C
+   9,L,J
+  21,U,J,X
+  14,L,U,C
+   4,R,J
+  25,U,X
+  17,U,C
+  20,R,J
+  48,R,J,X
+  13,L,D,C
+   1,R,J
+   7,R
+
+
+   9,R,J
+  20,R
+   9,R,X
+   6,J,G
+   1,L,J
+  27,R,J
+  25,L,K
+   3,L,G
+   1,L
+   1,J
+   1,K,G
+   1,J,G
+   1,K,G
+   1,J,G
+   7,K,G
+   5
+   2,R
+  20,R,J
+   2
+   1,J
+   9
+  14,R,U,X
+   1,J,G
+   2,R
+  40
+
+#lvl_04
+   1,R
+   1,R,J,G
+   4,R
+  13,R,D,X
+  22,R,C
+   8,L
+   4,R
+   1
+   2,R
+   1
+  31,R,U,X
+  32,R,C
+   4
+  13,U,X
+  13,L,J
+  13,L,U,X
+  25,L
+  12,U,X
+  15,L,J
+  28,R,X
+  20,R,D,C
+   6,R,J
+   8,R,D,X
+   1,L,J,G
+  14,R
+   9,R,J
+  16,R,D,X
+  19,R,C
+  14,R,X
+  16,R,D,C
+   1,R,J
+  11,R
+  27,R,U,X
+   5,R,C
+   1,R
+  15,R,D,X
+   1,R,J
+  14,R
+  18,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   8,R,D,X
+  40
+
+#lvl_heart
+   2,R
+   1,R,J
+   7,R
+   1,R,J
+   3
+   8,R,D,X
+   1,R,J,G
+   7
+   4,R
+   4,R,J
+   7,R,D,X
+   1,R,J,G
+  14,R
+   1,R,J
+  14,R
+   5,R,J
+ 149,R,U,X
+
+ChapterTime: 0:43.214(2542)

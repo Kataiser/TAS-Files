@@ -1,0 +1,229 @@
+RecordCount: 618
+
+# hi mika ♥
+
+console load mikaxelk/TasContestWinter2024/tcw24
+   1
+
+Set ExtendedVariantMode.EveryJumpIsUltra true
+Set Invincible true
+Set DashMode Infinite
+
+#Start
+#lvl_intro
+  91
+   4,Z
+   2,J
+   1,R,K,G
+   3,K
+   6,R
+   1,R,J,G
+   5,R
+   1,R,K,G
+  12,R
+   1,D,J
+   3,R,J
+  40
+
+#lvl_00
+   3,R,J
+   9,R,D,X
+   1,L,J,G
+  19,R,J
+  15,R
+   9,R,J
+   6,R
+   2,R,K
+   2,R
+   1
+  13,R
+   1,R,J,G
+  10,R,U,X
+  40
+
+#lvl_01
+   4,R
+  10,J,G
+  15,U,X
+  15,U,Z
+  15,U,X
+  15,U,C
+  15,R,U,X
+   3,R
+  15,U,Z
+   2,L,J,G
+  15,R,U,X
+  14,R,U,C
+   1,R,J,G
+  15,U,X
+   4,R
+   6
+   2,L
+  19
+   1,L
+   3,R
+   4,Z
+   1,R,J
+   1,R,K,G
+  14,R
+   3,R,J
+   5,R
+  11,R,U,X
+   1,R,J,G
+   8,J
+   1
+   5,R
+  14,R,U,X
+   1,R,J,G
+  11,R,D,X
+  40
+
+#lvl_02
+   4,R,D
+   1,L,D
+  11,R,D
+   6,R,D,X
+   9,R,J
+  14,U,Z
+  10,R,J
+  12,R,X
+   5,R,D
+  23,R,J
+  14,U,X
+   1,J
+  31,U,X
+Repeat 3
+   3,D
+   3
+EndRepeat
+   1,D
+  14,L,U,X
+   1,K
+   1
+   6,L,Z
+   1,R,J
+   1,L,K,G
+   3,K
+   4,X
+  15,R,D,X
+  10,R,U,Z
+   4,L,J,G
+   1,R,J
+  12,R,U,X
+   3,R,J,G
+   4,R
+   7,R,U,X
+  40
+
+#lvl_03
+   3
+   8,R,J,G
+  10,U,X
+  11,J
+  14,X
+  15,U,C
+  15,U,X
+   9,C
+  15,U,X
+  15,U,C
+  23,R,X
+  14,U,C
+   1,L,J
+  17,X
+  15,U,C
+   1,R
+  15,U,X
+  22,R,C
+  15,U,X
+   5,L,U,C
+   1,R,J
+   6,R,K
+  18,X
+  15,U,C
+   9,X
+   6,L
+  13,L,U,C
+   8,R
+   3
+   1,R,J
+  10,U,X
+  14,R,J
+  10,R
+  14,R,X
+   7,R,J
+  12,R,K,G
+  16,U,X
+  14,R,Z
+   1,R,J
+   9,R,D,X
+  26,R,J
+  75,G
+  13,U,X
+   9,L,J
+   1,K
+   1,L,J,G
+   2,J
+   4,R,J
+  11,R
+  14,R,U,X
+   1,L,J,G
+   5,R,J
+  29,R
+   8,R,D
+  14,R,U,X
+   1,R,J,G
+  12,R,U,X
+   3,R,J,G
+  40
+
+#lvl_04
+   4,R,J
+  17,R,D,X
+  25,C
+  17,R
+   9,R,X
+   9,J,G
+   3,R,J
+  19,R,X
+   3,R
+   9,U,Z
+   6,R,J
+   2,R
+  13,X
+   9
+   9,L
+  16,L,U,X
+  16,U,C
+   6,R,U,X
+   1,R,J,G
+   8,R
+   7,L,Z
+   1,R,J
+   6,R
+   7,R,J
+  15,R,D,X
+   1,R,J
+  14,R
+   4,R,J
+   5,R
+  15,R,D,X
+  18,R,D,C
+   1,J
+   5,R,J
+  14,R,U,X
+   1,L,J,G
+   7,R,J
+   7,R
+  14,R,U,X
+   1,J,G
+   4,R
+   2
+  40
+
+#lvl_heart
+   1
+  10,R,U,X
+   8,L,J,G
+ 139,R,D,X
+
+ChapterTime: 0:31.127(1831)

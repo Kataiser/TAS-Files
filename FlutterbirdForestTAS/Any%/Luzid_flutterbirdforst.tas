@@ -1,0 +1,1105 @@
+# TAS CONTEST WINTER 24
+# https://gamebanana.com/mods/616090
+
+RecordCount: 10191
+
+console load mikaxelk/TasContestWinter2024/tcw24
+   1
+
+#Start
+  91
+
+#spinner cycle
+   0
+#
+
+#lvl_intro
+
+## early dultra
+#    1,L,J
+#    1,J
+#    2
+#   15,R,X
+#   14,L,Z
+#    1,R,J
+#    5,R,D,X
+#    2,R,J,G
+#    1,R
+#    7,R,J
+#    1,R
+#    4,R,J
+#    5,R,D,X
+#    2,R,J,G
+#    5,R
+#    3,R,J
+#    7,R
+#    2,R,J
+#   11,R,D,X
+#   40
+#    1,R,D,X
+#    8,R,K,G
+#    7,R
+#   28,R,J
+#   15,R,D,X
+#   16,R
+#    2,R,J
+#    8,R
+#    4,R,J
+#    2,R
+#    2
+#   15,R,Z
+##
+
+## rounding error (-8)
+#    2,R,J
+# Invoke, Player.MoveV, 0.046602
+#    1
+#   14,R,Z
+#    1,R,J
+#    5,R,D,X
+#    2,R,K,G
+#    5,R,J,G
+#    5,R
+# Set, Player.Speed.X, 373
+#    2,R
+#    8,R,J
+#    2,R
+#   15,R,D,X
+#    1,R,J
+#   40
+#    3,R,J
+#    6,R
+#    1,R,J
+#    2,R
+#   27,R,J
+#   15,R,D,X
+#   16,R
+#    4,R,J
+#    5,R,K,G
+#    9,R
+#   13,R,Z
+##
+
+## old
+#    2,R,J
+#    1
+#   14,R,Z
+#    1,R,J
+#    5,R,D,X
+#    1,R,J,G
+#    1,J
+#    2,R,K,G
+#    1,R
+#    2,R,J,G
+#    5,R
+#    1,R,J
+#    2,R
+#    7,R,J
+#    4,R
+#   15,R,D,X
+#    1,R,J
+#   40
+#    3,R,J
+#    6,R
+#    1,R,J
+#    5,R
+#   30,R,J
+#   15,R,D,X
+#   14,R
+#    1
+#    4,R,J
+#    5,R,D,X
+#    1,R,J,G
+#   12,R
+#    1,R,J
+#    5,R
+#    9,R,U,Z
+##
+
+   6,R,Z
+   1,L,J
+   2
+   1,J
+   5
+   5,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   2,R,K,G
+   1,K
+   4,R
+   7,R,D,X
+   1,R,J,G
+   3,R
+   5,R,K,G
+   6,R
+   1,R,K
+   3,R
+   5,R,J
+# 487.3
+   5,R
+  13,R,D,X
+  40
+
+#lvl_00
+   2,R,D
+   5,R,J
+   3,R,K,G
+  24,R,J,G
+  15,R,D,X
+   9,R
+   6,R,D
+   3,R,J
+  11,R
+   2,R,J
+   2,R
+   9,R,U,Z
+   1,R,J,G
+   1,R,K,G
+   3,R,J,G
+   2,J
+   1
+   1,K,G
+   1,R
+   1
+   1,R
+   1
+   1,R
+   2
+   1,L
+   1,R,J
+  10,R
+   2,R,J
+   1,J
+   2,R,J
+   1,J,G
+   1,J
+   2,R,J
+   2,J
+   1,J,G
+   1,J
+   2,J,G
+   2,J
+   2,J,G
+   1,G
+   5,R,D,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+
+## high rcb is possible (+3f)
+#    1,R
+# Set, Player.Speed, 0, 0
+# Invoke, Player.MoveV, 99
+#   10
+# Set, Player.Speed.X, 1012
+#    4,R
+#    4,R
+# Set, Player.Speed.X, 885
+# Invoke, Player.MoveV, -0.499
+#   26,L,J
+#    9,R,U,X
+#   40
+#    5,R,U,X
+#    1,L,J,G
+#   18,R,J
+#   14,U,X
+#    1,C
+#0:06.443(379)
+##
+
+## 7f potential + skip test
+#   14,R
+#   24,R,D,J
+# Invoke, Player.MoveH, -25.84
+# Set, Player.Speed.X, 935
+#    6,R,U,X
+# Set, Player.Speed.X, 819
+#    4,R,U,X
+#   40
+#    4,R,U,X
+#    1,L,J,G
+#   12,R,J
+#    9
+#   15,U,X
+#   10,R
+#    7,L,Z
+#    1,R,J
+#    4
+#    2,R
+#    1,R,J
+#   14,R,Z
+#    1,L,J
+#    6,L,D,X
+#    1,L,J,G
+#    4
+#    3,L
+#    1,L,J
+#    4,L
+#    6,L,D,X
+#    1,R,D,C
+#    2,R
+#   27,R,J
+#   26,L,U,X
+#    1,L,U,C
+##
+
+  13,R
+   3,R,J
+   5,R
+   3,R,J
+   1,R
+   3
+  14,R,U,Z
+   1,L,J,G
+   2,R,J
+  40
+
+#lvl_01
+   7,J
+   2,R,J
+   1,J
+  17,R,U,X
+   4,J,G
+   1,K
+   1,J
+  10,L,J
+  10,R,D,X
+   1,R
+   1,R,D
+  25,R,J
+  11,R
+  15,R,U,Z
+   4
+   7,R
+   1
+   1,R
+   1,J,G
+   1,K,G
+   1,J,G
+   1,R,K,G
+  10,L,K
+   7,L
+  10,U,J,X
+
+## nope
+#   11,R
+#   18,U,X
+#   14,U,C
+#   10
+# Set Invincible true
+# Set, Player.Stamina, 99
+#    1,X
+#    1
+#   15,D,C
+#    3,R
+#    5,L
+#   67,R,D,X
+# Set, Player.Position, -2398, 1551
+# Set, Player.Speed.X, 750
+#    1,R,J
+# Invoke, Player.MoveH, -40
+#   11,R,U,X
+#    1,L,J,G
+#   34,R,J
+#    2,R,K
+#   99,R,U,X
+##
+
+## both blocks (cope)
+# Set Invincible true
+# Set, Player.Position, -2487, 1570
+#   11,R,C
+# Set, Player.Position, -2487, 1470
+# Set, Player.Speed, 0, 0
+#   63,L,G
+# Invoke, Player.MoveV, 80
+#    1
+#    1,J
+#    1,K,G
+#   15,R,D,X
+#   16,R,D,J
+#    6,R,U,Z
+#    9,R,K,G
+#   20,R
+#    7,R,J
+# Invoke, Player.MoveH, -7
+# Invoke, Player.MoveV, -1.6
+#   14,R,U,X
+# #0:10.778(634)
+#    1,R,J,G
+#   10,R,D
+# Invoke, Player.MoveH, -10
+#   11,R,D
+##
+
+## overclock testing (-6f)
+#   10,R
+#   11,R,U,X
+#    1
+#    1,K
+#    1,L,K
+#   28,R,K
+#    6,R,D
+#    7,R,G
+#    1,U,G
+# Invoke, Player.MoveV, 0.25
+# Set, Player.Stamina, 130
+#    6,G
+#    1
+#    5,R,Z
+#    1,R,J,G
+#    1,R,K,G
+#    1,R,J,G
+#    2,R,K,G
+#    2,R,J,G
+#    7,R
+# ***
+#    8,R,J
+#    5,R
+#    2,R,J
+#    3,R
+#    8,R,U,Z
+#    9,R,J,G
+#   20,R
+# ***
+#    9,R,J
+#   14,R,U,X
+#0:10.829(637)
+##
+
+  10,R
+  11,R,U,X
+   1
+   1,K
+  16,L,K
+   5,K
+   1
+   1,L
+   1,G
+   1,R,J
+   7,R
+   1,R,J
+   0,R
+   1,R
+  11,R
+   5,G
+   1
+   5,R,Z
+   1,R,J,G
+   1,R,K,G
+   2,R,J,G
+   3,R,K,G
+   1
+   7,R
+   6,R,J
+  11,R
+  10,R,U,Z
+  10,R,J,G
+  21,R
+  10,R,J
+   2,J
+   1
+  11,R,U,X
+   1,J,G
+  18
+   4,D
+  40
+
+#lvl_02
+   2,D
+   7,R,D
+   7,R,J
+   5,R
+   4,R,J
+  10,U,X
+   6,L,J
+   1,R,D,J,C
+   3,J
+   3,R,J
+  15,R,D,X
+  21,R,J
+   9,L,U,X
+   6,U,C
+  11,L
+   5,L,D,X
+   1,J,G
+   7
+  18,G
+   1
+   1,J
+   3,R
+   2,L
+   2,L,J
+  10,L,D
+  35,L,G
+   5,U,G
+  15,G
+  11,U,G
+
+## top bs?
+#   16,G
+#    5,G
+# Invoke, Player.MoveV, 0.5
+# Invoke, Player.MoveH, -0.2
+#    1,L,J,G
+#    1,L,K,G
+#    1,J,G
+#    3,J
+#    4,R,J
+#   10,L,X
+#    7,L,J
+#    1,K
+#    1,J,G
+#   99,R,U,Z
+##
+
+  16,G
+  10,U,G
+   5,G
+   1,U,G
+   1,G
+   1,U,G
+   9,G
+   1
+   1,K
+   3,J,G
+   1
+  10,L,Z
+   1,R,J
+   1,L,K,G
+   3,R,K
+  12,R,U,X
+   1,R,J,G
+  17,R,K,G
+  40
+
+#lvl_03
+   2,R
+   2,R,J
+   1,R
+  11,R,K
+   1,R
+  16,U,X
+   6,U,C
+   6,R
+  13
+  13,U,C
+   4,U,X
+  10,R
+   7
+  13,U,C
+   4,U,X
+  10,R
+   7
+  13,U,C
+   4,U,X
+   4
+  14,R
+  14,R,U,X
+   1,R,J,G
+   2,J
+   1,L,J
+   1,R,J
+   1,K
+   2,J,G
+  12,L,J
+  10,L,U,C
+
+## skip (slower)
+#   16,R
+#    4,R,J
+# Invoke, Player.MoveV, -2.03
+#   13,U,X
+#   18,U,C
+#   13,U,X
+#    6,U,C
+#    7
+#   15,U,X
+#    5,L
+#    9,R,J
+#    7,J
+#   14,U,X
+#   99,R,J
+##
+
+  16,R
+   1,R,J
+  15,R,U,X
+   1,L
+   1,K
+   4,L,K
+   6,U,C
+   9
+   5,L
+  13,L,U,X
+   1,R
+   1,K
+   2,R,K
+   1,R
+   6,U,X
+   7,L
+   5
+   1,L
+   5
+   1,K
+   4,R,K
+  14,U,X
+  18,R,J
+
+## only right (slower)
+#   25,R,X
+#   15,R,D,C
+#    2,R
+#   14,R,D,X
+#   10,R,J
+#    8,R
+#   14,R,Z
+#    4,J,G
+#    1,L,J
+#   25,R,J
+#    6,G
+#   16,U,G
+# Invoke, Player.MoveV, -4
+#    5,R,D,X
+#    1,R,J,G
+#    1,R,K,G
+#    1,R,J,G
+#    1,R,K,G
+#    1,R
+#    7,R,J,G
+#    5,R
+# Invoke, Player.MoveV, -0.353371
+#    2,R
+#   44,R,J
+#   14,R,U,X
+#    1,R,J,G
+#   99,R,K,G
+#0:26.826(1578)
+##
+
+## only left 1 (slower)
+#    6,R,X
+#   54,L,J
+#    4,J
+#   14,L,X
+#   18,R,J
+#    2,L,J
+#    1,K,G
+#    1,R,K
+#    6,K
+#    7
+#    9,L,G
+#   12,U,G
+#    1,L,J,G
+#    1,L,K,G
+#    1,L,J,G
+#    9,R,U,Z
+#    2,R,K,G
+# Set Invincible true
+#    1,R,K
+#   20,R
+#   99,R,J
+##
+
+## only left 2 (slower)
+#    6,R,X
+#   54,L,J
+#    4,J
+#   14,L,X
+#   18,R,J
+#    2,L,J
+#    1,K,G
+#    1,R,K
+#    6,K
+#    3
+#    4,L,G
+# Set, Player.Speed.Y, -1
+# Set Invincible True
+#    1,L,J,G
+# Invoke, Player.MoveH, -0.652
+# Set, Player.Speed.X, 230
+#    1,L,K,G
+#    1,J,G
+# Invoke, Player.MoveV, 0.6
+# Invoke, Player.MoveH, 1
+#   14,R,U,Z
+#    2,R,J,G
+#   22,R
+#   99,R,J
+##
+
+## greedy test 1 (walljump left, no overclock)
+#   25,R,X
+#   15,R,D,C
+#    2,R
+#   14,R,D,X
+#   29,R,J
+#    6,G
+#   21,U,G
+# Invoke, Player.MoveV, -5
+#    0,G
+#    5,R,X
+#    1,J
+#    2,K,G
+#   29,L,K
+#    1,J
+#    1,K
+#    1,J,G
+# Invoke, Player.MoveH, 2
+#    6,R,U,Z
+#    2,R,J,G
+# Invoke, Player.MoveV, 0.4
+#    2,K,G
+#    1,J,G
+# Set Invincible true
+#    3
+#   15,R
+#   26,R,J
+#   14,R,U,X
+#    3,R,J,G
+#0:26.741(1573)
+##
+
+## greedy test 2 (top overclock)
+#   25,R,X
+#   15,R,D,C
+#    2,R
+#   14,R,D,X
+#   19,R,J
+#   16,R,U,X
+#    6,R,J,G
+#    7
+#   15,G
+#    5,R,X
+#    1,R,J,G
+#    5,R,K,G
+#    1,J,G
+#    3,R
+#    3
+# Invoke, Player.MoveV, 1
+#    1
+# Invoke, Player.MoveH, -0.75
+# Set, Player.Speed, 0, 0
+#    1,L
+#    1,L,J
+#   21,L
+#    1,J
+#    1,K,G
+# Invoke, Player.MoveH, -1
+#    5,R,Z
+#    1,R,J,G
+#    1,R,K,G
+#    2,R,J,G
+#   99,R,K,G
+##
+
+## greedy test 3 (dash left, no overclock)
+#   25,R,X
+#   15,R,D,C
+#    2,R
+#   14,R,D,X
+#   29,R,J
+#    6,G
+#    6,G
+#   15,U,G
+# Invoke, Player.MoveV, -12.6
+#    0,G
+#    5,R,X
+#    1,J
+#    2,K,G
+#   10,L,K
+#   18,L,X
+#    1,J
+# # bottlenecked by liftboost
+#    5,K,G
+# Invoke, Player.MoveH, 3
+#    1,K,G
+#    1,R,J,G
+# Invoke, Player.MoveH, -1
+#    1,R,K,G
+# Invoke, Player.MoveH, -1
+#    1,R,J,G
+# Set Invincible true
+#    7,R
+#    2,R,J
+#    3,R
+#   15,R,D,X
+#   22,R,J
+#   14,R,U,X
+# Invoke, Player.MoveH, 6
+# Invoke, Player.MoveV, -5
+#    4,R,J,G
+#0:26.707(1571)
+##
+
+## greedy test 4 (dash left, overclock sim)
+#   25,R,X
+#   15,R,D,C
+#    2,R
+#   14,R,D,X
+#   29,R,J
+#    6,G
+#    6,G
+#   15,U,G
+# Invoke, Player.MoveV, -12.6
+#    0,G
+#    5,R,X
+#    1,J
+#    2,K,G
+#   10,L,K
+#   18,L,X
+#    1,J
+# # bottlenecked by liftboost
+#    5,K,G
+# Invoke, Player.MoveH, 3
+#    1,K,G
+#    1,R,J,G
+# Invoke, Player.MoveH, -1
+#    1,R,K,G
+# Invoke, Player.MoveH, -1
+#    1,R,J,G
+# Set Invincible true
+# Invoke, Player.MoveV, 1.75
+# Set, Player.LiftSpeed, 240, 0
+# Set, Player.Stamina, 20
+# Invoke, Player.MoveH, -1
+#    1,R,K,G
+#    7,R
+#   12,R,J
+#    5,R
+#    7,R,J
+#    9,R
+#   14,R,U,X
+#    2,R,J,G
+#   40
+#    2,R,J
+#    1,K,G
+#    2,R
+#   13,R,D,X
+#0:27.523(1619)
+##
+
+## -0f cope (+1f later, -1f more speed)
+#   25,R,X
+#   15,R,D,C
+#    2,R
+#   14,R,D,X
+#   29,R,J
+#    2,R,D
+#   16,G
+# Invoke, Player.MoveV, -8.25
+#    5,R,Z
+#    1,R,J,G
+#    1,R,K,G
+#    9,J,G
+#    1,L,J
+#    1,K
+#    9,L,K
+#    9,L,K
+#    1,L,K
+#   12,L,K
+# Invoke, Player.MoveH, -0.499
+#    1,J
+#    9,R,D,X
+# Invoke, Player.MoveV, -12
+# Invoke, Player.MoveV, 0.732816
+#    1,R,J,G
+#    1,R,K,G
+#    1,R,J,G
+#    1,R,K,G
+#   12,R,J,G
+#    7,R
+#    8,R,J
+#    5,R
+#    2,R,J
+#    1,R
+#    1,R
+#    1,R
+#   13,R,U,X
+#   40
+# Set Invincible True
+#    1,R,U,X
+#    1,J,G
+#   10,R,D,X
+#    2,U,C
+#0:27.404(1612)
+##
+
+## old +2f (+2f later, -0f speed)
+#   25,R,X
+#   15,R,D,C
+#    2,R
+#   14,R,D,X
+#   27,R,J
+#    1,J
+#    1,R,J
+#    2,J,G
+#    1,J
+#    1,J,G
+#    1,J
+#    2,J,G
+#    1,J
+#    4,R
+#    3,G
+#    4,K,G
+#    5,R,Z
+#    4,J,G
+#    1,L,J
+#   12,R,J
+#    8,R,J
+#    1,J
+#    2,R,J
+#    2,J
+#    1,K
+#    5,L,K
+#    8,L
+#    1,J
+#    4
+#    1,L
+#    1,J
+#    1,K,G
+#    1
+#    5,R,D,X
+#    1,R,J,G
+#    1,R,K,G
+#    2,R,J,G
+#    8,R,K,G
+#    7,R
+#    8,R,J
+#    5,R
+#    1,R,J
+#    5,R
+#   13,R,U,X
+#   40
+#    1,R,U,X
+#    1,J,G
+#   10,R,D,X
+#   22,U,C
+#    7
+#    2,R
+#    3
+#    3,R
+#   15,R,U,X
+##
+
+  25,R,X
+  15,R,D,C
+   2,R
+  14,R,D,X
+  29,R,J
+   1,J,G
+   4,J
+   1,R,J
+   1,J
+   1,R,J
+   2,R
+   1,G
+   1
+   5,G
+   5,R,Z
+   1,R,J,G
+   1,R,K,G
+   3,R,J,G
+   1,R
+  13,K,G
+   1,L,K
+   1,J
+  11,L,J
+   9,L
+   1,L,J
+   2
+   1,L
+   1
+   2,L
+   1,K
+   1,J,G
+   1
+   6,R,D,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  10,R,K,G
+  10,R
+   8,R,J
+   5,R
+   1,R,J
+   1,R
+   1
+  13,R,U,X
+  40
+
+#lvl_04
+   1,R,U,X
+   1,R,J,G
+  10,R,D,X
+  22,U,C
+   7
+   2,R
+   3
+   2,R
+   1
+  15,R,U,X
+
+## 20f """potential"""
+#   16,R
+# Invoke, Player.MoveV, 0.5
+# Set, Player.Ducking, true
+# Set, Player.Speed.Y, -90
+#    1,R
+#   13,R,C
+#    7,R,J
+#    1,L,K,G
+#    1,R,K
+#    5,R
+#    4,R,K
+#    9,U,X
+#    1,C
+##
+
+  17,R
+  15,R,C
+   8,R
+   1
+   4,R
+  12,R,U,Z
+   1,J
+  19,L,J
+  10,L,J,C
+  24,L
+   4,L,J
+  11,U,X
+  15,L,J
+  28,L,C
+  20,R,D,X
+   6,R,J
+   8,R,D,X
+   1,L,J,G
+  14,R
+   8,R,J
+  15,R,D,X
+   2,R
+  11,R,C
+  12,R
+  10,R,U,X
+
+## normal ultra (+1f)
+#    1,R,D,C
+#    4,R,J
+#   15,R,D,X
+#   21,R,J
+# Set, Player.Speed, 0, 0
+#    4
+# Set, Player.Speed, 0, 0
+#    4
+# Set, Player.Speed, 0, 0
+#    5
+# Invoke, Player.MoveV, -0
+# Invoke, Player.MoveH, -0.54
+#    8,R,C
+#    1,R
+# Set, Player.dashCooldownTimer, 0
+#   15,R,D,X
+#    6,R,J
+#    1,J
+#    1,R,J
+#    6,R
+#    1,R,J
+# Invoke, Player.MoveV, 0.76
+#    1,R
+#   21,R,J
+#   15,R,D,X
+#    2,R,J
+#    2,R
+#    7,R,U,Z
+#   40
+#    6,R,U,Z
+#    1,L
+#    2,J,G
+#   15,R,D,X
+# Invoke, Player.MoveV, -0.2
+#    4,R
+#    2,R,J
+#    2,R
+# Invoke, Player.MoveH, -4
+#    7,R,D,X
+#    1,R,J,G
+#   14,R
+#    1,R,J
+#   11,R,U,X
+##
+
+## no speed test
+#    1,R,J,C
+#    4,R,J
+#   15,R,D,X
+#   19,R,J
+#    5,R,D,X
+#   15,R,C
+#   17,R,D,X
+#    4
+# Set, Player.Speed, 0, 0
+#    9
+# Set, Player.Speed.X, 400
+#   18,R,J
+# Invoke, Player.MoveH, 15
+# Set, Player.Speed.Y, 0
+# Invoke, Player.MoveV, 99
+#    1,R
+#    1,R,K
+#   14,R
+#    6,R,K
+#   40
+#    6,R,K
+#   15,R,D,X
+#    1,R,J
+#   10,R,K,G
+#    9,R,D,X
+#    1,R,J,G
+#   13,R
+#    1,R,J
+#   13,R
+#   14,R,U,X
+##
+
+   8,R,D,C
+   1,R
+  14,R,D,X
+   1,L,J
+  10,L,D,X
+   1,R,J
+   7,R
+  21,R,J
+   2,R
+   1,R,J
+   5,R,D,X
+  15,R,C
+   4,R,J
+   1,R,K
+   6,R
+   1,R,K
+   1,R
+  14,R,J
+  15,R,D,X
+  12,R,J
+   5,R,D,X
+  40
+
+#lvl_heart
+  10,R,D,X
+   6,R,J
+   4,R
+   7,R,D,X
+   1,R,J,G
+   5,R
+   2,R,J
+   8,R
+   1,R,J
+  14,R,U,X
+ 135
+
+
+
+ChapterTime: 0:38.437(2261)

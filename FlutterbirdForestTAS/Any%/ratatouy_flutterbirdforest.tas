@@ -1,0 +1,433 @@
+RecordCount: 5850
+
+# blblblblbl gznoutonium power !!!!
+# this map is really fun :)
+# I've never done a TAS so opti (in non-mindash)
+
+console load mikaxelk/TasContestWinter2024/tcw24
+   1
+
+#Start
+  91
+
+#lvl_intro
+  13,L,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   1,R,J
+   6,R,K,G
+   7,R,D,X
+   3,R,J,G
+   5,R,K,G
+   6,R
+   1,S
+   1,X
+  10,J
+   1,R
+   6,R,J
+   5,R
+  14,R,D,X
+
+#lvl_00
+  40
+   2,R
+   5,R,J
+   3,R,K,G
+  12,R,J,G
+   5,R
+   5,R,J
+  15,R,D,X
+  16,R
+   2,R,J
+   1,R
+   7,R,K,G
+   2,R
+  14,R,Z
+   1,R,J,G
+   4,R,K,G
+   4,K
+   1,R,K
+   1,K
+   1,J,G
+   3,R
+   4
+   1,L
+   1,R,J
+   9
+   1,J
+   9,R
+   7,G
+   1
+   5,R,D,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  11,R
+   5,R,J
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+   6,R
+  14,R,U,Z
+   1,L,J,G
+   2,R,J
+
+#lvl_01
+  40
+   1,J
+   3,R,J
+   1,J
+   1,R,J
+   5,J
+  16,R,U,X
+   3,R,J,G
+   1,J
+   1,K
+   2,J,G
+   9,L,J
+  10,R,X
+  12,R,J
+   5,R
+   9,R,J
+  10,R
+  15,R,U,X
+   3
+   1,R
+   1
+   4,R
+   6
+   1,J,G
+   1,R,K,G
+   1,J,G
+   1,R,K,G
+  17,L,K
+   1,J,X
+   9,X
+  10,R
+  11,R,U,Z
+   1,J
+   1,K
+   6,R,K
+   1,L,K
+   7,R,K
+   5,R
+   6,R,J
+  11,R,G
+  10,G
+   1,D,G
+   1,G
+   1,D,G
+   1,G
+# really disapointing multiboost
+   1
+   5,R,Z
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R
+   3,R,K,G
+   7,R
+   5,R,J
+   1
+  12,R
+   9,R,U,Z
+   3,R,J,G
+   1,R
+   8,R,J,G
+   5,R
+  10,R,J
+   8,R
+   5,R,J
+   5,R
+  14,R,U,Z
+   1,R,J,G
+  21,R,D
+
+#lvl_02
+  40
+   8,R,D
+   1,R
+   1,R,D
+  17,R,U,Z
+   1,J
+  15,L,K
+   9,R,X
+   9,R,J
+  27,R,K
+  10,L,U,X
+   3,C
+  14,R
+   7,L,Z
+   1,R,J
+   7,R
+   4,R,J
+  21,R
+  15,R,Z
+   6,R
+# this looks cool af
+  16,D
+   1
+   1,D
+   1,L
+   1,J
+   9
+   5,R
+   1,R,D,J
+   6,R
+   1,R,J
+   1,R
+   1,R,J
+   2,R
+   4
+   6,R,D,J
+   5,L,J
+   1,K,G
+   4,J,G
+   1,R,J
+   8,L,J
+   1,K,G
+   1,R,K
+   1,L,K
+   1,J,G
+   2,R,J
+   1,L,J
+   1,K,G
+   4,J,G
+   1,R,J
+   2,L,J
+   1,R,J
+   5,L,J
+   2,R,J
+   1,L,J
+   1,K,G
+   2,J,G
+   5
+   2,R
+  10,L,Z
+   1,R,J
+   1,L,K,G
+   3,R,K
+  11,R,U,X
+   2,R,J,G
+  12,R,K,G
+   4,R
+
+#lvl_03
+  40
+   3,R,J
+   2,R
+  12,R,K
+  15,U,X
+   1
+   6,C
+  17,L
+  15,U,X
+Repeat, 2
+   4,C
+   9,R
+   7
+  14,U,X
+EndRepeat
+   4,C
+   2,L
+  16,R
+  14,R,U,X
+   1,R,J,G
+   1,L,J
+   1,R,J
+   2,J
+   1,K
+   2,J,G
+  10,L,J
+   2,L
+   1,L,X
+   9,R,X
+  16,R
+# this was so hard to optimize
+  16,R,U,X
+   1
+   5,L,K
+   6,K,C
+  10
+   4,L
+  14,L,U,X
+   1,K
+   2,R,K
+   1,J,X
+   5,X
+   7
+   8,L
+   3
+   1,K
+   3,R,K
+   1,K
+  14,U,X
+  18,R,J
+   1,R,J,X
+   8,R,X
+  16,R,J
+  15,R,D,X
+   3,R
+   9,L,D,X
+   1,R,J
+   5,R
+   1,R,J
+   1,R
+  12,R,J
+   3,R
+   2
+   6,J
+  10
+# you can get infinite wb here but it's slower bc liftboost timer runs out too fast
+# also 9px would've been rly cool but nope, thanks ooo
+# could save another frame but I ain't doing this rounding error nah nah nah
+  16,R,U,Z
+   1
+   2,K,G
+  10,L,K
+   6,L
+   6,L,J
+  14,L
+   1
+   5,J
+   1,K
+   4,J,G
+   5,R,D,X
+   1,R,J,G
+   1,R,K,G
+  10,R,J,G
+   6,R
+   1,R,J
+   1
+   7,R,D,J
+   5,R
+   2,R,J
+   8,R
+  14,R,U,X
+   2,R,J,G
+
+#lvl_04
+  40,J
+   1,R
+# good cb overshoots crystal :'(
+# feel like you can get a little more speed to save a f with good cb, don't know how tho
+   1,K,G
+   1,R
+  12,R,D,X
+  22,C
+   8
+   3,R
+   1
+   6,R
+  15,R,U,X
+  12,R
+   1
+   1,R
+# this part feels rly weird
+  14,C
+  12,R,D
+   1,D
+  13,R,U,Z
+  12,L,J
+   5,L
+   1,L,J
+   1,L
+   1,L,J
+  10,L,J,X
+  23,L
+   5,L,J
+  10,U,X
+  15,L,J
+   1,J
+  28,L,J,X
+  20,R,D,C
+  11,R,J
+  11,R,D,X
+   4,R,J,G
+  24,R
+   1,R,D
+  11,R,X
+   7,R
+   1
+   1,R
+  13,R,X
+  12,R,C
+   3,R,D
+  12,R,J
+   5,R
+   3,R,J
+   1,J
+   1,R
+   2,R,J
+# love this speedchain it's beautiful
+  14,R,Z
+   5,C
+   1,R
+  15,R,D,X
+   7,R,D,J
+   6,R
+   1,R,J
+   6,R
+  20,R,J
+  15,R,D,X
+   2,R,J
+   7,R,U,X
+
+#lvl_heart
+  40
+   7,L
+   1,J,G
+   3
+  15,R,D,X
+   2,R
+   3,R,J
+   8,R,D,X
+   2,R,J,G
+   8,R
+   1,R,J
+   3,R
+   1,R,J
+  14,R,U,X
+ 135
+
+ChapterTime: 0:38.913(2289)
+
+### Improvements :
+
+# first draft : 0:39.882(2346)
+
+## 30-02 september :
+# [00] multiboost change : 0:39.831(2343) (-3f)
+# heart speed chain : 0:39.797(2341) (-2f)
+# [02-03] less retained : 0:39.780(2340) (-1f)
+# [02] roboboost : 0:39.627(2331) (-9f)
+# [03] lots of struggle : 0:39.610(2330) (-1f)
+# [03] change multiboost :0:39.423(2319) (-11f)
+# [intro] less retained : 0:39.406(2318) (-1f)
+# [01] entry : 0:39.389(2317) (-1f)
+# [01] hit melvin sooner : 0:39.372(2316) (-1f)
+# [01] better multiboost : 0:39.355(2315) (-1f)
+# [02] updiag entry : 0:39.287(2311) (-4f)
+# [04] more speed : 0:39.270(2310) (-1f)
+# [04-heart] more speed : 0:39.253(2309) (-1f)
+# [03] vertical section : 0:39.236(2308) (-1f)
+# [04] updiag : 0:39.219(2307) (-1f)
+# [03] vertical section : 0:39.202(2306) (-1f)
+# [03] multiboost : 0:39.049(2297) (-9f)
+# [00] change mb : 0:39.032(2296) (-1f)
+# [03] improve mb : 0:38.998(2294) (-2f)
+# YEEEEEEEEEEEEEEEEEEEEEEEEEEEEEESSSSSS, feels like I'm missing smth big uuuuuuuh
+
+## 14 september :
+# [02] faster crystal : 0:38.964(2292) (-2f)
+# [04] activate melvin earlier : 0:38.947(2291) (-1f)
+# [02] better mb setup : 0:38.930(2290) (-1f)
+# [04] subpx : 0:38.913(2289) (-1f)
+##
+
+### Total : -57f
