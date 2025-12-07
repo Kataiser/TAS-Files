@@ -1,5 +1,5 @@
 # By Kataiser & OliviaPG
-RecordCount: 833
+RecordCount: 942
 
 console load CrossoverCollab/1-Submissions/Flamecrafter113
    1
@@ -289,14 +289,35 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113
    4,Z
    1,R,J
    6,R
-   1,R,J
-  16,R,J
-   2
-   1,R
+  10,R,J
+   9,R
   15,U,X
+  10,R
+   4,Z
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+  11,R,J
+   2,R
+  15,R,U,X
    1,R
+   4
+   1,R
+   1
+   1,R
+   1,L
+   2,L,J
+  14,R,D,X
+   1,R,J
+   8,R,D,X
    1,R,J,G
-  13,R
+   3,R,K,G
+  50,R
+  15,R,D,X
+  21,R,D
+
+
 
 
 
