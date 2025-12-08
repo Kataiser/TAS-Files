@@ -1,5 +1,5 @@
 # By Kataiser & OliviaPG
-RecordCount: 1492
+RecordCount: 1871
 
 console load CrossoverCollab/1-Submissions/Flamecrafter113
    1
@@ -454,9 +454,124 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113
   13,R,U,Z
    1,L,J,G
    8,R,J
-  14,R
+  11,R
+   3
   13,D,X
- 100
+
+#lvl_a-04
+ 109
+   7,L,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+   7,R
+  15,R,D,X
+   9,R
+   1,R,G
+  12,R,J,G
+  13,R,K,G
+   7,R
+   6,R,G
+   1
+   1,J,G
+   1,K,G
+  15,L,D,X
+   1,L,J
+   5,L
+   2,L,K
+   6,L
+   6
+   2,L
+   8,L,U,Z
+   1,R,J,G
+  21,L,J
+   2,L
+  37,L,U,G
+   2,L
+  28,L,J,G
+  15,L,X
+  22,L
+  36,L,G
+   3,J,G
+  21,K,G
+  15,U,X
+   1
+  18,R,J
+   3,K,G
+   1,L,K
+  12,R,J,G
+   7,R
+   1,R,G
+  11,R,J,G
+  19
+  10,R,X
+  10,J
+  10,R,J
+  15,U,X
+   4,J,G
+   3,R,J
+   7,R
+   6,R,Z
+   1,R,J
+  12,R,D
+   1,R,J
+   1,J
+   5
+   2,K
+   1,J
+   5,L,K,G
+  10,L
+   1
+   1,L
+  36,L,U,G
+   1
+   1,L,J,G
+   1,K,G
+   8,R,U,X
+   3
+  15,R
+   1,L,J,G
+  14,R,J
+  18,U,X
+   6,R
+  15,U,X
+  10,L
+  37,L,U,G
+   1
+   1,J
+   2,K,G
+  15,R,K
+   9,R,X
+  11,R
+  15,R,X
+  22,R
+  14,R,X
+  36,R
+   1,J,G
+   1,L,J
+  14,R,K,G
+   1,R,J,G
+   2,R,K,G
+   5,R
+   2,R,K
+   9,R
+  18,R,J
+  15,U,X
+  22,R
+   1,R,J
+   7
+   2
+   1,K
+   4
+   7,R,D,X
+   1,L,J
+   4,L
+   4,L,J
+  15,L,D,X
+   2,L
+  15,L,D,X
+   5,L
+  11,L,D
 
 
 
