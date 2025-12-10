@@ -1,5 +1,5 @@
 # By Kataiser & OliviaPG
-RecordCount: 2542
+RecordCount: 2592
 
 console load CrossoverCollab/1-Submissions/Flamecrafter113
    1
@@ -168,23 +168,25 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113
   15,U,C
    4
   15,U,X
-   4
-  12,L,J,G
-  12,L,K,G
-   1,J,G
+   2
+   2,L
+  10,J,G
    1,R,J
   14,L,K,G
-  15,L,J,G
-  50,L
+   1,J,G
+   1,R,J
+  15,L,K,G
+   1,L,J,G
+  50,L,K,G
   15,L,U,X
-  27,L
+  31,L
+   2
   12,L,J,G
-   9,L,K,G
-   2,L
-  10,L,J,G
+  12,L,K,G
+   4,L,J,G
    7,L
    1,L,K
-   9,K
+  10,K
   15,L,X
   13,D,C
 
@@ -712,4 +714,4 @@ console tas_contest_spawn_heart
   15,R,U,X
   42,R
   98,L,J
-ChapterTime: 1:37.750(5750)
+ChapterTime: 1:37.580(5740)
