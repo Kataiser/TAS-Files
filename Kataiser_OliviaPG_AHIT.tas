@@ -1,12 +1,11 @@
 # By Kataiser & Olivia
-RecordCount: 3447
+RecordCount: 3459
 
 console load CrossoverCollab/1-Submissions/Flamecrafter113
    1
 
 #Start
   98
-
 #lvl_a-intro
    1,L,J
   10,R,D,X
@@ -43,11 +42,12 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113
    1,R
    1,R,K
   14,R,U,X
-  11,J,G
-  21
+   9,J,G
+   2,R,J,G
+  21,R,D
 
 #lvl_a-00
- 117
+ 111
    4,Z
    1,R,J
    5,R
@@ -796,4 +796,4 @@ console tas_contest_spawn_heart
 #   98,L,J
 ## RIGHT ROUTE END
 
-ChapterTime: 1:35.438(5614)
+ChapterTime: 1:35.336(5608)
