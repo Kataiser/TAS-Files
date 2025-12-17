@@ -1,5 +1,5 @@
 # By Kataiser & Olivia
-RecordCount: 5122
+RecordCount: 5126
 
 console load CrossoverCollab/1-Submissions/Flamecrafter113
    1
@@ -20,12 +20,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113
    4,R,J
   14,U,X
    4,L,J
-  11,J
-   9,R,K,G
-   1
-   1,R,K,G
-   1
-   4,R,J,G
+  14,J
+  12,R,K,G
    7,R
    4,R,Z
    1,R,J
@@ -821,4 +817,4 @@ console tas_contest_spawn_heart
 #   98,L,J
 ## RIGHT ROUTE END
 
-ChapterTime: 1:31.494(5382)
+ChapterTime: 1:31.477(5381)
