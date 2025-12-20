@@ -1,5 +1,5 @@
 # By Kataiser & Olivia
-RecordCount: 5555
+RecordCount: 5584
 
 console load CrossoverCollab/1-Submissions/Flamecrafter113
    1
@@ -60,13 +60,15 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113
    4,L,K
    7,R,K
    7,R
-  13,R,Z
+   7,R,Z
    1,R,J
    6,R
+   1,R,J
+  10,R,D,X
    5,R,J
-  14,R,U,X
+  11,R,U,X
    4,R
-  14,R,U,C
+  14,R,U,X
    3,R
    9
   15,U,X
@@ -77,13 +79,11 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113
    5,J
    1,R,J
    1,R
-   1,K,G
+   2,K,G
    2
    1,J,G
-   1
-   3,J,G
+   3,K,G
    7,R
-# 1f faster landing prob possible
    7,R,Z
    1,R,J
    6,R
@@ -815,4 +815,4 @@ console tas_contest_spawn_heart
 #   98,L,J
 ## RIGHT ROUTE END
 
-ChapterTime: 1:30.134(5302)
+ChapterTime: 1:30.117(5301)
