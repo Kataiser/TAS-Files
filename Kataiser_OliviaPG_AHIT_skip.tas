@@ -1,5 +1,5 @@
 # By Kataiser & Olivia
-RecordCount: 5715
+RecordCount: 5791
 
 console wipedebug
 console load CrossoverCollab/1-Submissions/Flamecrafter113
@@ -301,147 +301,43 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113
 
 #lvl_a-02
  101
-  12,R,Z
-   1,L,J
-   1,L
-   3
-   1,J
-   3,L
-  14,L,Z
+   6,L,D,C
    1,R,J
-   6,R,D,X
-   1,R,J,G
-  10,R
-   3,R,J
+   7,R
+   1,R,J
   14,R,U,X
-   1,R
-  15,R,D,X
-   9,R
-  10,R,X
-   6,R
-  11,R,X
-  21,R
-  14,R,U,X
-   1,R
-  13,R,U,X
-   2,R
-  15,R,D,X
-  48,R
-   1,D
-   8,R,D
-  14,R,X
-   2,R,J,G
-  18,R
-   7,R,D,X
    3,R
-  11
-  14,U,X
-  15,J
-  12,U,X
-   2,R,J
-   7,L,J
-  11,L,K,G
-   1
-   5,L,J,G
-   9,L,Z
-   1,L,J
-   6,L
-  23,L,J
-   1,L
-   1,L,J
-  15,L,X
-   1,L,J
-   1,R,J
+  15,R,D,X
+  13,R
+  14,R,X
+   5,R
+  17,R,D,X
    1,R
-   1,L,K,G
-   2,L,J,G
-   5,L
-   4,L,J
-  15,D,X
-   6,L,Z
+   8,R,U,X
+   6,R
+  14,R,D,X
+   7,R
+  15,R,D,X
+  34,R
    1,R,J
-   4,R,K,G
+   9,R,D,X
+ 179
+   1,S
+   1,D,J
+  34,O
+   1
+  40
 
 #lvl_a-03
- 101
-   4,Z
-   1,R,J
-   1,R
-   1
-   1,R,K
-   5
-   1,L,J
-  10,L
-   3,R
-   1,L
-  12,L,Z
-   1,R,J
-   6,R
-   3,R,J
-  14,R,X
-  19,R
-  14,R,U,X
-   1,R,J,G
-   4,L,J
-   6,R,J
-   7,R
-   4,Z
-   3,R,J
-   9,R
-   1,R,G
-  12,J
-   7
-   1,G
-  10,J,G
-   1,K
-   1,R,J,G
-  13,L,U,X
-   8,L,J,G
-  11,L
-   6,L,J
-  17,L,X
-   3,L
-  11
-   3,L,J,G
-   7
-  38,L,U,G
-   1,J,G
-  14,L,K,G
-   5,R,K
-   3,K
-  14,R,U,X
-  21,R
-  15,U,X
-  11,R,J,G
-   1
-   1,R
-   5
-  32,R,G
-   1
-   1,R,J,G
-   1,R,K,G
-  19,L,J
-   2,L
-   3,L,K
-   4,L,J
-   7,L
+  16,R,D
+   9,L,D
+   1,D
+   1,L,D
+  57,D
    1,L,G
-   2,L,J,G
-   1,J
-  20,L,U,G
-   1,J
-   1,K
-   2,J,G
-  23,R,J
-   1,J
-  15,R,U,X
-   9,R
-  22,L
-  15,L,U,X
-   8,L
-   1
-  34,L,G
-   1,L,U,G
+  14
+  19,L,G
+   1,L,D,G
    1
    1,J,G
    1,K,G
@@ -821,4 +717,4 @@ console tas_contest_spawn_heart
 #   98,L,J
 ## RIGHT ROUTE END
 
-ChapterTime: 1:29.964(5292)
+ChapterTime: 1:20.920(4760)
