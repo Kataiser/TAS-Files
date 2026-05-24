@@ -1,0 +1,21 @@
+console load LiterallyMountEverest/LiterallyMountEverest/1-LiterallyMountEverest
+   1
+
+# Start
+ 190
+
+#lvl_everest
+Repeat 4034
+   4,X
+   1,R,J
+  19,R,K,G
+   7,R,K
+  11,R,D
+   1,R
+EndRepeat
+   4,X
+  25,R,J
+  23,R,X
+ 122
+ChapterTime: 45:50.770(161810)
+ 200
