@@ -7,15 +7,13 @@ console load LiterallyMountEverest/LiterallyMountEverest/1-LiterallyMountEverest
 #lvl_everest
 Repeat 2353
    4,X
-   1,R,J,G
-   1,R,K,G
+   2,R,J,G
    1,R,J,G
    1,R,K,G
   16,R,J,G
    5,R,J
    4,R,X
-   1,R,J,G
-   1,R,K,G
+   2,R,J,G
    1,R,J,G
    1,R,K,G
   16,R,J,G
@@ -26,5 +24,5 @@ EndRepeat
    1,R,J
   27,R,U,X
  122
-ChapterTime: 37:09.584(131152)
+ChapterTime: 34:58.463(123439)
  200
