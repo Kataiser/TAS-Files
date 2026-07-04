@@ -1,0 +1,61 @@
+# madelineyou'rewaytoohightobedriving
+# https://gamebanana.com/mods/691618
+# TAS by Kataiser
+
+RecordCount: 93
+
+console load gamesword107/toohightodrive/tohigh
+   1
+
+#Start
+ 190
+***S
+
+#lvl_A-0
+   4,Z
+   5,R,J
+   6,R,K,G
+   9,R,J,G
+  15,R,D,X
+   4,R,D
+  10,R,J
+  14,R,U,X
+ 370
+   4
+
+#lvl_A-2
+***
+  72
+***
+   4,R,Z
+  11,R,J
+  11,R,U,X
+   1,R,J,G
+   1,L
+   6,R
+   1,R,N
+   2,R,J
+   1,R
+  13,R,Z
+   1,R,J
+   2
+   5,R
+   3,R,J
+  10,R,K,G
+   9,R
+  15,R,U,V
+  15,U,X
+  10
+  20,J
+
+
+
+
+
+
+
+
+
+
+
+1000
