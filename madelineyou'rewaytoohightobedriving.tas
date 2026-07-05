@@ -2,14 +2,13 @@
 # https://gamebanana.com/mods/691618
 # TAS by Kataiser
 
-RecordCount: 93
+RecordCount: 719
 
 console load gamesword107/toohightodrive/tohigh
    1
 
 #Start
  190
-***S
 
 #lvl_A-0
    4,Z
@@ -24,9 +23,7 @@ console load gamesword107/toohightodrive/tohigh
    4
 
 #lvl_A-2
-***
   72
-***
    4,R,Z
   11,R,J
   11,R,U,X
@@ -42,13 +39,187 @@ console load gamesword107/toohightodrive/tohigh
    5,R
    3,R,J
   10,R,K,G
-   9,R
+   7,R
+   1,R,K
+   1,R
   15,R,U,V
   15,U,X
+  22
+   3,L
+  10,R,X
+   1,L,J
+  21,J
+  15,L,U,X
+   1,L
+  40
+  15,R,U,X
+  17,R,U,C
+   1,R,J,G
+  14,R,Z
+   5,R,J
+  15,R,D,X
+  24,R,J
+  15,R,U,X
+   1,R
+  15,U,C
+  41
+   3,R
+  15,U,X
+   1,R
+  15,U,C
+   9,R
+   3
+   1,R
+   9,L,Z
+   1,R,J
+   1,J
+   9,R
+   2,R,D,J
+  13,J
+  15,D,X
+  12
+  21,J
+  15,U,X
+  15,U,C
+ 287
+   4
+
+#lvl_A-3
+   5
+   4,L
+   1
+   1,L
+  10,R,D,X
+   8,R,J
+  15,U,X
+   4,R
+  15,U,C
+   3,R
+   1
+   1,J,G
+   3,R,J
+   1,R,K,G
+   2,R,J,G
+   5,R
+   1
+   1,R
+   1,N
+   1,R,J
+   2,R
+   7,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   3,R
+   1,R,K,G
+  13,R
+  20,R,J
+  15,R,U,Z
+  11,U,C
+  41
+   8,R
+  15,U,X
+  18,R,C
+  14,R,D,X
+   3,R,J
+  15,R,D,X
+   2,R
+  21,R,J
+  15,R,U,X
+   1,R
+  15,R,U,C
+   1,R
+  41
+   9,L
+  15,U,X
+  18,L,C
+  14,L,Z
+   4,L,J
+  15,L,D,X
+  24,L,J
+  15,L,U,X
+  14,L,U,C
+  41
+   3,R
+  14,U,X
+  19,R,J
+  15,R,U,X
+   9,R
+   4,R,Z
+  20,R,J
+   1,R
+  14,R,X
+  11,R,J
+  15,R,U,X
+  18,R,U,C
+  15,U,X
+  15,U,C
   10
+   1,J
+  15,U,X
+  11,U,C
+ 339
+   4
+
+#lvl_A-4
+   9,L
+   2,L,J,G
+   4,R,Z
+   1,R,J
+   7
+   1,N
+   3,L,J
+  14,U,X
+   1,J
+   5,R,Z
+   1,R,J
+  12,R,K,G
+  41
+  10,R
+  15,U,X
+   2,R
+  18,R,U,C
+  15,U,X
+   2,R
+  15,R,C
+  24,D
+  48
+  15,U,X
+   1
+  15,U,C
+  11,R
+  21
+  15,J
+   6,R,J
+  15,U,X
+   1,R
+  18,R,X
+  14,R,D,C
+   1,R,J
+  15,R,D,X
+   1,R
+  25,R,J
+  15,R,U,X
+   1,R
+  15,U,C
+   1,R
+  41
+   9,L
+  15,U,X
+   3
+  15,L,U,C
+   1
+  41
+   4,L
+  15,U,X
+  15,L,U,C
+  30
   20,J
+  15,U,X
+  14,U,C
+ 315
 
-
+#lvl_A-5
 
 
 
