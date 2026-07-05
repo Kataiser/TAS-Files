@@ -2,7 +2,7 @@
 # https://gamebanana.com/mods/691618
 # TAS by Kataiser
 
-RecordCount: 719
+RecordCount: 1285
 
 console load gamesword107/toohightodrive/tohigh
    1
@@ -218,8 +218,166 @@ console load gamesword107/toohightodrive/tohigh
   15,U,X
   14,U,C
  315
+   4
 
 #lvl_A-5
+  11,L
+   5,L,X
+   1,L,J
+   1,J
+   8
+   1,N
+   1,R,J
+   2
+   6,R,D,X
+   1,R,J
+  12,R
+   2,R,J
+   4,R,K,G
+   2,R
+   5,R,D,X
+   1,R,J,G
+  11,R
+  22,R,J
+  14,R,U,X
+   9,R,J,G
+  14,R,Z
+   1,R,J
+  15,R,D,X
+   2,R
+  19,R,J
+   1,R
+  15,R,U,X
+  14,R,U,C
+  47
+  15,U,X
+  15,U,C
+  10
+   1,J
+  18
+   3,L
+  20,L,J
+  15,L,U,X
+   1,L
+  15,L,U,C
+  26,L
+   9
+  19,J
+  15,U,X
+  18,U,C
+  14,L,Z
+   2,L,J
+  15,L,D,X
+   1,L
+  28,L,J
+  15,L,U,X
+  18,U,C
+   1,R
+  15,U,X
+   1,R
+  15,R,U,C
+  14,R
+  17
+   8,J
+  15,U,X
+  14,U,C
+ 276
+   4
+
+#lvl_A-6
+  11,L
+  15,L,D,X
+   1,N
+   1,J
+   2
+  10,L,D,X
+  10,R,J
+  15,R,U,X
+  14,R,U,C
+  41
+  12,R
+  15,U,X
+  15,R,U,C
+  10,R
+  41
+   6,R
+  15,U,X
+  14,R,Z
+   1,R,J
+  15,R,D,X
+   4,R,D
+  25,R,J
+  15,R,U,X
+   1,R
+  15,U,C
+   2,R
+  47
+  15,U,X
+  15,U,C
+  32
+   1,J
+  16,L,J
+  15,L,U,X
+  15,U,C
+  32
+  15,J
+  15,U,X
+  14,U,C
+ 272
+   4
+
+#lvl_A-7
+   1
+   5,J
+   6
+   1,L
+   1,N
+   1,R,J
+   2,R
+  13,R,X
+   4,J
+   3,R,J
+  15,U,X
+   4
+  18,R,J
+  15,U,X
+   4
+  22,R,J
+  49
+  15,U,Z
+   2
+  10,R,J
+  10,J
+  15,U,X
+   2
+  20,J
+  41
+   5,R
+  15,U,X
+  14,R,Z
+   2,R,J
+  15,R,D,X
+   4,R
+  18,R,J
+   1,R
+  15,R,U,X
+   2,R
+  15,R,U,C
+   6,R
+  15,U,X
+  15,R,C
+  29,D
+  22,R,D
+  15,R,X
+  15,D,C
+   7,L,D
+  19,L
+ 346
+   4
+
+#lvl_A-8
+  11,R
+
 
 
 
