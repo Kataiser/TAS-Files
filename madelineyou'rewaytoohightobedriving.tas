@@ -2,7 +2,7 @@
 # https://gamebanana.com/mods/691618
 # TAS by Kataiser
 
-RecordCount: 1285
+RecordCount: 1398
 
 console load gamesword107/toohightodrive/tohigh
    1
@@ -376,7 +376,62 @@ console load gamesword107/toohightodrive/tohigh
    4
 
 #lvl_A-8
-  11,R
+  11,L
+   6,L,D,X
+   1,R,J
+   7
+   1,N
+   1,J
+   2
+   5,R,Z
+   1,R,J
+   6,R
+   9,R,J
+   8,R
+   6,R,K
+  15,R,U,X
+  14,R,U,Z
+  47
+  15,U,X
+  15,L,U,C
+  31
+  12,J
+   9,R,J
+  15,U,X
+   1,R
+  18,R,U,X
+   1,R
+  14,U,X
+  17,R,J
+  14,U,X
+  17,J
+  42
+  14,R,Z
+   1,R,J
+   1,R
+  15,R,D,X
+   3,R,D
+  26,R,J
+  15,R,U,X
+  15,U,C
+   1,R
+  41
+   3,R
+  15,U,X
+  14,R,Z
+   2,R,J
+  15,R,D,X
+   4,R
+  30,R,J
+  15,R,U,X
+  11,R,C
+  41
+   7,L
+  15,U,X
+  15,L,U,C
+  31
+ 100,L,J
+
 
 
 
