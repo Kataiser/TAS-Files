@@ -1,7 +1,7 @@
 # By Kataiser
 # https://gamebanana.com/mods/692094
 
-RecordCount: 2099
+RecordCount: 2121
 
 console load Crylone/farshore/farshore
    1
@@ -312,7 +312,11 @@ console load Crylone/farshore/farshore
    1,R,J,G
    1,L,J
   11,R,J
- 117
+Repeat, 58
+   1,L
+   1,R
+EndRepeat
+   1
    2,L,J
    5,L
   18,D
@@ -384,25 +388,16 @@ console load Crylone/farshore/farshore
    1,R,J
    1,L,K,G
   20,R,D
-   1,R,J
-   6,R,D,X
+   6,R,Z
    1,R,J
    7,R
    1,R,J
-***
-  14,R,D,X
+  10,R,D,X
+  40
 
+#lvl_N-final
+   1,R,D,X
+   1,S
+  20,D,O
 
-
-
-
-
-
-
-
-
-
-
-
-
-1000
+ChapterTime: 0:46.580(2740)
