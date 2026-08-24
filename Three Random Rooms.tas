@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 698
+RecordCount: 768
 
 console load Cory/lowscopes/lowscope
    1
@@ -145,16 +145,18 @@ console load Cory/lowscopes/lowscope
    6,L,K
    8,L
    1,R
-   7
+   2,L
+   1
    1,L
-   1,J,G
-  10,L,J
-   6,L
-  30,L,K
-   8,U,X
-  77,L
+   3,R
+   9,L,J,G
+   5,L
+   9,L,K
+  22,L
+   9,U,X
+  76,L
   24,L,X
   15,R,J
  107,J
 
-ChapterTime: 0:20.927(1231)
+ChapterTime: 0:20.876(1228)
