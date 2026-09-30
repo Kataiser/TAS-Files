@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 3132
+RecordCount: 3277
 
 console load BadTie/Deltarune/3-tvworld
    1
@@ -488,38 +488,32 @@ console load BadTie/Deltarune/3-tvworld
   26,L
    8,L,J
   36,L,D
-   8,R,D
-   1,L,D
-   1,D
+  11,R,D
    1,L,D
   10,R,X
   41,L
   15,U,X
-  16,L
-   4,L,Z
+  10,L
+   6,L,Z
    1,L,J
-   3,L
-   3,L,K
+   6,L
   40
 
 #lvl_c-05
-   1,L,K
    1,L
-   1,L,J
-   1,L
+   2,L,J
   15,L,D,X
-   7,L,D
+   8,L,D
    1,L,J
-   1,J
-   3,L,J
-  14,L,U,X
+   1,L
+  15,L,U,X
+   4,L
   17,R
   15,R,D,X
   15,D,C
-  14,R,D
-   1,J
-   7,L,K
-  15,L,K
+  12,R,D
+  10,L,J
+  12,L
   15,R,D,X
   14,L,D,C
    1,J
@@ -566,7 +560,6 @@ console load BadTie/Deltarune/3-tvworld
   15,L,D,X
    2,D
    7,R
-
   55,D
    2,R,D
    5,R
@@ -742,4 +735,4 @@ console load BadTie/Deltarune/3-tvworld
   14,R,U,X
  135,R,D
 
-ChapterTime: 1:38.039(5767)
+ChapterTime: 1:37.971(5763)
