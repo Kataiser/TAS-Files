@@ -1,5 +1,5 @@
 # By Kataiser
-RecordCount: 549
+RecordCount: 592
 
 console load jieli/nya/jieli
    1
@@ -138,19 +138,43 @@ console load jieli/nya/jieli
   40
 
 #lvl_HikariShiho
+***S
    1,R,J
    1
    1,R
    2
   11,R,D,X
    1,L
-   6,J,G
+***
+   5,J,G
+   1,J
   15,R,U,X
   15,U,C
-  10,L,Z
-   5,R,J
-  13,R,U,X
- 100,J
+***
+
+#   10,L,Z
+#    1,R,J
+#    4,R
+#   13,R,U,X
+#    1,J
+#  100,D
+
+  10,L,X
+   1,R,J
+   4,J
+  15,R,X
+  20,L,D
+  13,D
+***
+  35,R,D
+   1
+***
+   6,R
+   6,R,J,G
+ 100,R
+
+
+#0:19.652(1156)
 
 
 
