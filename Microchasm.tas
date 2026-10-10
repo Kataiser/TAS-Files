@@ -1,9 +1,12 @@
 # By Kataiser
-RecordCount: 254
+RecordCount: 740
 console load ibananas/Microchasm/Microchasm
 
 #Start
  111
+
+# Spinner cycle
+   2
 
 #lvl_0
    1,S
@@ -16,90 +19,129 @@ console load ibananas/Microchasm/Microchasm
   40
 
 #lvl_I
-***S
-  11,R
+   7,R
    1,R,J,G
    1
    1,S
   35,D,O
-   2,R,J,G
+   6,R,J,G
    1
    5,R,Z
    1,R,J
    1
    5,R
    3,R,J
-
-
-***
    7,R,U,X
    3,R,J,G
-***
    8,R
    1,J
    4,R,J
-***
    9,R,U,X
-  40
-***
-   6,R,U,X
-   1,J
-***
-   3,L,K,G
-   5,R,K
-  15,U,X
-***
-   5,L
-  11,J
-   1
-***
-  10,R
-  15,U,X
-
-
-
-
-   6,R,U,X
-   3,R,J,G
-   1,J
-   8,R
-   1,R,J
-   5,R
-   1,R,K
-   1,R
   40
 
 #lvl_II
-   3,R
-   1,R,K
-   9,R,D
-  10,R,J
+   6,R,U,X
+   1,J
+   3,L,K,G
+   5,R,K
+  15,U,X
+   5,L
+  11,J
+   3
+   8,R
+   9,L,J
+   5,J
+  18,U,X
+  15,R,C
+  17,R,U,X
+   6,J,G
+   9,R,J
+  18,R,U,Z
+   7,R
+   5,U,X
+  13,R,J
+  28,R,D
+  15,R,U,X
+   4,R,J
+   7,R,Z
+   1,R,J
+   6,R
+   4
+  14,R,D,X
+   8,R,J
+   3,R,K,G
    5,R
-  10,R,K
-  15,R,Z
-   3,R
+  18,R,D,X
+   1,R,D
+  12,R,C
+  19,R,J,G
+  12,R,D,X
+   1,L
+   3,J,G
+  18,R,X
+  25,R,C
+   4,R,J
+   1,R,K
   14,R,D,X
    1,R,J
-  15,R,D,X
-   1,R,D
-   7,R,J
-  11,R
-   9,R,J,G
-  19,U,X
-  10,L,Z
-   5,R,J
-  14,R,D,C
-   6,R,J
-  10,R
-  26,R,U,Z
-   3,R
-   1,R,J
-  12,R,U,Z
-   1,R,J,G
-  16,R,D
-   4,D
   10,R,D,X
- 100,R,J
+   1,R,J
+  40
+
+#lvl_III
+#    6,R,J
+#    1,R
+#   15,R,D,X
+#    4,R
+#   18,R,D,J
+#   11,R,D
+#   11,R,J
+#    5,R
+#   14,R,K
+#    4,J
+
+   6,R,J
+   1,R
+StunPause,Simulate
+SkipInput,3,1
+  15,R,D,X
+   4,R
+  18,R,D,J
+   6,J
+SkipInput,3,1
+  16,L,U,X
+   1,L,J
+SkipInput,3
+   3,L,J
+   1,J
+   1,L,K
+  10,K
+SkipInput,3,1
+  10,U,X
+EndStunPause
+   5,U,X
+   3
+  40
+
+#lvl_IV
+   2
+  72,O
+   2,L
+  18,L,J
+  13,R,U,X
+   4,R,J
+   3,R,K
+  13,R,X
+   2,R,J,G
+   6,R
+   1,R,K
+   8,R,J,G
+   5,R
+  20,R,K
+   7,R,D
+   9,R,J
+  15,R,U,Z
+  14,R
 
 
 
