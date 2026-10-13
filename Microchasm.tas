@@ -1,31 +1,37 @@
 # By Kataiser
-RecordCount: 1871
+RecordCount: 2231
 console load ibananas/Microchasm/Microchasm
 
 #Start
  111
 
 # Spinner cycle
-   0
+   1
 
 #lvl_0
    1,S
   35,D,O
   10,R,X
-   6,R,J
-  11,U,X
-  17,R,J
+   5,R,J
+   1,J
+   1,R,J
+   1,J
   14,U,X
+   3,L,J
+   1,L,K,G
+   4,L,J,G
+   4,L,K,G
+  15,U,X
   40
 
 #lvl_I
-   7,R
-   1,R,J,G
    1
+   6,R,J
    1,S
-  35,D,O
-   6,R,J,G
-   1
+   1,D,J
+  34,J
+   3,R,J
+   1,R
    5,R,Z
    1,R,J
    1
@@ -41,11 +47,12 @@ console load ibananas/Microchasm/Microchasm
 
 #lvl_II
    6,R,U,X
-   1,J
-   3,L,K,G
-   5,R,K
+   1,L,J,G
+   3,R,J
+   6,J
+   2
   15,U,X
-   5,L
+   1,L
   11,J
    3
    8,R
@@ -76,52 +83,46 @@ console load ibananas/Microchasm/Microchasm
   18,R,D,X
    1,R
   12,R,C
-  18,R,J,G
-  12,R,D,X
-   1,L
-   3,J,G
-  18,R,X
-  24,R,C
+  19,R,J,G
+  15,R,X
+  18,R,C
+  27,R,Z
    4,R,J
    1,R,K
-  14,R,D,X
-   1,R,J
-  10,R,D,X
-   1,R,J
+  15,R,D,X
+   7,R,J
+   2,J
   40
 
 #lvl_III
-   6,R,J
-   1,R
   15,R,D,X
-   4,R
-  18,R,D,J
-  11,R,D
-StunPause
+   7,R
    1,R,J
-   1,J
-   6,R,J
-   6,R
-   2,R,K
-   5,R
-   1,R,K,G
-   1,K
-   2,R,K
-   4,R
-   5,K
-   1,R,K
-SkipInput,3,1
-  15,U,Z
+  13,R,D,X
+   6,R,J,G
+   7,R
+   1,R,D,J
+   2,J
+StunPause
+   6,R,D,J
+   2,R
+   1
+   1,R
+   1
+SkipInput 3 1
+  15,U,X
+   1
+   4,L
 EndStunPause
-   5,L
+   1,L
    1,R,J,G
-Repeat, 6
+Repeat, 4
    1,L,J
    1,J
 EndRepeat
-   2,L,J
+   3,L,J
    1,R,J
-  10,K,G
+  13,K,G
   40
 
 #lvl_IV
@@ -277,4 +278,4 @@ EndRepeat
   10,R,U,X
   88,L
 
-ChapterTime: 0:36.057(2121)
+ChapterTime: 0:33.677(1981)
